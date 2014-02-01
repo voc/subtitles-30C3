@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "" > last_log
+./get_subtitle_files_from_amara >> last_log
+./fix_files >> last_log
+./upload_subtitles >> last_log 2>>last_log

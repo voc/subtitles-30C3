@@ -1,0 +1,17 @@
+#!/bin/bash
+
+upload="curl --key /home/andi/.ssh/id_rsa_media --pubkey /home/andi/.ssh/id_rsa_media.pub -T"
+
+for file in $(ls *.srt); do
+	talk=${file:0: -7}
+	ext=${file: -7}
+	echo
+	echo
+	echo $file
+	echo
+	$upload $file sftp://voc@koeln.media.ccc.de:/ftp/congress/2013/mp4-hd/subtitles/${talk}_h264-hd$ext 
+	$upload $file sftp://voc@koeln.media.ccc.de:/ftp/congress/2013/mp4/subtitles/${talk}_h264-hq$ext 
+	$upload $file sftp://voc@koeln.media.ccc.de:/ftp/congress/2013/mp4-lq/subtitles/${talk}_h264-iprod$ext 
+	$upload $file sftp://voc@koeln.media.ccc.de:/ftp/congress/2013/webm/subtitles/${talk}_webm$ext 
+done
+
