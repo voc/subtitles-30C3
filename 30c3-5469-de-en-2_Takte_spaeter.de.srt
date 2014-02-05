@@ -72,7 +72,7 @@ Der ist eine ganze Stunde lang, da erklären wir halt auch das ganze Warum wir d
 
 19
 00:01:28,001 --> 00:01:30,168
-Der Vortrag hieß *Der Mord fällt aus.*
+Der Vortrag hieß <i>Der Mord fällt aus.</i>
 
 20
 00:01:30,168 --> 00:01:34,884

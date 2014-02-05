@@ -1,6 +1,6 @@
 1
 00:00:10,571 --> 00:00:14,409
-*Intro Video*
+<i>Intro Video</i>
 
 2
 00:03:33,541 --> 00:03:37,108
@@ -36,7 +36,7 @@ Thank you for coming to the 30th Chaos Communication Congress.
 
 10
 00:04:13,404 --> 00:04:19,045
-*applause*
+<i>applause</i>
 
 11
 00:04:25,815 --> 00:04:30,731
@@ -60,7 +60,7 @@ a huge movement of people whose advise is still mostly ignored.
 
 16
 00:04:48,410 --> 00:04:52,991
-*laughter and applause*
+<i>laughter and applause</i>
 
 17
 00:04:57,623 --> 00:05:01,389
@@ -297,7 +297,7 @@ I hereby declare you being genuine and authorized popes.
 
 75
 00:10:47,250 --> 00:10:51,450
-*laughter and applause*
+<i>laughter and applause</i>
 
 76
 00:10:51,450 --> 00:11:00,812
@@ -317,4 +317,4 @@ and for wanting to be a part of the solution.
 
 80
 00:11:17,309 --> 00:11:22,582
-*applause*
+<i>applause</i>
