@@ -1,10 +1,22 @@
 #!/bin/bash
 
-cd /home/texec/srt_files
+cd /home/andi/srt_files
 
-echo "" > last_log
+echo "" >> last_log
+echo "Updating data.json:" >> last_log
+php ../subtitles-wiki/export.php >> last_log
+echo >> last_log
+echo >> last_log
+echo "Downloading srt files:" >> last_log
 ./get_subtitle_files_from_amara >> last_log 2>>last_log
 ./fix_files >> last_log
+echo >> last_log
+echo >> last_log
+echo "Upload srt files to media.ccc.de:" >> last_log
 ./upload_subtitles >> last_log 2>>last_log
-git add *.srt >> last_log 2>>last_log
-git commit -m "update from amara" >> last_log 2>>last_log
+echo >> last_log
+echo >> last_log
+echo "commit and push changes to git repo:" >> last_log
+git add *.srt >> last_log
+git commit -m "update from amara" >> last_log
+GIT_SSH=./github_ssh git push >> last_log
