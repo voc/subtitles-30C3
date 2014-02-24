@@ -104,7 +104,7 @@ Der wichtige Punkt ist - wenn ihr das zu Hause nachbauen wollt in eurem Hackersp
 
 27
 00:02:31,008 --> 00:02:38,190
-<i>Lachen</i>
+*Lachen*
 
 28
 00:02:38,190 --> 00:02:40,199
@@ -156,7 +156,7 @@ Und zwar: Für die Telekommunisten haben wir hier Diani Barreto und Jeff Mann.
 
 40
 00:03:39,364 --> 00:03:47,521
-<i>Applaus</i>
+*Applaus*
 
 41
 00:03:50,771 --> 00:03:52,653
@@ -172,7 +172,7 @@ It has been a very crazy year and it all started at Haus der Kulturen der Welt w
 
 44
 00:04:06,643 --> 00:04:18,185
-...and it was one kilometer of tubing that you just saw and I came in last night and I was hearing this <i>wrrrr-srrrr</i>... I was so happy with it, a wonderful flashback.
+...and it was one kilometer of tubing that you just saw and I came in last night and I was hearing this *wrrrr-srrrr*... I was so happy with it, a wonderful flashback.
 
 45
 00:04:18,185 --> 00:04:27,791
@@ -228,7 +228,7 @@ to create the wonderful terminals and the technology involved.
 
 58
 00:05:34,991 --> 00:05:46,154
-I'd like to thank our octo brosis who are our debugging crew... <i>Applause</i>
+I'd like to thank our octo brosis who are our debugging crew... *Applause*
 
 59
 00:05:46,479 --> 00:05:53,586
@@ -252,7 +252,7 @@ Thank you very much. Enjoy!
 
 64
 00:06:13,341 --> 00:06:18,330
-<i>Applause</i>
+*Applause*
 
 65
 00:06:18,761 --> 00:06:20,639
@@ -264,11 +264,11 @@ Just so you can go back a little bit - almost a year ago today. Thanks.
 
 67
 00:06:24,773 --> 00:06:28,773
-<i>Video</i>
+*Video*
 
 68
 00:07:11,188 --> 00:07:18,141
-<i>Applause</i>
+*Applause*
 
 69
 00:07:18,160 --> 00:07:30,295
@@ -576,7 +576,7 @@ Jonas came up with this great video which we have seen. I'll just jump over that
 
 145
 00:17:35,098 --> 00:17:36,307
-<i>Laughter</i>
+*Laughter*
 
 146
 00:17:37,392 --> 00:17:42,456
@@ -592,7 +592,7 @@ We demonstrated that... it went over very well.
 
 149
 00:17:57,866 --> 00:18:03,685
-We were able to... we discovered we could send cans of beer! <i>Applause</i>
+We were able to... we discovered we could send cans of beer! *Applause*
 
 150
 00:18:03,685 --> 00:18:09,890
@@ -708,7 +708,7 @@ Thanks.
 
 178
 00:21:16,018 --> 00:21:24,411
-<i>Applause</i>
+*Applause*
 
 179
 00:21:30,422 --> 00:21:37,595
@@ -720,7 +720,7 @@ Und deswegen haben sich die Telekommunisten entschieden, das Werk Open Source zu
 
 181
 00:21:44,795 --> 00:21:49,469
-<i>Applause</i>
+*Applause*
 
 182
 00:21:50,209 --> 00:21:58,270
@@ -748,7 +748,7 @@ Und Seidenstraße, wie ihr sie heute seht, ist die Version 2.0 Beta.
 
 188
 00:22:36,355 --> 00:22:43,664
-<i>Applaus</i>
+*Applaus*
 
 189
 00:22:44,147 --> 00:22:49,361
@@ -808,7 +808,7 @@ und dazwischen muss man manuell rübertragen.
 
 203
 00:23:57,546 --> 00:23:59,281
-<i>Lachen</i>
+*Lachen*
 
 204
 00:23:59,281 --> 00:24:02,247
@@ -824,7 +824,7 @@ Da sind wir jetzt so ungefähr.
 
 207
 00:24:11,100 --> 00:24:16,890
-<i>Applaus</i>
+*Applaus*
 
 208
 00:24:17,783 --> 00:24:22,516
@@ -872,7 +872,7 @@ Andere werden populärer sein, weil sie populäre Dienste anbieten zum Beispiel.
 
 219
 00:25:11,992 --> 00:25:16,320
-<i>Lachen</i>
+*Lachen*
 
 220
 00:25:17,705 --> 00:25:22,930
@@ -888,7 +888,7 @@ Der Andere ist, wir haben In-Band-Signaling, wenn man nämlich in dieses Rohr re
 
 223
 00:25:31,098 --> 00:25:41,409
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 224
 00:25:40,440 --> 00:25:44,440
@@ -924,11 +924,11 @@ weil man die steckengebliebenen Kapseln auch wiederfindet.
 
 232
 00:26:24,623 --> 00:26:27,809
-In den Anschluss rein, bisschen nach vorne schieben und... <i>Surrrr</i>
+In den Anschluss rein, bisschen nach vorne schieben und... *Surrrr*
 
 233
 00:26:27,809 --> 00:26:49,541
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 234
 00:26:49,541 --> 00:26:58,470
@@ -940,7 +940,7 @@ Könnt ihr mal das Licht ausmachen? Danke.
 
 236
 00:27:08,112 --> 00:27:23,538
-<i>Surrr</i> ... <i>Lachen und Applaus</i>
+*Surrr* ... *Lachen und Applaus*
 
 237
 00:27:33,225 --> 00:27:36,920
@@ -960,7 +960,7 @@ Also muss man ab und zu ein bisschen dagegentreten, aber…
 
 241
 00:27:47,012 --> 00:27:49,014
-<i>Lachen</i>
+*Lachen*
 
 242
 00:27:50,576 --> 00:27:53,052
@@ -980,7 +980,7 @@ das... noch auf der Todo-Liste steht.
 
 246
 00:28:07,661 --> 00:28:09,527
-<i>Lachen</i>
+*Lachen*
 
 247
 00:28:09,739 --> 00:28:13,635
@@ -1020,7 +1020,7 @@ Der Grund, warum es Doppelpunkte sind, ist übrigens IPv6.
 
 256
 00:28:51,300 --> 00:28:55,580
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 257
 00:28:55,580 --> 00:28:58,460
@@ -1028,7 +1028,7 @@ Frank: Ihr seht schon, wir haben da eine bisschen größere Skalierung so im Kop
 
 258
 00:28:58,460 --> 00:29:00,180
-<i>Lachen</i>
+*Lachen*
 
 259
 00:29:00,180 --> 00:29:07,459
@@ -1076,12 +1076,12 @@ Die dritte Möglichkeit ist:
 
 270
 00:29:52,820 --> 00:30:06,200
-Den nächsten Switching Node anzurufen - wir haben da ja jede Menge Möglichkeiten: DECT, VoIP oder... <i>Pause</i>
+Den nächsten Switching Node anzurufen - wir haben da ja jede Menge Möglichkeiten: DECT, VoIP oder... *Pause*
 Frank: ...oder eben besagtes In-Band-Signaling.
 
 271
 00:30:06,200 --> 00:30:22,860
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 272
 00:30:22,860 --> 00:30:27,630
@@ -1089,7 +1089,7 @@ Frank: ...oder eben besagtes In-Band-Signaling.
 
 273
 00:30:27,630 --> 00:30:30,093
-<i>Lachen</i>
+*Lachen*
 
 274
 00:30:33,662 --> 00:30:39,620
@@ -1193,7 +1193,7 @@ vom Rang geht es dann runter und wir haben da extra eine Kernbohrung dafür erwe
 
 299
 00:32:48,780 --> 00:32:55,340
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 300
 00:32:55,340 --> 00:32:58,780
@@ -1201,7 +1201,7 @@ Frank: Also ihr seht schon, so Infrastuktur muss man auch richtig betreiben
 
 301
 00:32:58,780 --> 00:33:04,100
-und da lassen wir uns auch nicht von Betonwänden aufhalten! <i>Lachen</i>
+und da lassen wir uns auch nicht von Betonwänden aufhalten! *Lachen*
 
 302
 00:33:04,100 --> 00:33:09,220
@@ -1213,7 +1213,7 @@ dass wenn man eine Kapsel findet, dass dann auf dem Boden
 
 304
 00:33:14,180 --> 00:33:17,260
-- das müssen wir auch noch machen - <i>Lachen</i>
+- das müssen wir auch noch machen - *Lachen*
 
 305
 00:33:17,260 --> 00:33:22,260
@@ -1225,7 +1225,7 @@ Und dann sendet man die Kapsel einfach von dort aus weiter.
 
 307
 00:33:28,000 --> 00:33:34,220
-[Slide: man in the middle attack] <i>Lachen</i>
+[Slide: man in the middle attack] *Lachen*
 
 308
 00:33:41,740 --> 00:33:47,980
@@ -1249,15 +1249,15 @@ Ob jemand da mit einer Säge zugange ist, das macht nämlich ein mordsmäßiges 
 
 313
 00:34:11,140 --> 00:34:12,740
-<i>Lachen</i>
+*Lachen*
 
 314
 00:34:12,740 --> 00:34:17,007
-Also wenn jemand an der Leitung sägt, dann hört man das. <i>Lachen</i>
+Also wenn jemand an der Leitung sägt, dann hört man das. *Lachen*
 
 315
 00:34:17,007 --> 00:34:25,200
-Dummerweise kam uns jetzt gerade zu Ohren, dass es auch noch fortgeschrittene Attacken gibt - mit heißen Drähten... <i>Lachen</i>
+Dummerweise kam uns jetzt gerade zu Ohren, dass es auch noch fortgeschrittene Attacken gibt - mit heißen Drähten... *Lachen*
 
 316
 00:34:25,200 --> 00:34:33,500
@@ -1293,7 +1293,7 @@ Wir haben hier auch noch einen weiteren Attackvector, nämlich Denial of Service
 
 324
 00:35:02,286 --> 00:35:04,972
-<i>Lachen</i>
+*Lachen*
 
 325
 00:35:04,972 --> 00:35:12,360
@@ -1301,7 +1301,7 @@ Das funktioniert natürlich grundsätzlich, wenn man ans andere Rohrende pustet 
 
 326
 00:35:14,660 --> 00:35:21,620
-Frank: Also wir befinden uns hier gerade im Status, wo wir so ein "We are all friends here"-Network betreiben. <i>Lachen</i>
+Frank: Also wir befinden uns hier gerade im Status, wo wir so ein "We are all friends here"-Network betreiben. *Lachen*
 
 327
 00:35:21,620 --> 00:35:24,620
@@ -1313,7 +1313,7 @@ So ähnlich wie SS7 bei den Telcos, ihr kennt das ja.
 
 329
 00:35:32,500 --> 00:35:40,980
-<i>Lachen und Applaus</i>
+*Lachen und Applaus*
 
 330
 00:35:40,980 --> 00:35:45,180
@@ -1325,7 +1325,7 @@ weil: die 100 GBit-Leitung, die wir hier stehen haben, braucht 80 Sekunden für 
 
 332
 00:35:55,200 --> 00:35:59,260
-Da sind wir schneller, und zwar über alle Strecken. <i>Lachen</i>
+Da sind wir schneller, und zwar über alle Strecken. *Lachen*
 
 333
 00:35:59,260 --> 00:36:01,300
@@ -1333,7 +1333,7 @@ Frank: Also allen Strecken, die wir verlegt haben.
 
 334
 00:36:01,300 --> 00:36:02,720
-<i>Lachen</i>
+*Lachen*
 
 335
 00:36:06,780 --> 00:36:10,540
@@ -1405,7 +1405,7 @@ Es gab aber auch schon Tests mit einem Laubbläser, der schafft 1 kg.
 
 352
 00:37:19,190 --> 00:37:20,460
-<i>Lachen</i>
+*Lachen*
 
 353
 00:37:20,460 --> 00:37:23,260
@@ -1437,7 +1437,7 @@ Ihr habt gesehen warum: Zum Einen, es sieht einfach viel cooler aus,
 
 360
 00:37:49,220 --> 00:37:51,140
-<i>Lachen</i>
+*Lachen*
 
 361
 00:37:51,140 --> 00:37:52,780
@@ -1469,7 +1469,7 @@ Oder irgendwas, was dazu führt, dass man eine Kapsel lokalisieren kann, wenn si
 
 368
 00:38:21,460 --> 00:38:31,620
-3D-gedruckt in einem 24-Stunden Druckgang aus Glow-in-the-Dark-Filament. <i>Lachen</i>
+3D-gedruckt in einem 24-Stunden Druckgang aus Glow-in-the-Dark-Filament. *Lachen*
 
 369
 00:38:31,620 --> 00:38:35,366
@@ -1493,7 +1493,7 @@ Und ihr könnt euch die Daten runterladen und nachbauen. Danke protofAlk.
 
 374
 00:38:57,340 --> 00:39:00,716
-<i>Applaus</i>
+*Applaus*
 
 375
 00:39:03,780 --> 00:39:09,466
@@ -1501,7 +1501,7 @@ In der Teststrecke bekommt ihr auch euer C5-Zertifikat.
 
 376
 00:39:10,220 --> 00:39:16,309
-Chaos Communication Congress Certified Capsule. <i>Lachen</i>
+Chaos Communication Congress Certified Capsule. *Lachen*
 
 377
 00:39:16,740 --> 00:39:23,239
@@ -1509,11 +1509,11 @@ Alle Kapseln müssen natürlich zertifiziert sein - das Zertifikat gibt es beim 
 
 378
 00:39:28,966 --> 00:39:33,930
-Frank: Ja. Ganz wichtig: Keine Mate-Flaschen. <i>Lachen</i>
+Frank: Ja. Ganz wichtig: Keine Mate-Flaschen. *Lachen*
 
 379
 00:39:34,040 --> 00:39:45,100
-So... wirklich, wer da eine volle Mate-Flasche oder eine andere Glasflasche reinsteckt, muss das Rohr hinterher auslecken. <i>Lachen</i>
+So... wirklich, wer da eine volle Mate-Flasche oder eine andere Glasflasche reinsteckt, muss das Rohr hinterher auslecken. *Lachen*
 
 380
 00:39:45,100 --> 00:39:47,380
@@ -1569,7 +1569,7 @@ Ja... Dann würde ich jetzt noch um einen ganz fetten Applaus bitten... und zwar
 
 393
 00:41:00,540 --> 00:41:04,879
-<i>Applaus</i>
+*Applaus*
 
 394
 00:41:11,873 --> 00:41:14,482
@@ -1613,7 +1613,7 @@ und all die Helfer und all die Engel, ohne die das nicht möglich gewesen wäre.
 
 404
 00:42:00,780 --> 00:42:09,656
-<i>Applaus</i>
+*Applaus*
 
 405
 00:42:11,200 --> 00:42:16,220
@@ -1645,7 +1645,7 @@ Frank: Ja, damit wären wir sozusagen durch mit dem Vortragsteil. Jetzt habt ihr
 
 412
 00:42:53,740 --> 00:42:56,540
-<i>[Q&A]</i>
+*[Q&A]*
 
 413
 00:42:56,540 --> 00:42:59,740
@@ -1741,7 +1741,7 @@ Tim: Wenn Maschinenbauer bisher das Gefühl hatten, sie könnten mit dem Kongres
 
 436
 00:44:52,180 --> 00:44:57,939
-<i>Applaus</i>
+*Applaus*
 
 437
 00:44:57,939 --> 00:45:03,660
@@ -1749,7 +1749,7 @@ Tim: Wenn Maschinenbauer bisher das Gefühl hatten, sie könnten mit dem Kongres
 
 438
 00:45:03,660 --> 00:45:04,660
-<i>Lachen</i>
+*Lachen*
 
 439
 00:45:04,660 --> 00:45:12,600
@@ -1757,7 +1757,7 @@ Nee, die Aufbaukoordinatoren natürlich. Also Julien, Ion, Julius, [?].
 
 440
 00:45:12,600 --> 00:45:15,180
-<i>Applaus</i>
+*Applaus*
 
 441
 00:45:15,180 --> 00:45:19,380
@@ -1877,7 +1877,7 @@ Q: Eigentlich zwei Fragen.
 
 470
 00:47:28,660 --> 00:47:31,600
-Punkt A: Gibt es schon ein RFC? <i>Lachen</i>
+Punkt A: Gibt es schon ein RFC? *Lachen*
 
 471
 00:47:31,600 --> 00:47:35,380
@@ -1929,7 +1929,7 @@ Wobei, ich weiß nicht, ob sie das inzwischen geändert haben? Haben die noch ei
 
 483
 00:48:33,660 --> 00:48:37,860
-<i>Lachen</i>
+*Lachen*
 
 484
 00:48:37,860 --> 00:48:41,100
@@ -1941,4 +1941,4 @@ Vielen Dank fürs Zuhören und vor allen Dingen: macht bitte mit! Vielen Dank.
 
 486
 00:48:44,340 --> 00:48:49,760
-<i>Applaus</i>
+*Applaus*
