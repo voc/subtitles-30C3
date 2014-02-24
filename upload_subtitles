@@ -3,8 +3,8 @@
 upload="curl --key /home/andi/.ssh/id_rsa_media --pubkey /home/andi/.ssh/id_rsa_media.pub -T"
 
 for file in $(ls *.srt); do
-	talk=${file:0: -7}
-	ext=${file: -7}
+	talk=${file%.*.*}
+	ext=.${file#*.}
 	echo
 	echo
 	echo $file

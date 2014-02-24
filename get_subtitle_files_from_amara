@@ -5,7 +5,8 @@ foreach (json_decode(file_get_contents('data.json')) AS $event ) {
 	if (!empty($event->amara->languages)) {
 		foreach ($event->amara->languages AS $lang ) {
 			if($lang->subtitles_complete) {
-				$filename = $event->filename . '.' . $lang->code . '.srt';
+				$lang_code = ($lang->code == 'tlh') ? 'orig' : $lang->code;
+				$filename = $event->filename . '.' . $lang_code . '.srt';
 				$url = implode('/', array('http://www.amara.org/en/subtitles', $event->amara->id, $lang->code, 'download', $filename));
 				// http://www.amara.org/en/subtitles/j2vSO9vtZNSz/en/download/bla.en.srt
 				echo "\n" . $filename . "\n";
