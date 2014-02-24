@@ -1388,7 +1388,7 @@ because, you know, it's possible that somebody by accident enters the right 12 d
 
 348
 00:23:34,220 --> 00:23:37,100
-and then *suprise* this thing pops up
+and then <i>suprise</i> this thing pops up
 
 349
 00:23:37,100 --> 00:23:39,500
@@ -2824,7 +2824,7 @@ because that uninstalls the malware
 
 707
 00:46:31,140 --> 00:46:41,070
-*applause*
+<i>applause</i>
 
 708
 00:46:48,540 --> 00:46:54,420
@@ -3216,7 +3216,7 @@ and the second one is
 
 805
 00:52:43,180 --> 00:52:46,660
-*applause*
+<i>applause</i>
 
 806
 00:52:46,660 --> 00:52:48,300
@@ -3236,7 +3236,7 @@ change it out?
 
 810
 00:52:56,660 --> 00:52:59,540
-*applause*
+<i>applause</i>
 
 811
 00:52:59,540 --> 00:53:01,420

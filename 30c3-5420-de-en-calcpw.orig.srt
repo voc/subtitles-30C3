@@ -1332,7 +1332,7 @@ und dann zu versuchen, das ganze an den Microcontroller anzuschließen
 
 334
 00:15:24,380 --> 00:15:31,110
-*Applaus*
+<i>Applaus</i>
 
 335
 00:15:31,440 --> 00:15:35,680
@@ -1443,7 +1443,7 @@ die kann man auch wild durcheinander mixen also egal in welcher Reihnefolge man 
 man muss halt immer wieder alle angeben.
 
 362
-00:17:05,869 --> 00:17:12,050
+00:17:05,868 --> 00:17:12,050
 So. Dann gibt es noch ein großes Problem, was Passwortformulare häufig wollen oder manchmal wollen,
 
 363
@@ -1459,7 +1459,7 @@ dafür gibt es noch die Route die man vorne ran schreiben kann, die macht einfac
 Ok, ist mindestenes ein Buchstabe enthalten ist mindestens eine Zahl enthalten?
 
 366
-00:17:23,280 --> 00:17:27,109
+00:17:23,280 --> 00:17:27,108
 wenn man das Ausrufezeichen benutzt ist sowieso immer mindestens ein Sonderzeichen enthalten.
 
 367
@@ -1532,7 +1532,7 @@ Danke.
 
 384
 00:18:23,060 --> 00:18:31,680
-*Applaus*
+<i>Applaus</i>
 
 385
 00:18:31,680 --> 00:18:33,960
@@ -1556,7 +1556,7 @@ Ich bitte euch einfach an den Mikrofonen aufzustellen, an eins und zwei... vor a
 
 390
 00:18:54,740 --> 00:18:58,520
-Frage1: Mich interessiert, du sagt wenn du die reine Software verwendest
+Frage 1: Mich interessiert, du sagt wenn du die reine Software verwendest
 
 391
 00:18:59,370 --> 00:19:03,300
@@ -1640,7 +1640,7 @@ Deswegen Hardware und deswegen auch die Wahl des Algorithmus.
 
 411
 00:20:27,850 --> 00:20:34,490
-Frage2: Was machst denn du wenn dann eines deiner Passwörter bekannt geworden ist?
+Frage 2: Was machst denn du wenn dann eines deiner Passwörter bekannt geworden ist?
 
 412
 00:20:34,490 --> 00:20:38,180
@@ -1664,7 +1664,7 @@ man kann z.B. anstatt "ebay" "ebay.com" nehmen.
 
 417
 00:20:51,270 --> 00:20:54,050
-Frage2: Jaja okay, aber du musst dir wieder ein neues ausdenken.
+Frage 2: Jaja okay, aber du musst dir wieder ein neues ausdenken.
 
 418
 00:20:54,050 --> 00:20:56,180
@@ -1676,7 +1676,7 @@ Man hat aber immer noch den Vorteil, das nicht plötzlich sämtliche Passwörter
 
 420
 00:21:00,230 --> 00:21:01,820
-Frage2: Ok, und dann habe ich noch eine Frage:
+Frage 2: Ok, und dann habe ich noch eine Frage:
 
 421
 00:21:03,430 --> 00:21:06,990
@@ -1712,7 +1712,7 @@ Herald: ... hätte ich sonst eine gehabt.
 
 429
 00:21:30,380 --> 00:21:32,290
-Frage3: Ja ich hätte da noch eine Frage und zwar:
+Frage 3: Ja ich hätte da noch eine Frage und zwar:
 
 430
 00:21:32,290 --> 00:21:35,840
@@ -1736,7 +1736,7 @@ das er dann ganz einfach an viele Accounts ran kommen kann?
 
 435
 00:21:48,610 --> 00:21:49,910
-Kenny: Nicht unbedingt... *lacht*
+Kenny: Nicht unbedingt... <i>lacht</i>
 
 436
 00:21:51,220 --> 00:21:56,210
@@ -1788,11 +1788,11 @@ es wird dadurch divergierter.
 
 448
 00:22:31,630 --> 00:22:32,260
-Frage3: Ja okay.
+Frage 3: Ja okay.
 
 449
 00:22:34,740 --> 00:22:37,840
-Frage4: I've got a question about the iteration,
+Frage 4: I've got a question about the iteration,
 
 450
 00:22:38,020 --> 00:22:42,830
@@ -1828,7 +1828,7 @@ than you have your passwort for that actual quarter of the year.
 
 458
 00:23:17,780 --> 00:23:18,220
-Frage4: Okay thanks.
+Frage 4: Okay thanks.
 
 459
 00:23:18,510 --> 00:23:18,790
@@ -1844,7 +1844,7 @@ Is there something from the internet maybe? Where is the signal angel anyway? Ye
 
 462
 00:23:33,060 --> 00:23:34,130
-Frage5: I have one question,
+Frage 5: I have one question,
 
 463
 00:23:34,130 --> 00:23:39,560
@@ -1864,7 +1864,7 @@ kind of get what you are typing.
 
 467
 00:23:51,830 --> 00:23:56,090
-Kenny: Oh well, should I answer in English? *laughs*
+Kenny: Oh well, should I answer in English? <i>laughs</i>
 
 468
 00:23:58,330 --> 00:24:05,510
@@ -1892,7 +1892,7 @@ and thus can see when there is another piece of hardware attatched to it.
 
 474
 00:24:24,930 --> 00:24:25,360
-Frage5: Yeah, ok.
+Frage 5: Yeah, ok.
 
 475
 00:24:31,070 --> 00:24:31,910
@@ -1900,7 +1900,7 @@ Herald: Next question?
 
 476
 00:24:33,590 --> 00:24:36,970
-Frage6: I'm really not sure if I should continue in English, I'll just do it..
+Frage 6: I'm really not sure if I should continue in English, I'll just do it..
 
 477
 00:24:36,970 --> 00:24:37,990
@@ -1912,7 +1912,7 @@ Kenny: Wir können auch auf Deutsch!
 
 479
 00:24:39,150 --> 00:24:40,420
-Frage6: *lacht* Dann machen wir auf Deutsch.
+Frage 6: <i>lacht</i> Dann machen wir auf Deutsch.
 
 480
 00:24:42,530 --> 00:24:47,900
@@ -1952,7 +1952,7 @@ ich denke schon, dass es in diese Richtung gehen wird, ja.
 
 489
 00:25:29,330 --> 00:25:31,920
-Frage7: Denkst du auch über sowas wie "challenge response" nach?
+Frage 7: Denkst du auch über sowas wie "challenge response" nach?
 
 490
 00:25:31,920 --> 00:25:34,960
@@ -2040,7 +2040,7 @@ Aber der Angriffsvektor von der normalen Software ist wieder da.
 
 511
 00:26:43,610 --> 00:26:49,680
-Frage7: Ich dachte mehr so an z.B. einen SSH-Login über private Keys
+Frage 7: Ich dachte mehr so an z.B. einen SSH-Login über private Keys
 
 512
 00:26:49,680 --> 00:26:52,710
@@ -2128,7 +2128,7 @@ Herald: Okay, Micro zwei.
 
 533
 00:27:43,720 --> 00:27:47,270
-Frage8: Die Frage ist, kann man auch irgendwie das Masterpasswort
+Frage 8: Die Frage ist, kann man auch irgendwie das Masterpasswort
 
 534
 00:27:47,750 --> 00:27:52,500
@@ -2180,7 +2180,7 @@ also sprich Smartcard schlussendlich.
 
 546
 00:28:36,180 --> 00:28:41,790
-Frage9: Ja ich hab da ein Problem, wenn die Tastatur an dieses Arduino angeschlossen wird
+Frage 9: Ja ich hab da ein Problem, wenn die Tastatur an dieses Arduino angeschlossen wird
 
 547
 00:28:41,790 --> 00:28:43,380
@@ -2308,7 +2308,7 @@ Herzlichen Dank nochmal, einen großen Applaus für Kenny
 
 578
 00:30:22,580 --> 00:30:30,480
-*Applaus*
+<i>Applaus</i>
 
 579
 00:30:30,480 --> 00:30:33,140

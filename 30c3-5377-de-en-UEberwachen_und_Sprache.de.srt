@@ -24,100 +24,100 @@ die heißt "Das Kind im Glashaus" von Heinrich Oswalt entstanden 1877 und sehr w
 
 7
 00:00:48,776 --> 00:00:53,111
-*In Frankfurt lebt ein Glasermeister,
-Herr Lebrecht Scheibenmann, so heißt er;*
+<i>In Frankfurt lebt ein Glasermeister,
+Herr Lebrecht Scheibenmann, so heißt er;</i>
 
 8
 00:00:53,111 --> 00:00:56,960
-*Der hat ein kleines Töchterlein,
-Das wollte nie gewaschen sein.*
+<i>Der hat ein kleines Töchterlein,
+Das wollte nie gewaschen sein.</i>
 
 9
 00:00:56,960 --> 00:00:59,576
-*Und kam mit Schwamm und Seif sein Gretchen,
-Da lief davon das böse Mädchen;*
+<i>Und kam mit Schwamm und Seif sein Gretchen,
+Da lief davon das böse Mädchen;</i>
 
 10
 00:00:59,576 --> 00:01:04,408
-*Es warf sogar den Waschtisch um -
-Das Wasser floß im Haus herum.*
+<i>Es warf sogar den Waschtisch um -
+Das Wasser floß im Haus herum.</i>
 
 11
 00:01:04,408 --> 00:01:09,695
-*Da fing Herr Lebrecht Scheibenmann
-Ein seltsam Haus zu bauen an,*
+<i>Da fing Herr Lebrecht Scheibenmann
+Ein seltsam Haus zu bauen an,</i>
 
 12
 00:01:09,695 --> 00:01:13,519
-*Aus lauter Glas ein Haus, das, ach!
-Durchsichtig war bis unters Dach.*
+<i>Aus lauter Glas ein Haus, das, ach!
+Durchsichtig war bis unters Dach.</i>
 
 13
 00:01:13,519 --> 00:01:16,479
-*Und in dies Glashaus setzte man
-Das böse Töchterlein sodann.*
+<i>Und in dies Glashaus setzte man
+Das böse Töchterlein sodann.</i>
 
 14
 00:01:16,479 --> 00:01:19,739
-*Da blieben, um es anzusehn,
-Die Leute auf der Straße stehn.*
+<i>Da blieben, um es anzusehn,
+Die Leute auf der Straße stehn.</i>
 
 15
 00:01:19,739 --> 00:01:23,575
-*[…]
+<i>[…]
 Da schämte sich das Kind und lief
-Im ganzen Haus herum und rief:*
+Im ganzen Haus herum und rief:</i>
 
 16
 00:01:23,575 --> 00:01:26,359
-*“Wo soll ich mich denn nur verstecken?
-Man sieht mich ja in allen Ecken!*
+<i>“Wo soll ich mich denn nur verstecken?
+Man sieht mich ja in allen Ecken!</i>
 
 17
 00:01:26,359 --> 00:01:31,839
-*Das Dach, der Keller, jedes Zimmer
-Ist ja von Glas! man sieht mich immer!”*
+<i>Das Dach, der Keller, jedes Zimmer
+Ist ja von Glas! man sieht mich immer!”</i>
 
 18
 00:01:31,839 --> 00:01:35,967
-*Die Mutter sprach: “Mein liebes Kind!
-Ein Mittel gibt’s, das hilft geschwind:*
+<i>Die Mutter sprach: “Mein liebes Kind!
+Ein Mittel gibt’s, das hilft geschwind:</i>
 
 19
 00:01:35,967 --> 00:01:40,360
-*Wenn dich die Leute artig sehn
-Dann werden sie vorübergehn;*
+<i>Wenn dich die Leute artig sehn
+Dann werden sie vorübergehn;</i>
 
 20
 00:01:40,360 --> 00:01:43,472
-*[…]
+<i>[…]
 Das merkte sich das Töchterlein;
-Es nahm sich vor, geschickt zu sein.*
+Es nahm sich vor, geschickt zu sein.</i>
 
 21
 00:01:43,472 --> 00:01:46,831
-*Und weil’s beim Waschen nicht mehr schrie,
-Da lachten auch die Leute nie;*
+<i>Und weil’s beim Waschen nicht mehr schrie,
+Da lachten auch die Leute nie;</i>
 
 22
 00:01:46,831 --> 00:01:50,791
-*Denn jeder, der ins Haus jetzt blickt,
-Der sieht ein Kind, das ganz geschickt.*
+<i>Denn jeder, der ins Haus jetzt blickt,
+Der sieht ein Kind, das ganz geschickt.</i>
 
 23
 00:01:50,791 --> 00:01:54,888
-*Und habt Ihr selbst ein Kind, Ihr Leut’,
-Das bei dem Waschen immer schreit,*
+<i>Und habt Ihr selbst ein Kind, Ihr Leut’,
+Das bei dem Waschen immer schreit,</i>
 
 24
 00:01:54,888 --> 00:02:01,431
-*Sagts nur Herrn Lebrecht Scheibenmann,
-Der schafft Euch gleich ein Glashaus an.*
+<i>Sagts nur Herrn Lebrecht Scheibenmann,
+Der schafft Euch gleich ein Glashaus an.</i>
 
 25
 00:02:01,431 --> 00:02:09,935
-Ja, da … erste Applausansätze *lacht*
-*Applaus*
+Ja, da … erste Applausansätze <i>lacht</i>
+<i>Applaus</i>
 
 26
 00:02:09,935 --> 00:02:13,487
@@ -189,7 +189,7 @@ Wir können nicht davon ausgehen, dass in der NSA die Leute tatsächlich bei Anz
 
 43
 00:03:55,394 --> 00:04:05,358
-sofort etwas ausdrucken und zu einer *Gelächter*
+sofort etwas ausdrucken und zu einer <i>Gelächter</i>
 Analyse schreiten
 
 44
@@ -223,7 +223,7 @@ und die Linguisten werden als erstes genannt.
 
 51
 00:04:52,249 --> 00:04:56,290
-*verhaltenes Lachen*
+<i>verhaltenes Lachen</i>
 
 52
 00:04:56,290 --> 00:05:02,063
@@ -239,7 +239,7 @@ Zufälligerweise wurde vom Innenminister die neuste Analysesoftware geleakt, der
 
 55
 00:05:16,755 --> 00:05:25,514
-Entwickelt vom von-Leitner-institut für verteiltes Echtzeit-Java. *Gelächter*
+Entwickelt vom von-Leitner-institut für verteiltes Echtzeit-Java. <i>Gelächter</i>
 
 56
 00:05:27,530 --> 00:05:31,193
@@ -404,15 +404,15 @@ Wenn ein Wort signifikant häufiger im blauen Bereich vorkommt, kann man sagen, 
 
 96
 00:09:43,947 --> 00:09:49,529
-Hier fällt bspw. auf „kriegen“ oder „Adobe-Spezialexperten“ *Gelächter*
+Hier fällt bspw. auf „kriegen“ oder „Adobe-Spezialexperten“ <i>Gelächter</i>
 
 97
 00:09:49,529 --> 00:09:58,395
-Man kann Kollokationen als Graphen visualisieren *Gelächter*
+Man kann Kollokationen als Graphen visualisieren <i>Gelächter</i>
 
 98
 00:09:59,672 --> 00:10:05,961
-Die Knoten bezeichnen Lexeme, (ich weiß jetzt nicht, was es da zu lachen gibt) *mehr Gelächter*
+Die Knoten bezeichnen Lexeme, (ich weiß jetzt nicht, was es da zu lachen gibt) <i>mehr Gelächter</i>
 
 99
 00:10:05,961 --> 00:10:12,170
@@ -492,7 +492,7 @@ also der Ortsangabe bei donalphonso, Rebellmarkt-Blogger
 
 118
 00:12:17,377 --> 00:12:31,769
-Potentielles Ziel bei Fefe ist SPD *Gelächter* und bei der Mädchenmanschaft sollen wir nach Kristina Schröder als Person gucken *Gelächter*
+Potentielles Ziel bei Fefe ist SPD <i>Gelächter</i> und bei der Mädchenmanschaft sollen wir nach Kristina Schröder als Person gucken <i>Gelächter</i>
 
 119
 00:12:31,769 --> 00:12:45,942
@@ -528,7 +528,7 @@ Deswegen schauen wir uns den Kollokationsgraphen an und suchen nach Hinweisen au
 
 127
 00:13:35,804 --> 00:13:45,690
-Ich lese einige vor: „Berlin“, „Slum“, „Reichshauptslum“, „arm“, „Transferleistung“, „abscheulich“, „Berliner Hipster“ *Gelächter*
+Ich lese einige vor: „Berlin“, „Slum“, „Reichshauptslum“, „arm“, „Transferleistung“, „abscheulich“, „Berliner Hipster“ <i>Gelächter</i>
 
 128
 00:13:45,690 --> 00:13:54,268
@@ -540,8 +540,8 @@ Das weitere potentielle Ziel waren die Organisationen „SPD“ bei Fefe
 
 130
 00:14:01,295 --> 00:14:13,572
-Wir lassen uns den Kollokationsgraphen anschauen. Fefe und die SPD. *Gelächter*
-*Applaus*
+Wir lassen uns den Kollokationsgraphen anschauen. Fefe und die SPD. <i>Gelächter</i>
+<i>Applaus</i>
 
 131
 00:14:13,572 --> 00:14:17,789
@@ -553,7 +553,7 @@ Insgesamt in der gesamten Liste fanden sich tatsächlich so Wörter wie:
 
 133
 00:14:20,856 --> 00:14:36,773
-„erhängen“, „erzwingen“, „Spitzenkandidat“, „Verräterpartei“, „Umfallerpartei“, „Pest“, „Cholera“ *Gelächter, Applaus*
+„erhängen“, „erzwingen“, „Spitzenkandidat“, „Verräterpartei“, „Umfallerpartei“, „Pest“, „Cholera“ <i>Gelächter, Applaus</i>
 
 134
 00:14:36,773 --> 00:14:42,277
@@ -658,7 +658,7 @@ man sieht es ein bisschen schlecht, aber hier sind rote Verbindungen angeleuchte
 159
 00:18:02,371 --> 00:18:09,131
 Das sind islamistische
-*Gelächter*
+<i>Gelächter</i>
 
 160
 00:18:09,131 --> 00:18:16,858
@@ -670,7 +670,7 @@ und solche Verdichtungspunkte verweisen auf bestimmte Themen
 
 162
 00:18:21,555 --> 00:18:28,546
-Wir haben auch den User „JihadFan“ *Gelächter* – der aber offenbar auch nicht so jihadistisch unterwegs ist
+Wir haben auch den User „JihadFan“ <i>Gelächter</i> – der aber offenbar auch nicht so jihadistisch unterwegs ist
 
 163
 00:18:28,546 --> 00:18:35,568
@@ -706,11 +706,11 @@ und das schicken wir ab und dann geht es weiter.
 
 171
 00:19:21,431 --> 00:19:35,946
-Damit haben wir aber nichts mehr zu tun, denn wir sind ja nur Linguisten. *Gelächter, Applaus*
+Damit haben wir aber nichts mehr zu tun, denn wir sind ja nur Linguisten. <i>Gelächter, Applaus</i>
 
 172
 00:19:35,946 --> 00:19:42,990
-Ich deute das als Zustimmung. *Gelächter* Gut, wir fahren mit weiteren Analyseschritten fort.
+Ich deute das als Zustimmung. <i>Gelächter</i> Gut, wir fahren mit weiteren Analyseschritten fort.
 
 173
 00:19:43,040 --> 00:19:59,379
@@ -735,7 +735,7 @@ wir verstehen darunter eine hohe emotionale Involviertheit
 178
 00:20:26,147 --> 00:20:37,683
 und eine Neigung zu Verschwörungstheorien
-*vereinzeltes Gelächter* Ja! *mehr Gelächter*
+<i>vereinzeltes Gelächter</i> Ja! <i>mehr Gelächter</i>
 
 179
 00:20:37,683 --> 00:20:48,990
@@ -879,11 +879,11 @@ Und das findet man natürlich eher bei Personen, die Verschwörungstheorien anh�
 
 214
 00:24:36,690 --> 00:24:44,573
-Wenn man jetzt den Radikalitätsindex berechnet – das hier sind normalisierte Werte – dann kann man sehen *Gelächter*
+Wenn man jetzt den Radikalitätsindex berechnet – das hier sind normalisierte Werte – dann kann man sehen <i>Gelächter</i>
 
 215
 00:24:44,573 --> 00:24:56,470
-dass Fefe, knapp gefolgt von donalphonso und mit kleinem Abstand das salafistische Forum *lautes Gelächter*
+dass Fefe, knapp gefolgt von donalphonso und mit kleinem Abstand das salafistische Forum <i>lautes Gelächter</i>
 
 216
 00:24:56,470 --> 00:25:07,850
@@ -1039,7 +1039,7 @@ Vielen Dank
 
 254
 00:29:34,620 --> 00:29:54,923
-*Applaus*
+<i>Applaus</i>
 
 255
 00:29:54,923 --> 00:29:58,339
@@ -1108,7 +1108,7 @@ und relativ schnell disambiguieren könnte, dass es sich eben nicht um Osama bin
 271
 00:31:35,859 --> 00:31:40,854
 zumal der ja auch schon tot ist
-*Gelächter*
+<i>Gelächter</i>
 
 272
 00:31:40,854 --> 00:31:50,749
@@ -1221,7 +1221,7 @@ sie aus dem Geheimen herauszuziehen und das zu diskutieren, was da passiert, das
 299
 00:34:35,723 --> 00:34:42,514
 E: Okay, die nächste Frage
-*Applaus*
+<i>Applaus</i>
 
 300
 00:34:42,514 --> 00:34:46,427
@@ -1261,7 +1261,7 @@ A: Danke für die Möglichkeit, das noch ein bisschen zu präzisieren. Ich denke
 
 309
 00:35:31,222 --> 00:35:37,480
-wir haben natürlich eine Ahnung. Das ist ja das Schlimme, wir haben nicht *mehr* als eine Ahnung davon,
+wir haben natürlich eine Ahnung. Das ist ja das Schlimme, wir haben nicht <i>mehr</i> als eine Ahnung davon,
 
 310
 00:35:37,480 --> 00:35:42,448
@@ -1353,11 +1353,11 @@ weil dann werden die Keywörter eventuell nicht erkannt, oder ist das sinnfrei?
 
 332
 00:37:43,968 --> 00:37:54,552
-*Gelächter und Applaus*
+<i>Gelächter und Applaus</i>
 
 333
 00:37:54,552 --> 00:38:02,728
-A: Also als Hess kann ich dir da sache, das det schon was bringe wärdd *Gelächter*
+A: Also als Hess kann ich dir da sache, das det schon was bringe wärdd <i>Gelächter</i>
 
 334
 00:38:02,728 --> 00:38:10,336
@@ -1381,7 +1381,7 @@ es gibt dann keine Standardorthografie, aber es funktioniert natürlich auch. Wi
 
 339
 00:38:31,709 --> 00:38:38,819
-*Gelächter*
+<i>Gelächter</i>
 
 340
 00:38:38,819 --> 00:38:42,568
@@ -1481,7 +1481,7 @@ weil ich glaube, dass es das nicht bringt. Ich glaube, man soll es einfach lasse
 
 364
 00:41:05,731 --> 00:41:11,715
-*Applaus*
+<i>Applaus</i>
 E: Okay, du bist als nächster dran
 
 365
@@ -1522,7 +1522,7 @@ gerade auch mit Aufhänger Andrej Holm. Ich denke, dass da ganz unterschiedliche
 
 374
 00:42:06,250 --> 00:42:12,810
-bspw. hat das BKA ein Gutachten gemacht und gesagt, dass Andrej Holm *nicht* der Autor ist
+bspw. hat das BKA ein Gutachten gemacht und gesagt, dass Andrej Holm <i>nicht</i> der Autor ist
 
 375
 00:42:12,810 --> 00:42:25,523
@@ -1614,7 +1614,7 @@ F: Nicht aus dem Internet. Linguistik ist ja eine Geisteswissenschaft
 
 397
 00:44:34,364 --> 00:44:42,108
-und die sind ja bekanntlich an den Unis *nicht* so gut finanziert. Ist es bekannt, oder hast du eine Idee davon,
+und die sind ja bekanntlich an den Unis <i>nicht</i> so gut finanziert. Ist es bekannt, oder hast du eine Idee davon,
 
 398
 00:44:42,108 --> 00:44:47,648
@@ -1954,7 +1954,7 @@ wenn nur noch die Terroristen verhaftet werden … die echten … dann haben wir
 
 482
 00:53:27,160 --> 00:53:35,785
-*Gelächter, Applaus*
+<i>Gelächter, Applaus</i>
 
 483
 00:53:35,785 --> 00:53:40,760
