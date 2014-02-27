@@ -1443,7 +1443,7 @@ die kann man auch wild durcheinander mixen also egal in welcher Reihnefolge man 
 man muss halt immer wieder alle angeben.
 
 362
-00:17:05,868 --> 00:17:12,050
+00:17:05,867 --> 00:17:12,050
 So. Dann gibt es noch ein großes Problem, was Passwortformulare häufig wollen oder manchmal wollen,
 
 363
