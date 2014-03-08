@@ -1111,10 +1111,30 @@
         "fahrplan_room": "Saal 2",
         "fahrplan_id": 5290,
         "title": "Console Hacking 2013",
-        "filename": null,
+        "filename": "30c3-5290-en-Console_Hacking_2013",
         "ticket_id": 1257,
         "wiki_status": "text in pad (en)",
-        "amara": null
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5290-en-Console_Hacking_2013_h264-iprod.mp4"
+            ],
+            "created": "2014-01-16T16:01:12",
+            "description": "",
+            "duration": null,
+            "id": "EkgljoB0Mebi",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/EkgljoB0Mebi/",
+            "site_url": "http://www.amara.org/videos/EkgljoB0Mebi/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5387": {
         "fahrplan_start": "20:30",
@@ -2735,14 +2755,28 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 16,
+                    "num_versions": 18,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/de/627847/",
                     "subtitle_count": 583,
-                    "subtitles_complete": false,
+                    "subtitles_complete": true,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.018867924528302,
+                            "time_change": 0.0017152658662093,
+                            "version_no": 18
+                        },
+                        {
+                            "author": "Sebi",
+                            "published": true,
+                            "text_change": 0.048027444253859,
+                            "time_change": 0,
+                            "version_no": 17
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
@@ -2873,7 +2907,7 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 9,
+                    "num_versions": 10,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/tlh/634854/",
@@ -2881,6 +2915,13 @@
                     "subtitles_complete": true,
                     "title": "calc.pw",
                     "versions": [
+                        {
+                            "author": "Sebi",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.0017152658662093,
+                            "version_no": 10
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
@@ -5304,7 +5345,7 @@
             "metadata": [
 
             ],
-            "original_language": null,
+            "original_language": "en",
             "resource_uri": "/api2/partners/videos/yjj9d3T8OReh/",
             "site_url": "http://www.amara.org/videos/yjj9d3T8OReh/info/",
             "team": null,
