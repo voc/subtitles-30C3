@@ -2169,14 +2169,35 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 7,
+                    "num_versions": 10,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 370,
+                    "subtitle_count": 727,
                     "subtitles_complete": false,
-                    "title": "",
+                    "title": "Bullshit made in Germany",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.012379642365887,
+                            "time_change": 0,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.99478827361564,
+                            "time_change": 1,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.37181663837012,
+                            "time_change": 0.37181663837012,
+                            "version_no": 8
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
@@ -3384,7 +3405,46 @@
             "duration": null,
             "id": "i1LHDvxS9qb8",
             "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-04-02T01:59:37",
+                    "description": "",
+                    "id": "696853",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
 
+                    ],
+                    "num_versions": 2,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/en/696853/",
+                    "subtitle_count": 452,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.44273127753304,
+                            "time_change": 0.0088105726872246,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
             ],
             "metadata": [
 
