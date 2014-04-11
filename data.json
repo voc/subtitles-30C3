@@ -4097,6 +4097,53 @@
                             "version_no": 1
                         }
                     ]
+                },
+                {
+                    "code": "ja",
+                    "name": "Japanese",
+                    "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/",
+                    "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/subtitles/",
+                    "visible": true,
+                    "created": "2014-04-10T20:27:35",
+                    "description": "",
+                    "id": "703624",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "ja",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 3,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
+                    "subtitle_count": 52,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.48571428571429,
+                            "time_change": 0.48571428571429,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.89473684210526,
+                            "time_change": 0.89473684210526,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
                 }
             ],
             "metadata": [
