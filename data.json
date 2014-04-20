@@ -1128,7 +1128,7 @@
             "metadata": [
 
             ],
-            "original_language": null,
+            "original_language": "en",
             "resource_uri": "/api2/partners/videos/EkgljoB0Mebi/",
             "site_url": "http://www.amara.org/videos/EkgljoB0Mebi/info/",
             "team": null,
@@ -2169,14 +2169,21 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 10,
+                    "num_versions": 11,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 727,
+                    "subtitle_count": 728,
                     "subtitles_complete": false,
                     "title": "Bullshit made in Germany",
                     "versions": [
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.0020618556701031,
+                            "time_change": 0.0034364261168385,
+                            "version_no": 11
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
