@@ -4290,7 +4290,7 @@
                     "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/subtitles/",
                     "visible": true,
                     "created": "2014-04-10T20:27:35",
-                    "description": "",
+                    "description": "\uff0a\u304a\u9858\u3044\uff0a\n\u82f1\u8a9e\u306e\u3001\u3082\u3057\u304f\u306fPC\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u7528\u8a9e\u306e\u70b9\u304b\u3089\u898b\u3066\u3001\u7406\u89e3\u304c\u8db3\u3089\u305a\u6b63\u3057\u304f\u8a33\u305b\u3066\u3044\u306a\u3044\u7b87\u6240\u304c\u3042\u308b\u3068\u601d\u3044\u307e\u3059\u3002\n\u53b3\u5bc6\u3055\u306e\u5411\u4e0a\u306e\u305f\u3081\u306b\u3001\u4fee\u6b63\u70b9\u304c\u3042\u308c\u3070\u305c\u3072\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
                     "id": "703624",
                     "is_original": false,
                     "is_rtl": false,
@@ -4299,14 +4299,42 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 7,
+                    "num_versions": 11,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
-                    "subtitle_count": 265,
-                    "subtitles_complete": false,
-                    "title": "",
+                    "subtitle_count": 568,
+                    "subtitles_complete": true,
+                    "title": "To Protect And Infect, Part 2",
                     "versions": [
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.11267605633803,
+                            "version_no": 11
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.0026431718061674,
+                            "time_change": 0.36387665198238,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.14285714285714,
+                            "time_change": 0.97402597402597,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.24177396280401,
+                            "time_change": 0.24177396280401,
+                            "version_no": 8
+                        },
                         {
                             "author": "kaoruco",
                             "published": true,
