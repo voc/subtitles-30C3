@@ -4299,14 +4299,28 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 5,
+                    "num_versions": 7,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
-                    "subtitle_count": 128,
+                    "subtitle_count": 265,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.021194605009634,
+                            "time_change": 0.021194605009634,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.3455497382199,
+                            "time_change": 0.32984293193717,
+                            "version_no": 6
+                        },
                         {
                             "author": "kaoruco",
                             "published": true,
