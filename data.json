@@ -155,9 +155,232 @@
         "filename": "30c3-5610-de-Seidenstrasse",
         "ticket_id": 1252,
         "wiki_status": "complete (en)",
-        "amara": [
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5610-de-Seidenstrasse_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:33:20",
+            "description": "",
+            "duration": null,
+            "id": "7Ert3cbCTB1V",
+            "languages": [
+                {
+                    "code": "de",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2013-12-30T16:50:17",
+                    "description": "",
+                    "id": "626311",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [
 
-        ]
+                    ],
+                    "num_versions": 14,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/de/626311/",
+                    "subtitle_count": 486,
+                    "subtitles_complete": true,
+                    "title": "30C3: Seidenstra\u00dfe",
+                    "versions": [
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.61934156378601,
+                            "time_change": 0,
+                            "version_no": 14
+                        },
+                        {
+                            "author": "tisibi",
+                            "published": true,
+                            "text_change": 0.014432989690722,
+                            "time_change": 0.074226804123711,
+                            "version_no": 13
+                        },
+                        {
+                            "author": "Florob",
+                            "published": true,
+                            "text_change": 0.081695966907963,
+                            "time_change": 0.0051706308169597,
+                            "version_no": 12
+                        },
+                        {
+                            "author": "Florob",
+                            "published": true,
+                            "text_change": 0.0041407867494824,
+                            "time_change": 0.014492753623188,
+                            "version_no": 11
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.11652542372881,
+                            "time_change": 0.16949152542373,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.060737527114967,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "Florob",
+                            "published": true,
+                            "text_change": 0.45714285714286,
+                            "time_change": 0.48285714285714,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.02510460251046,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.0083682008368201,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.0083682008368201,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.02510460251046,
+                            "time_change": 0.36820083682008,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.046610169491525,
+                            "time_change": 1,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Florob",
+                            "published": true,
+                            "text_change": 0.68458781362007,
+                            "time_change": 0.67025089605735,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Florob",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                },
+                {
+                    "code": "fr",
+                    "name": "French",
+                    "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/fr/",
+                    "subtitles_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/fr/subtitles/",
+                    "visible": true,
+                    "created": "2014-04-23T02:35:59",
+                    "description": "",
+                    "id": "712056",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "fr",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 8,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/fr/712056/",
+                    "subtitle_count": 486,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.8477366255144,
+                            "time_change": 0,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.86831275720165,
+                            "time_change": 0,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.89300411522634,
+                            "time_change": 0,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.9156378600823,
+                            "time_change": 0.0041152263374485,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.93827160493827,
+                            "time_change": 0,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.98148148148148,
+                            "time_change": 0,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.99794238683128,
+                            "time_change": 1,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/",
+            "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5377": {
         "fahrplan_start": "12:45",
@@ -888,9 +1111,27 @@
         "filename": "30c3-5527-en-Basics_of_Digital_Wireless_Communication",
         "ticket_id": 1265,
         "wiki_status": "\u2717 (en)",
-        "amara": [
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5527-en-Basics_of_Digital_Wireless_Communication_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:37:42",
+            "description": "",
+            "duration": null,
+            "id": "D8AZFS7Chxaz",
+            "languages": [
 
-        ]
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/D8AZFS7Chxaz/",
+            "site_url": "http://www.amara.org/videos/D8AZFS7Chxaz/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5447": {
         "fahrplan_start": "17:30",
