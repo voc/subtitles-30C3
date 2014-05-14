@@ -5344,7 +5344,27 @@
         "filename": "30c3-5618-en-Baseband_Exploitation_in_2013",
         "ticket_id": 1455,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5618-en-Baseband_Exploitation_in_2013_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:07",
+            "description": "",
+            "duration": null,
+            "id": "JrW7lYXUfmQC",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/JrW7lYXUfmQC/",
+            "site_url": "http://www.amara.org/videos/JrW7lYXUfmQC/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5491": {
         "fahrplan_start": "23:00",
@@ -5356,7 +5376,59 @@
         "filename": "30c3-5491-en-de-No_Neutral_Ground_in_a_Burning_World",
         "ticket_id": 1456,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5491-en-de-No_Neutral_Ground_in_a_Burning_World_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:13",
+            "description": "",
+            "duration": null,
+            "id": "2kGOoOdz2i5w",
+            "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T16:21:22",
+                    "description": "",
+                    "id": "628531",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 1,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/en/628531/",
+                    "subtitle_count": 2,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "stackexchange2",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/",
+            "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5577": {
         "fahrplan_start": "00:00",
@@ -5368,7 +5440,27 @@
         "filename": "30c3-5577-de-en-Hacker_Jeopardy",
         "ticket_id": 1457,
         "wiki_status": "text in pad (de)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5577-de-en-Hacker_Jeopardy_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:03",
+            "description": "",
+            "duration": null,
+            "id": "RARxKTVqINRc",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/RARxKTVqINRc/",
+            "site_url": "http://www.amara.org/videos/RARxKTVqINRc/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5214": {
         "fahrplan_start": "11:30",
@@ -5380,7 +5472,27 @@
         "filename": "30c3-5214-en-The_Gospel_of_IRMA_",
         "ticket_id": 1499,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5214-en-The_Gospel_of_IRMA__h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:48",
+            "description": "",
+            "duration": null,
+            "id": "WQFdossBPoDI",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/WQFdossBPoDI/",
+            "site_url": "http://www.amara.org/videos/WQFdossBPoDI/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5537": {
         "fahrplan_start": "12:45",
@@ -5392,7 +5504,27 @@
         "filename": "30c3-5537-en-Glass_Hacks",
         "ticket_id": 1500,
         "wiki_status": "text in pad complete (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5537-en-Glass_Hacks_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:38",
+            "description": "",
+            "duration": null,
+            "id": "IwiKybILl85q",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/IwiKybILl85q/",
+            "site_url": "http://www.amara.org/videos/IwiKybILl85q/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5463": {
         "fahrplan_start": "14:00",
@@ -5404,7 +5536,127 @@
         "filename": "30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit",
         "ticket_id": 1501,
         "wiki_status": "text at amara, incomplete (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-iprod.mp4",
+                "http://www.youtube.com/watch?v=ktnQ7nBCuqU",
+                "http://cdn.media.ccc.de/congress/2013/mp4-hd/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-hd.mp4",
+                "http://cdn.media.ccc.de/congress/2013/mp4/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-hq.mp4",
+                "http://cdn.media.ccc.de/congress/2013/mp4-lq/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-iprod.mp4",
+                "http://cdn.media.ccc.de/congress/2013/webm/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_webm.webm"
+            ],
+            "created": "2014-01-02T13:34:05",
+            "description": "",
+            "duration": null,
+            "id": "BtTNgV2drDsk",
+            "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T17:52:55",
+                    "description": "",
+                    "id": "627845",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 10,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/BtTNgV2drDsk/en/627845/",
+                    "subtitle_count": 271,
+                    "subtitles_complete": false,
+                    "title": "Hillbilly Tracking of Low Earth Orbit",
+                    "versions": [
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.079777365491651,
+                            "time_change": 0.0055658627087198,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.2039603960396,
+                            "time_change": 0.061386138613861,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.085836909871245,
+                            "time_change": 0.017167381974249,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.033112582781457,
+                            "time_change": 0.033112582781457,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.081447963800905,
+                            "time_change": 1,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 0.039443155452436,
+                            "time_change": 0.011600928074246,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "mieBae2m",
+                            "published": true,
+                            "text_change": 0.98305084745763,
+                            "time_change": 0.80508474576271,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "mieBae2m",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 0.91666666666667,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "mieBae2m",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 0,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "mieBae2m",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/BtTNgV2drDsk/",
+            "site_url": "http://www.amara.org/videos/BtTNgV2drDsk/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": "Hillbilly Tracking of Low Earth Orbit"
+        }
     },
     "5193": {
         "fahrplan_start": "17:15",
@@ -5416,7 +5668,27 @@
         "filename": "30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking",
         "ticket_id": 1503,
         "wiki_status": "text in pad complete (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:45",
+            "description": "",
+            "duration": null,
+            "id": "H4NXhKj5ZfrF",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/H4NXhKj5ZfrF/",
+            "site_url": "http://www.amara.org/videos/H4NXhKj5ZfrF/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5339": {
         "fahrplan_start": "18:30",
@@ -5428,7 +5700,27 @@
         "filename": "30c3-5339-en-de-The_Year_in_Crypto",
         "ticket_id": 1504,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5339-en-de-The_Year_in_Crypto_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:14",
+            "description": "",
+            "duration": null,
+            "id": "yjj9d3T8OReh",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/yjj9d3T8OReh/",
+            "site_url": "http://www.amara.org/videos/yjj9d3T8OReh/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5548": {
         "fahrplan_start": "20:30",
@@ -5440,7 +5732,27 @@
         "filename": "30c3-5548-de-en-25_Jahre_Chipkarten-Angriffe",
         "ticket_id": 1505,
         "wiki_status": "text in pad (de) with translation (en) mixed. needs to be split.",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5548-de-en-25_Jahre_Chipkarten-Angriffe_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:23",
+            "description": "",
+            "duration": null,
+            "id": "sPE3RUZF69vx",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "de",
+            "resource_uri": "/api2/partners/videos/sPE3RUZF69vx/",
+            "site_url": "http://www.amara.org/videos/sPE3RUZF69vx/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5459": {
         "fahrplan_start": "21:45",
@@ -5452,7 +5764,27 @@
         "filename": "30c3-5459-en-de-Security_of_the_IC_Backside",
         "ticket_id": 1506,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5459-en-de-Security_of_the_IC_Backside_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:00",
+            "description": "",
+            "duration": null,
+            "id": "ZjVJLD91CzEa",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/ZjVJLD91CzEa/",
+            "site_url": "http://www.amara.org/videos/ZjVJLD91CzEa/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5604": {
         "fahrplan_start": "23:00",
