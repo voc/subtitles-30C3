@@ -304,7 +304,7 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 8,
+                    "num_versions": 9,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/fr/712056/",
@@ -312,6 +312,13 @@
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "regish",
+                            "published": true,
+                            "text_change": 0.82098765432099,
+                            "time_change": 0,
+                            "version_no": 9
+                        },
                         {
                             "author": "regish",
                             "published": true,
