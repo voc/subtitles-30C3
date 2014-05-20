@@ -2426,6 +2426,46 @@
                             "version_no": 1
                         }
                     ]
+                },
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T00:28:46",
+                    "description": "",
+                    "id": "627978",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 2,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/en/627978/",
+                    "subtitle_count": 208,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "roham.molavy",
+                            "published": true,
+                            "text_change": 0.21865889212828,
+                            "time_change": 0.31195335276968,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "roham.molavy",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
                 }
             ],
             "metadata": [
