@@ -8,7 +8,7 @@
         "title": "Opening Event",
         "filename": "30c3-5605-en-Opening_Event",
         "ticket_id": 3490,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (en)",
         "amara": false
     },
     "5610": {
@@ -20,7 +20,7 @@
         "title": "Seidenstra\u00dfe",
         "filename": "30c3-5610-de-Seidenstrasse",
         "ticket_id": 1252,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (en)",
         "amara": false
     },
     "5377": {
@@ -32,7 +32,7 @@
         "title": "\u00dcberwachen und Sprache",
         "filename": "30c3-5377-de-en-UEberwachen_und_Sprache",
         "ticket_id": 1270,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (de)",
         "amara": false
     },
     "5415": {
@@ -44,7 +44,7 @@
         "title": "Der tiefe Staat",
         "filename": "30c3-5415-de-en-Der_tiefe_Staat",
         "ticket_id": 1262,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (de)",
         "amara": false
     },
     "5307": {
@@ -56,7 +56,7 @@
         "title": "Reverse engineering of CHIASMUS from GSTOOL",
         "filename": "30c3-5307-en-Reverse_engineering_of_CHIASMUS_from_GSTOOL",
         "ticket_id": 1253,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5224": {
@@ -68,7 +68,7 @@
         "title": "Triggering Deep Vulnerabilities Using Symbolic Execution",
         "filename": "30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution",
         "ticket_id": 1271,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5497": {
@@ -80,7 +80,7 @@
         "title": "10 Years of Fun with Embedded Devices",
         "filename": "30c3-5497-en-10_Years_of_Fun_with_Embedded_Devices",
         "ticket_id": 1263,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5476": {
@@ -92,7 +92,7 @@
         "title": "Electronic Bank Robberies",
         "filename": "30c3-5476-en-Electronic_Bank_Robberies",
         "ticket_id": 1254,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (en)",
         "amara": false
     },
     "5509": {
@@ -104,7 +104,7 @@
         "title": "IFGINT",
         "filename": "30c3-5509-de-en-IFGINT",
         "ticket_id": 1272,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5298": {
@@ -116,7 +116,7 @@
         "title": "Rock' em Graphic Cards",
         "filename": "30c3-5298-en-de-Rock_em_Graphic_Cards",
         "ticket_id": 1264,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5311": {
@@ -128,7 +128,7 @@
         "title": "lasers in space",
         "filename": "30c3-5311-en-lasers_in_space",
         "ticket_id": 1273,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (en)",
         "amara": false
     },
     "5337": {
@@ -140,7 +140,7 @@
         "title": "Kryptographie nach Snowden",
         "filename": "30c3-5337-de-en-Kryptographie_nach_Snowden",
         "ticket_id": 1255,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5527": {
@@ -152,7 +152,7 @@
         "title": "Basics of Digital Wireless Communication",
         "filename": "30c3-5527-en-Basics_of_Digital_Wireless_Communication",
         "ticket_id": 1265,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5447": {
@@ -164,7 +164,7 @@
         "title": "Policing the Romantic Crowd",
         "filename": "30c3-5447-en-Policing_the_Romantic_Crowd",
         "ticket_id": 1274,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5529": {
@@ -176,7 +176,7 @@
         "title": "Hardening hardware and choosing a #goodBIOS",
         "filename": "30c3-5529-en-Hardening_hardware_and_choosing_a_goodBIOS",
         "ticket_id": 1256,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5536": {
@@ -188,7 +188,7 @@
         "title": "Long Distance Quantum Communication",
         "filename": "30c3-5536-en-Long_Distance_Quantum_Communication",
         "ticket_id": 1266,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5142": {
@@ -200,7 +200,7 @@
         "title": "Monitoring the Spectrum: Building Your Own Distributed RF Scanner Array",
         "filename": "30c3-5142-en-Monitoring_the_Spectrum_Building_Your_Own_Distributed_RF_Scanner_Array",
         "ticket_id": 1275,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5290": {
@@ -212,7 +212,7 @@
         "title": "Console Hacking 2013",
         "filename": "30c3-5290-en-Console_Hacking_2013",
         "ticket_id": 1257,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5387": {
@@ -224,7 +224,7 @@
         "title": "Toward a Cognitive \"Quantified Self\" ",
         "filename": "30c3-5387-en-Toward_a_Cognitive_Quantified_Self_",
         "ticket_id": 1276,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5613": {
@@ -236,7 +236,7 @@
         "title": "Forbidden Fruit",
         "filename": "30c3-5613-en-Forbidden_Fruit",
         "ticket_id": 1267,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5348": {
@@ -248,7 +248,7 @@
         "title": "Der Kampf um Netzneutralit\u00e4t",
         "filename": "30c3-5348-de-en-Der_Kampf_um_Netzneutralitaet",
         "ticket_id": 1258,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5212": {
@@ -260,7 +260,7 @@
         "title": "The GNU Name System",
         "filename": "30c3-5212-en-The_GNU_Name_System",
         "ticket_id": 1277,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5474": {
@@ -272,7 +272,7 @@
         "title": "World War II Hackers",
         "filename": "30c3-5474-en-World_War_II_Hackers",
         "ticket_id": 1268,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5398": {
@@ -284,7 +284,7 @@
         "title": "HbbTV Security",
         "filename": "30c3-5398-en-HbbTV_Security",
         "ticket_id": 1259,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5356": {
@@ -296,7 +296,7 @@
         "title": "Firmware Fat Camp",
         "filename": "30c3-5356-en-Firmware_Fat_Camp",
         "ticket_id": 1278,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5305": {
@@ -308,7 +308,7 @@
         "title": "Breaking Baryons",
         "filename": "30c3-5305-en-Breaking_Baryons",
         "ticket_id": 1269,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5544": {
@@ -320,7 +320,7 @@
         "title": "Sim Gishel",
         "filename": "30c3-5544-de-en-Sim_Gishel",
         "ticket_id": 1261,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5611": {
@@ -332,7 +332,7 @@
         "title": "Hello World!",
         "filename": "30c3-5611-en-Hello_World_",
         "ticket_id": 1303,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5468": {
@@ -344,7 +344,7 @@
         "title": "We only have one earth",
         "filename": "30c3-5468-en-We_only_have_one_earth",
         "ticket_id": 1321,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5394": {
@@ -356,7 +356,7 @@
         "title": "BREACH in Agda",
         "filename": "30c3-5394-BREACH_in_Agda",
         "ticket_id": 1311,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5533": {
@@ -368,7 +368,7 @@
         "title": "Fast Internet-wide Scanning and its Security Applications",
         "filename": "30c3-5533-en-Fast_Internet-wide_Scanning_and_its_Security_Applications",
         "ticket_id": 1304,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5417": {
@@ -380,7 +380,7 @@
         "title": "Extracting keys from FPGAs, OTP Tokens and Door Locks",
         "filename": "30c3-5417-en-Extracting_keys_from_FPGAs_OTP_Tokens_and_Door_Locks",
         "ticket_id": 1322,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5562": {
@@ -392,7 +392,7 @@
         "title": "Lightning Talks, Day 2",
         "filename": "30c3-5562-en-de-Lightning_Talks_Day_2",
         "ticket_id": 1312,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5601": {
@@ -404,7 +404,7 @@
         "title": "EUDataP: State of the Union",
         "filename": "30c3-5601-en-de-EUDataP_State_of_the_Union",
         "ticket_id": 1305,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5554": {
@@ -416,7 +416,7 @@
         "title": "Magic Lantern",
         "filename": "30c3-5554-en-Magic_Lantern",
         "ticket_id": 1323,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5360": {
@@ -428,7 +428,7 @@
         "title": "Script Your Car!",
         "filename": "30c3-5360-en-Script_Your_Car_",
         "ticket_id": 1306,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5453": {
@@ -440,7 +440,7 @@
         "title": "Against Metadata",
         "filename": "30c3-5453-en-Against_Metadata",
         "ticket_id": 1324,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5588": {
@@ -452,7 +452,7 @@
         "title": "My journey into FM-RDS",
         "filename": "30c3-5588-en-de-My_journey_into_FM-RDS",
         "ticket_id": 1313,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5607": {
@@ -464,7 +464,7 @@
         "title": "The Pirate Cinema",
         "filename": "30c3-5607-en-The_Pirate_Cinema",
         "ticket_id": 1325,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5185": {
@@ -476,7 +476,7 @@
         "title": "FPGA 101",
         "filename": "30c3-5185-en-FPGA_101",
         "ticket_id": 1314,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5547": {
@@ -488,7 +488,7 @@
         "title": "Turing Complete User",
         "filename": "30c3-5547-en-Turing_Complete_User",
         "ticket_id": 1326,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5566": {
@@ -500,7 +500,7 @@
         "title": "Open source experimental incubator build up",
         "filename": "30c3-5566-en-Open_source_experimental_incubator_build_up",
         "ticket_id": 1327,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5443": {
@@ -512,7 +512,7 @@
         "title": "Introduction to Processor Design",
         "filename": "30c3-5443-en-Introduction_to_Processor_Design",
         "ticket_id": 1315,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5425": {
@@ -524,7 +524,7 @@
         "title": "Hacking as Artistic Practice",
         "filename": "30c3-5425-en-Hacking_as_Artistic_Practice",
         "ticket_id": 1328,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5542": {
@@ -536,7 +536,7 @@
         "title": "Revisiting \"Trusting Trust\" for binary toolchains",
         "filename": "30c3-5542-en-Revisiting_Trusting_Trust_for_binary_toolchains",
         "ticket_id": 1308,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5416": {
@@ -548,7 +548,7 @@
         "title": "Desperately Seeking Susy",
         "filename": "30c3-5416-en-de-Desperately_Seeking_Susy",
         "ticket_id": 1329,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5210": {
@@ -560,7 +560,7 @@
         "title": "Bullshit made in Germany",
         "filename": "30c3-5210-de-en-Bullshit_made_in_Germany",
         "ticket_id": 1316,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara incomplete, text in pad complete? (de)",
         "amara": false
     },
     "5440": {
@@ -572,7 +572,7 @@
         "title": "Art of the Exploit: An Introduction to Critical Engineering",
         "filename": "30c3-5440-en-de-Art_of_the_Exploit_An_Introduction_to_Critical_Engineering",
         "ticket_id": 1309,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5186": {
@@ -584,7 +584,7 @@
         "title": "Programming FPGAs with PSHDL",
         "filename": "30c3-5186-en-Programming_FPGAs_with_PSHDL",
         "ticket_id": 1330,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5446": {
@@ -596,7 +596,7 @@
         "title": "The good, the bad, and the ugly - Linux Kernel patches",
         "filename": "30c3-5446-en-The_good_the_bad_and_the_ugly_-_Linux_Kernel_patches",
         "ticket_id": 1317,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5437": {
@@ -608,7 +608,7 @@
         "title": "Plants & Machines",
         "filename": "30c3-5437-en-Plants_Machines",
         "ticket_id": 1318,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5582": {
@@ -620,7 +620,7 @@
         "title": "SCADA StrangeLove 2",
         "filename": "30c3-5582-en-SCADA_StrangeLove_2",
         "ticket_id": 1310,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5361": {
@@ -632,7 +632,7 @@
         "title": "Disclosure DOs, Disclosure DON'Ts",
         "filename": "30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts",
         "ticket_id": 1331,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5319": {
@@ -644,7 +644,7 @@
         "title": "Technomonopolies",
         "filename": "30c3-5319-en-Technomonopolies",
         "ticket_id": 1319,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5614": {
@@ -656,7 +656,7 @@
         "title": "Perfect Paul",
         "filename": "30c3-5614-en-Perfect_Paul",
         "ticket_id": 2980,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5483": {
@@ -668,7 +668,7 @@
         "title": "Europe, the USA and Identity Ecosystems",
         "filename": "30c3-5483-en-Europe_the_USA_and_Identity_Ecosystems",
         "ticket_id": 1362,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5391": {
@@ -680,7 +680,7 @@
         "title": "Y U NO ISP, taking back the Net",
         "filename": "30c3-5391-en-de-Y_U_NO_ISP_taking_back_the_Net",
         "ticket_id": 1381,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5552": {
@@ -692,7 +692,7 @@
         "title": "India's Surveillance State",
         "filename": "30c3-5552-en-India_s_Surveillance_State",
         "ticket_id": 1371,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5479": {
@@ -704,7 +704,7 @@
         "title": "Building a safe NFC ticketing system",
         "filename": "30c3-5479-en-Building_a_safe_NFC_ticketing_system",
         "ticket_id": 1382,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5543": {
@@ -716,7 +716,7 @@
         "title": "ID Cards in China: Your Worst Nightmare",
         "filename": "30c3-5543-en-de-ID_Cards_in_China_Your_Worst_Nightmare",
         "ticket_id": 1363,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5563": {
@@ -728,7 +728,7 @@
         "title": "Lightning Talks, Day 3",
         "filename": "30c3-5563-en-de-Lightning_Talks_Day_3",
         "ticket_id": 1372,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5594": {
@@ -740,7 +740,7 @@
         "title": "Structuring open hardware projects",
         "filename": "30c3-5594-en-Structuring_open_hardware_projects",
         "ticket_id": 1383,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5420": {
@@ -752,7 +752,7 @@
         "title": "calc.pw",
         "filename": "30c3-5420-de-en-calcpw",
         "ticket_id": 1384,
-        "wiki_status": "unknown",
+        "wiki_status": "needs review (klingon/mixed) / needs translation (de)",
         "amara": false
     },
     "5334": {
@@ -764,7 +764,7 @@
         "title": "RFID Treehouse of Horror",
         "filename": "30c3-5334-en-RFID_Treehouse_of_Horror",
         "ticket_id": 1364,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5595": {
@@ -776,7 +776,7 @@
         "title": "The ArduGuitar",
         "filename": "30c3-5595-en-The_ArduGuitar",
         "ticket_id": 1385,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5526": {
@@ -788,7 +788,7 @@
         "title": "How to Build a Mind",
         "filename": "30c3-5526-en-How_to_Build_a_Mind",
         "ticket_id": 1365,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5395": {
@@ -800,7 +800,7 @@
         "title": "Towards an affordable brain-computer-interface",
         "filename": "30c3-5395-en-Towards_an_affordable_brain-computer-interface",
         "ticket_id": 1386,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5475": {
@@ -812,7 +812,7 @@
         "title": "#SOPA, #NSA, and the New Internet \"Lobby\"",
         "filename": "30c3-5475-en-_SOPA_NSA_and_the_New_Internet_Lobby",
         "ticket_id": 1373,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5494": {
@@ -824,7 +824,7 @@
         "title": "Nerds in the news",
         "filename": "30c3-5494-en-Nerds_in_the_news",
         "ticket_id": 1374,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5590": {
@@ -836,7 +836,7 @@
         "title": "White-Box Cryptography",
         "filename": "30c3-5590-en-White-Box_Cryptography",
         "ticket_id": 1366,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5433": {
@@ -848,7 +848,7 @@
         "title": "Recht auf Remix",
         "filename": "30c3-5433-de-en-Recht_auf_Remix",
         "ticket_id": 1387,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (de)",
         "amara": false
     },
     "5405": {
@@ -860,7 +860,7 @@
         "title": "Data Mining for Good",
         "filename": "30c3-5405-en-Data_Mining_for_Good",
         "ticket_id": 1375,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5469": {
@@ -872,7 +872,7 @@
         "title": "2 Takte sp\u00e4ter",
         "filename": "30c3-5469-de-en-2_Takte_spaeter",
         "ticket_id": 1376,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (de)",
         "amara": false
     },
     "5380": {
@@ -884,7 +884,7 @@
         "title": "Persistent, Stealthy, Remote-controlled Dedicated Hardware Malware",
         "filename": "30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware",
         "ticket_id": 1367,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5571": {
@@ -896,7 +896,7 @@
         "title": "Calafou, postcapitalist ecoindustrial community",
         "filename": "30c3-5571-en-Calafou_postcapitalist_ecoindustrial_community",
         "ticket_id": 1388,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5500": {
@@ -908,7 +908,7 @@
         "title": "Anonymity and Privacy in Public Space and on the Internet",
         "filename": "30c3-5500-en-Anonymity_and_Privacy_in_Public_Space_and_on_the_Internet",
         "ticket_id": 1377,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5538": {
@@ -920,7 +920,7 @@
         "title": "The Internet (Doesn't) Need Another Security Guide",
         "filename": "30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide",
         "ticket_id": 1368,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5223": {
@@ -932,7 +932,7 @@
         "title": "WarGames in memory",
         "filename": "30c3-5223-en-WarGames_in_memory",
         "ticket_id": 1389,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5322": {
@@ -944,7 +944,7 @@
         "title": "Reverse engineering the Wii U Gamepad",
         "filename": "30c3-5322-en-Reverse_engineering_the_Wii_U_Gamepad",
         "ticket_id": 1378,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (de)",
         "amara": false
     },
     "5619": {
@@ -956,7 +956,7 @@
         "title": "Mind-Hacking mit Psychedelika",
         "filename": "30c3-5619-de-en-Mind-Hacking_mit_Psychedelika",
         "ticket_id": 1369,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5445": {
@@ -968,7 +968,7 @@
         "title": "Virtually Impossible: The Reality Of Virtualization Security",
         "filename": "30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security",
         "ticket_id": 1390,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5478": {
@@ -980,7 +980,7 @@
         "title": "Backdoors, Government Hacking and The Next Crypto Wars",
         "filename": "30c3-5478-en-de-Backdoors_Government_Hacking_and_The_Next_Crypto_Wars",
         "ticket_id": 1379,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5502": {
@@ -992,7 +992,7 @@
         "title": "Zwischen supersicherer Verschl\u00fcsselung und Klartext liegt nur ein falsches Bit ",
         "filename": "30c3-5502-de-en-Zwischen_supersicherer_Verschluesselung_und_Klartext_liegt_nur_ein_falsches_Bit_",
         "ticket_id": 1370,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5426": {
@@ -1004,7 +1004,7 @@
         "title": "Das FlipDot-Projekt",
         "filename": "30c3-5426-de-en-Das_FlipDot-Projekt",
         "ticket_id": 1391,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (de)",
         "amara": false
     },
     "5532": {
@@ -1016,7 +1016,7 @@
         "title": "Die Drohnenkriege",
         "filename": "30c3-5532-de-en-Die_Drohnenkriege",
         "ticket_id": 1380,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (de)",
         "amara": false
     },
     "5713": {
@@ -1028,7 +1028,7 @@
         "title": "To Protect And Infect, Part 2",
         "filename": "30c3-5713-en-de-To_Protect_And_Infect_Part_2",
         "ticket_id": 3475,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5550": {
@@ -1040,7 +1040,7 @@
         "title": "Beyond the Tech: Building Internet Freedom Tools for Real People",
         "filename": "30c3-5550-en-Beyond_the_Tech_Building_Internet_Freedom_Tools_for_Real_People",
         "ticket_id": 1422,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5289": {
@@ -1052,7 +1052,7 @@
         "title": "Coding your body",
         "filename": "30c3-5289-en-Coding_your_body",
         "ticket_id": 1425,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5467": {
@@ -1064,7 +1064,7 @@
         "title": "Warum die Digitale Revolution des Lernens gescheitert ist.",
         "filename": "30c3-5467-de-en-Warum_die_Digitale_Revolution_des_Lernens_gescheitert_ist",
         "ticket_id": 1419,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (de)",
         "amara": false
     },
     "5564": {
@@ -1076,7 +1076,7 @@
         "title": "Lightning Talks, Day 4",
         "filename": "30c3-5564-en-de-Lightning_Talks_Day_4",
         "ticket_id": 1423,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5278": {
@@ -1088,7 +1088,7 @@
         "title": "The philosophy of hacking",
         "filename": "30c3-5278-en-The_philosophy_of_hacking",
         "ticket_id": 1426,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5539": {
@@ -1100,7 +1100,7 @@
         "title": "Human Rights and Technology",
         "filename": "30c3-5539-en-Human_Rights_and_Technology",
         "ticket_id": 1427,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5421": {
@@ -1112,7 +1112,7 @@
         "title": "THE DATABASE NATION, a.k.a THE STATE OF SURVEILLANCE",
         "filename": "30c3-5421-en-THE_DATABASE_NATION_aka_THE_STATE_OF_SURVEILLANCE",
         "ticket_id": 1420,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5609": {
@@ -1124,7 +1124,7 @@
         "title": "Infrastructure Review",
         "filename": "30c3-5609-en-Infrastructure_Review",
         "ticket_id": 1428,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5495": {
@@ -1136,7 +1136,7 @@
         "title": "Concepts for global TSCM",
         "filename": "30c3-5495-en-Concepts_for_global_TSCM",
         "ticket_id": 1421,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5293": {
@@ -1148,7 +1148,7 @@
         "title": "Dead Man Edition",
         "filename": "30c3-5293-de-en-Dead_Man_Edition",
         "ticket_id": 1429,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5444": {
@@ -1160,7 +1160,7 @@
         "title": "Attacking HomeMatic",
         "filename": "30c3-5444-en-Attacking_HomeMatic",
         "ticket_id": 1424,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5376": {
@@ -1172,7 +1172,7 @@
         "title": "Do You Think That's Funny?",
         "filename": "30c3-5376-en-Do_You_Think_That_s_Funny_",
         "ticket_id": 1447,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara incomplete (en), text in pad looks complete",
         "amara": false
     },
     "5477": {
@@ -1184,7 +1184,7 @@
         "title": "An introduction to Firmware Analysis",
         "filename": "30c3-5477-en-An_introduction_to_Firmware_Analysis",
         "ticket_id": 1448,
-        "wiki_status": "unknown",
+        "wiki_status": "needs review (en)",
         "amara": false
     },
     "5281": {
@@ -1196,7 +1196,7 @@
         "title": "Keine Anhaltspunkte f\u00fcr fl\u00e4chendeckende \u00dcberwachung",
         "filename": "30c3-5281-de-en-Keine_Anhaltspunkte_fuer_flaechendeckende_UEberwachung",
         "ticket_id": 1449,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5634": {
@@ -1208,7 +1208,7 @@
         "title": "07KINGSTON25 JAMAICA: MALARIA UPDATE Dispatches from Fort Meade",
         "filename": "30c3-5634-en-07KINGSTON25_JAMAICA_MALARIA_UPDATE_Dispatches_from_Fort_Meade",
         "ticket_id": 1450,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5449": {
@@ -1220,7 +1220,7 @@
         "title": "Mobile network attack evolution",
         "filename": "30c3-5449-en-Mobile_network_attack_evolution",
         "ticket_id": 1451,
-        "wiki_status": "unknown",
+        "wiki_status": "needs review (en)",
         "amara": false
     },
     "5412": {
@@ -1232,7 +1232,7 @@
         "title": "Bug class genocide",
         "filename": "30c3-5412-en-Bug_class_genocide",
         "ticket_id": 1452,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5622": {
@@ -1244,7 +1244,7 @@
         "title": "30c3 Keynote",
         "filename": "30c3-5622-en-de-30c3_Keynote",
         "ticket_id": 1453,
-        "wiki_status": "unknown",
+        "wiki_status": "complete (en)",
         "amara": false
     },
     "5423": {
@@ -1256,7 +1256,7 @@
         "title": "The Tor Network",
         "filename": "30c3-5423-en-The_Tor_Network",
         "ticket_id": 1454,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5618": {
@@ -1268,7 +1268,7 @@
         "title": "Baseband Exploitation in 2013",
         "filename": "30c3-5618-en-Baseband_Exploitation_in_2013",
         "ticket_id": 1455,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5491": {
@@ -1280,7 +1280,7 @@
         "title": "No Neutral Ground in a Burning World",
         "filename": "30c3-5491-en-de-No_Neutral_Ground_in_a_Burning_World",
         "ticket_id": 1456,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5577": {
@@ -1292,7 +1292,7 @@
         "title": "Hacker Jeopardy",
         "filename": "30c3-5577-de-en-Hacker_Jeopardy",
         "ticket_id": 1457,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5214": {
@@ -1304,7 +1304,7 @@
         "title": "The Gospel of IRMA ",
         "filename": "30c3-5214-en-The_Gospel_of_IRMA_",
         "ticket_id": 1499,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5537": {
@@ -1316,7 +1316,7 @@
         "title": "Glass Hacks",
         "filename": "30c3-5537-en-Glass_Hacks",
         "ticket_id": 1500,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5463": {
@@ -1328,7 +1328,7 @@
         "title": "Hillbilly Tracking of Low Earth Orbit",
         "filename": "30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit",
         "ticket_id": 1501,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara, incomplete (en)",
         "amara": false
     },
     "5193": {
@@ -1340,7 +1340,7 @@
         "title": "Hardware Attacks, Advanced ARM Exploitation, and Android Hacking",
         "filename": "30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking",
         "ticket_id": 1503,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5339": {
@@ -1352,7 +1352,7 @@
         "title": "The Year in Crypto",
         "filename": "30c3-5339-en-de-The_Year_in_Crypto",
         "ticket_id": 1504,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5548": {
@@ -1364,7 +1364,7 @@
         "title": "25 Jahre Chipkarten-Angriffe",
         "filename": "30c3-5548-de-en-25_Jahre_Chipkarten-Angriffe",
         "ticket_id": 1505,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de) with translation (en) mixed. needs to be split.",
         "amara": false
     },
     "5459": {
@@ -1376,7 +1376,7 @@
         "title": "Security of the IC Backside",
         "filename": "30c3-5459-en-de-Security_of_the_IC_Backside",
         "ticket_id": 1506,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5604": {
@@ -1388,7 +1388,7 @@
         "title": "Seeing The Secret State: Six Landscapes",
         "filename": "30c3-5604-en-de-Seeing_The_Secret_State_Six_Landscapes",
         "ticket_id": 1507,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5608": {
@@ -1400,7 +1400,7 @@
         "title": "Jahresr\u00fcckblick des CCC",
         "filename": "30c3-5608-de-en-Jahresrueckblick_des_CCC",
         "ticket_id": 1508,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (de)",
         "amara": false
     },
     "5587": {
@@ -1412,7 +1412,7 @@
         "title": "Making machines that make",
         "filename": "30c3-5587-en-Making_machines_that_make",
         "ticket_id": 1557,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete (en)",
         "amara": false
     },
     "5406": {
@@ -1424,7 +1424,7 @@
         "title": "Drones",
         "filename": "30c3-5406-en-Drones",
         "ticket_id": 1558,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5294": {
@@ -1436,7 +1436,7 @@
         "title": "The Exploration and Exploitation of an SD Memory Card",
         "filename": "30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card",
         "ticket_id": 1559,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5192": {
@@ -1448,7 +1448,7 @@
         "title": "Android DDI",
         "filename": "30c3-5192-en-Android_DDI",
         "ticket_id": 1560,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5279": {
@@ -1460,7 +1460,7 @@
         "title": "Even More Tamagotchis Were Harmed in the Making of this Presentation",
         "filename": "30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation",
         "ticket_id": 1561,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5499": {
@@ -1472,7 +1472,7 @@
         "title": "X Security",
         "filename": "30c3-5499-en-X_Security",
         "ticket_id": 1562,
-        "wiki_status": "unknown",
+        "wiki_status": "\u2717 (en)",
         "amara": false
     },
     "5295": {
@@ -1484,7 +1484,7 @@
         "title": "The Four Wars",
         "filename": "30c3-5295-en-The_Four_Wars",
         "ticket_id": 1563,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5439": {
@@ -1508,7 +1508,7 @@
         "title": "Trezor: Bitcoin hardware wallet",
         "filename": "30c3-5545-en-Trezor_Bitcoin_hardware_wallet",
         "ticket_id": 1564,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5397": {
@@ -1520,7 +1520,7 @@
         "title": "Sysadmins of the world, unite!",
         "filename": "30c3-5397-en-Sysadmins_of_the_world_unite_",
         "ticket_id": 1565,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5304": {
@@ -1532,7 +1532,7 @@
         "title": "CounterStrike",
         "filename": "30c3-5304-en-CounterStrike",
         "ticket_id": 1566,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5490": {
@@ -1544,7 +1544,7 @@
         "title": "Fnord News Show",
         "filename": "30c3-5490-de-Fnord_News_Show",
         "ticket_id": 1567,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad complete, needs spell checking (de)",
         "amara": false
     },
     "5593": {
@@ -1556,7 +1556,7 @@
         "title": "Hacking the Czech Parliament via SMS",
         "filename": "30c3-5593-en-Hacking_the_Czech_Parliament_via_SMS",
         "ticket_id": 1618,
-        "wiki_status": "unknown",
+        "wiki_status": "text at amara (en)",
         "amara": false
     },
     "5600": {
@@ -1568,7 +1568,7 @@
         "title": "Thwarting the Evil Maid Attacks",
         "filename": "30c3-5600-en-Thwarting_the_Evil_Maid_Attacks",
         "ticket_id": 1619,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5255": {
@@ -1580,7 +1580,7 @@
         "title": "Through a PRISM, Darkly",
         "filename": "30c3-5255-en-de-Through_a_PRISM_Darkly",
         "ticket_id": 1620,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (en)",
         "amara": false
     },
     "5623": {
@@ -1592,7 +1592,7 @@
         "title": "Amtliche Datensch\u00fctzer: Kontrolleure oder Papiertiger?",
         "filename": "30c3-5623-de-en-Amtliche_Datenschuetzer_Kontrolleure_oder_Papiertiger_",
         "ticket_id": 1621,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5413": {
@@ -1604,7 +1604,7 @@
         "title": "Security Nightmares",
         "filename": "30c3-5413-de-Security_Nightmares",
         "ticket_id": 1622,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     },
     "5606": {
@@ -1616,7 +1616,7 @@
         "title": "Closing Event",
         "filename": "30c3-5606-de-en-Closing_Event",
         "ticket_id": 1623,
-        "wiki_status": "unknown",
+        "wiki_status": "text in pad (de)",
         "amara": false
     }
 }
