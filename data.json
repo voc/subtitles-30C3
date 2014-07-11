@@ -627,7 +627,120 @@
         "ticket_id": 1262,
         "wiki_status": "complete (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5415-de-en-Der_tiefe_Staat_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:33:34",
+            "description": "",
+            "duration": null,
+            "id": "uHzeWq1IRNnF",
+            "languages": [
+                {
+                    "code": "de",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/uHzeWq1IRNnF/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/uHzeWq1IRNnF/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-01T18:12:39",
+                    "description": "",
+                    "id": "627269",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 10,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/uHzeWq1IRNnF/de/627269/",
+                    "subtitle_count": 635,
+                    "subtitles_complete": true,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.0015748031496063,
+                            "time_change": 0.52755905511811,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "cogitoergo",
+                            "published": true,
+                            "text_change": 0.010244286840032,
+                            "time_change": 0.68163908589441,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "cogitoergo",
+                            "published": true,
+                            "text_change": 0.0031545741324921,
+                            "time_change": 0.82492113564669,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.17502054231717,
+                            "time_change": 0.061626951520131,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "cogitoergo",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 1,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.047533632286995,
+                            "time_change": 1,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.3128078817734,
+                            "time_change": 0.31034482758621,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.046728971962617,
+                            "time_change": 0.046728971962617,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 0.40495867768595,
+                            "time_change": 0.40495867768595,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Soesoe",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "de",
+            "resource_uri": "/api2/partners/videos/uHzeWq1IRNnF/",
+            "site_url": "http://www.amara.org/videos/uHzeWq1IRNnF/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5307": {
@@ -675,7 +788,25 @@
         "ticket_id": 1271,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:30:15",
+            "description": "",
+            "duration": null,
+            "id": "qiHBDq7IqHII",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/qiHBDq7IqHII/",
+            "site_url": "http://www.amara.org/videos/qiHBDq7IqHII/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5497": {
@@ -3290,7 +3421,53 @@
             "duration": null,
             "id": "3XwDZenurjPP",
             "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T10:49:27",
+                    "description": "The ArduGuitar EN",
+                    "id": "627596",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
 
+                    ],
+                    "num_versions": 3,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/3XwDZenurjPP/en/627596/",
+                    "subtitle_count": 229,
+                    "subtitles_complete": false,
+                    "title": "The ArduGuitar EN",
+                    "versions": [
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "text_change": 0.43302180685358,
+                            "time_change": 0.42679127725857,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "text_change": 0.48387096774194,
+                            "time_change": 0.5,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
             ],
             "metadata": [
 
@@ -3380,7 +3557,59 @@
         "filename": "30c3-5475-en-_SOPA_NSA_and_the_New_Internet_Lobby",
         "ticket_id": 1373,
         "wiki_status": "text at amara (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5475-en-_SOPA_NSA_and_the_New_Internet_Lobby_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:33:37",
+            "description": "",
+            "duration": null,
+            "id": "PooCBJvwwEVt",
+            "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2013-12-30T06:31:53",
+                    "description": "",
+                    "id": "626054",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 1,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/en/626054/",
+                    "subtitle_count": 4,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "twissi.mail",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/",
+            "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5494": {
         "fahrplan_start": "16:45",
@@ -3600,7 +3829,106 @@
         "ticket_id": 1376,
         "wiki_status": "complete (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5469-de-en-2_Takte_spaeter_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:25:43",
+            "description": "",
+            "duration": null,
+            "id": "45ezAPzxFMeh",
+            "languages": [
+                {
+                    "code": "de",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/45ezAPzxFMeh/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/45ezAPzxFMeh/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2013-12-30T17:13:50",
+                    "description": "",
+                    "id": "626321",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 8,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/45ezAPzxFMeh/de/626321/",
+                    "subtitle_count": 355,
+                    "subtitles_complete": true,
+                    "title": "2 Takte sp\u00e4ter",
+                    "versions": [
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.0028169014084507,
+                            "time_change": 0,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.043723554301834,
+                            "time_change": 0.22990126939351,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.22279792746114,
+                            "time_change": 0.22279792746114,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.56794425087108,
+                            "time_change": 0.57491289198606,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 1,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "dendem",
+                            "published": true,
+                            "text_change": 0.032258064516129,
+                            "time_change": 0,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "dendem",
+                            "published": true,
+                            "text_change": 0.12727272727273,
+                            "time_change": 0.12727272727273,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "dendem",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "de",
+            "resource_uri": "/api2/partners/videos/45ezAPzxFMeh/",
+            "site_url": "http://www.amara.org/videos/45ezAPzxFMeh/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": "2 Takte sp\u00e4ter"
         }
     },
     "5380": {
@@ -3615,7 +3943,25 @@
         "ticket_id": 1367,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:32",
+            "description": "",
+            "duration": null,
+            "id": "QQ8u48nOqITN",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/QQ8u48nOqITN/",
+            "site_url": "http://www.amara.org/videos/QQ8u48nOqITN/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5571": {
@@ -3729,7 +4075,25 @@
         "ticket_id": 1389,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5223-en-WarGames_in_memory_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:30:20",
+            "description": "",
+            "duration": null,
+            "id": "RigB9nK8XRoR",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/RigB9nK8XRoR/",
+            "site_url": "http://www.amara.org/videos/RigB9nK8XRoR/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5322": {
@@ -3777,7 +4141,25 @@
         "ticket_id": 1369,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5619-de-en-Mind-Hacking_mit_Psychedelika_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:07",
+            "description": "",
+            "duration": null,
+            "id": "XdRDZvqRO7Hh",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/XdRDZvqRO7Hh/",
+            "site_url": "http://www.amara.org/videos/XdRDZvqRO7Hh/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5445": {
@@ -3800,7 +4182,46 @@
             "duration": null,
             "id": "QnlKic8UEoAx",
             "languages": [
+                {
+                    "code": "en",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-07T12:05:11",
+                    "description": "",
+                    "id": "630927",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
 
+                    ],
+                    "num_versions": 2,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/en/630927/",
+                    "subtitle_count": 46,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "text_change": 0.33333333333333,
+                            "time_change": 0.27777777777778,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
             ],
             "metadata": [
 
@@ -3858,7 +4279,25 @@
         "ticket_id": 1370,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5502-de-en-Zwischen_supersicherer_Verschluesselung_und_Klartext_liegt_nur_ein_falsches_Bit__h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:18",
+            "description": "",
+            "duration": null,
+            "id": "dBDKDlwER1mY",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/dBDKDlwER1mY/",
+            "site_url": "http://www.amara.org/videos/dBDKDlwER1mY/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5426": {
@@ -3906,7 +4345,64 @@
         "ticket_id": 1380,
         "wiki_status": "text at amara (de)",
         "amara": {
-            "error": "Bad Gateway"
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5532-de-en-Die_Drohnenkriege_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:43",
+            "description": "",
+            "duration": null,
+            "id": "rSRyxS0R3ltH",
+            "languages": [
+                {
+                    "code": "de",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/rSRyxS0R3ltH/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/rSRyxS0R3ltH/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-05T08:26:12",
+                    "description": "",
+                    "id": "629489",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 2,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/rSRyxS0R3ltH/de/629489/",
+                    "subtitle_count": 199,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "hideki23",
+                            "published": true,
+                            "text_change": 0.40636042402827,
+                            "time_change": 0.40636042402827,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "hideki23",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "de",
+            "resource_uri": "/api2/partners/videos/rSRyxS0R3ltH/",
+            "site_url": "http://www.amara.org/videos/rSRyxS0R3ltH/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
         }
     },
     "5713": {
@@ -3969,6 +4465,109 @@
                         },
                         {
                             "author": "saerdnaer",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                },
+                {
+                    "code": "ja",
+                    "name": "Japanese",
+                    "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/",
+                    "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/subtitles/",
+                    "visible": true,
+                    "created": "2014-04-10T20:27:35",
+                    "description": "\uff0a\u304a\u9858\u3044\uff0a\n\u82f1\u8a9e\u306e\u3001\u3082\u3057\u304f\u306fPC\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u7528\u8a9e\u306e\u70b9\u304b\u3089\u898b\u3066\u3001\u7406\u89e3\u304c\u8db3\u3089\u305a\u6b63\u3057\u304f\u8a33\u305b\u3066\u3044\u306a\u3044\u7b87\u6240\u304c\u3042\u308b\u3068\u601d\u3044\u307e\u3059\u3002\n\u53b3\u5bc6\u3055\u306e\u5411\u4e0a\u306e\u305f\u3081\u306b\u3001\u4fee\u6b63\u70b9\u304c\u3042\u308c\u3070\u305c\u3072\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                    "id": "703624",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "ja",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 11,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
+                    "subtitle_count": 568,
+                    "subtitles_complete": true,
+                    "title": "To Protect And Infect, Part 2",
+                    "versions": [
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0.11267605633803,
+                            "version_no": 11
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.0026431718061674,
+                            "time_change": 0.36387665198238,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.14285714285714,
+                            "time_change": 0.97402597402597,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.24177396280401,
+                            "time_change": 0.24177396280401,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.021194605009634,
+                            "time_change": 0.021194605009634,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.3455497382199,
+                            "time_change": 0.32984293193717,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.08936170212766,
+                            "time_change": 0.08936170212766,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.37106918238994,
+                            "time_change": 0.34591194968553,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.48571428571429,
+                            "time_change": 0.48571428571429,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "kaoruco",
+                            "published": true,
+                            "text_change": 0.89473684210526,
+                            "time_change": 0.89473684210526,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "kaoruco",
                             "published": true,
                             "text_change": 1,
                             "time_change": 1,
