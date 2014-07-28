@@ -5743,102 +5743,7 @@
             "duration": null,
             "id": "BtTNgV2drDsk",
             "languages": [
-                {
-                    "code": "en",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T17:52:55",
-                    "description": "",
-                    "id": "627845",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [
 
-                    ],
-                    "num_versions": 10,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/BtTNgV2drDsk/en/627845/",
-                    "subtitle_count": 271,
-                    "subtitles_complete": false,
-                    "title": "Hillbilly Tracking of Low Earth Orbit",
-                    "versions": [
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.079777365491651,
-                            "time_change": 0.0055658627087198,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.2039603960396,
-                            "time_change": 0.061386138613861,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.085836909871245,
-                            "time_change": 0.017167381974249,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.033112582781457,
-                            "time_change": 0.033112582781457,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.081447963800905,
-                            "time_change": 1,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.039443155452436,
-                            "time_change": 0.011600928074246,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "mieBae2m",
-                            "published": true,
-                            "text_change": 0.98305084745763,
-                            "time_change": 0.80508474576271,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "mieBae2m",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 0.91666666666667,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "mieBae2m",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 0,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "mieBae2m",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
             ],
             "metadata": [
 
@@ -5863,25 +5768,7 @@
         "ticket_id": 1503,
         "wiki_status": "text in pad complete (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:45",
-            "description": "",
-            "duration": null,
-            "id": "H4NXhKj5ZfrF",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/H4NXhKj5ZfrF/",
-            "site_url": "http://www.amara.org/videos/H4NXhKj5ZfrF/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5339": {
@@ -5896,25 +5783,7 @@
         "ticket_id": 1504,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5339-en-de-The_Year_in_Crypto_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:14",
-            "description": "",
-            "duration": null,
-            "id": "yjj9d3T8OReh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/yjj9d3T8OReh/",
-            "site_url": "http://www.amara.org/videos/yjj9d3T8OReh/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5548": {
@@ -5929,25 +5798,7 @@
         "ticket_id": 1505,
         "wiki_status": "text in pad (de) with translation (en) mixed. needs to be split.",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5548-de-en-25_Jahre_Chipkarten-Angriffe_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:23",
-            "description": "",
-            "duration": null,
-            "id": "sPE3RUZF69vx",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/sPE3RUZF69vx/",
-            "site_url": "http://www.amara.org/videos/sPE3RUZF69vx/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5459": {
@@ -5962,25 +5813,7 @@
         "ticket_id": 1506,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5459-en-de-Security_of_the_IC_Backside_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:00",
-            "description": "",
-            "duration": null,
-            "id": "ZjVJLD91CzEa",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/ZjVJLD91CzEa/",
-            "site_url": "http://www.amara.org/videos/ZjVJLD91CzEa/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5604": {
@@ -5995,114 +5828,7 @@
         "ticket_id": 1507,
         "wiki_status": "text at amara (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5604-en-de-Seeing_The_Secret_State_Six_Landscapes_h264-iprod.mp4",
-                "http://www.youtube.com/watch?v=HTVgPw7TR_k"
-            ],
-            "created": "2014-01-02T13:38:59",
-            "description": "Seeing The Secret State: Six Landscapes\n\nAlthough people around the world are becoming increasingly aware of the United States' global geography of surveillance, covert action, and other secret programs, much of this landscape is invisible in our everyday lives.\n  The drone war, for example, seems to happen \"somewhere else\" while surveillance programs take place among the (largely) invisible infrastructures and digital protocols of the internet and other communications networks. Moreover, the state agencies responsible for secret programs strive to make them as invisible as possible.  In this talk, artist Trevor Paglen discusses his work attempting to \"see\" the various aspects of the secret state. In examples ranging from tracking spy satellites to foraging through the bureaucratic refuse of CIA front companies, Paglen will discuss methods used to identify and exploit structural contradictions in classified programs which render them visible, and comment on the aesthetics and politics of attempting to \"see\" secrecy.\n\nSpeaker: Trevor Paglen\nEventID: 5604\nEvent: 30th Chaos Communication Congress [30c3] by the Chaos Computer Club [CCC]\nLocation: Congress Centrum Hamburg (CCH); Am Dammtor; Marseiller Stra\u00dfe; 20355 Hamburg; Germany\nLanguage: english\nBegin: Sat, 12/28/2013 23:00:00 +01:00\nLizenz: CC-by\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/DUSV/",
-            "duration": null,
-            "id": "DvMKST6ncdkf",
-            "languages": [
-                {
-                    "code": "en",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T16:40:14",
-                    "description": "",
-                    "id": "627799",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 9,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/DvMKST6ncdkf/en/627799/",
-                    "subtitle_count": 100,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 0.052083333333333,
-                            "time_change": 0.041666666666667,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.010989010989011,
-                            "time_change": 0.83516483516484,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0,
-                            "time_change": 0.077777777777778,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.039106145251397,
-                            "time_change": 0.27374301675978,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 0.25352112676056,
-                            "time_change": 0.25352112676056,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 0.23255813953488,
-                            "time_change": 0.23255813953488,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 0.21311475409836,
-                            "time_change": 0.081967213114754,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 0.018181818181818,
-                            "time_change": 0.018181818181818,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/",
-            "site_url": "http://www.amara.org/videos/DvMKST6ncdkf/info/",
-            "team": null,
-            "thumbnail": "https://i1.ytimg.com/vi/HTVgPw7TR_k/0.jpg",
-            "title": "Seeing The Secret State: Six Landscapes [30c3]"
+            "error": "Bad Gateway"
         }
     },
     "5608": {
@@ -6117,57 +5843,7 @@
         "ticket_id": 1508,
         "wiki_status": "text in pad complete (de)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5608-de-en-Jahresrueckblick_des_CCC_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T15:34:34",
-            "description": "",
-            "duration": null,
-            "id": "BJO0GQv9eqb8",
-            "languages": [
-                {
-                    "code": "de",
-                    "name": "German",
-                    "resource_uri": "/api2/partners/videos/BJO0GQv9eqb8/languages/de/",
-                    "subtitles_uri": "/api2/partners/videos/BJO0GQv9eqb8/languages/de/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-13T17:01:50",
-                    "description": "",
-                    "id": "635398",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "de",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 1,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/BJO0GQv9eqb8/de/635398/",
-                    "subtitle_count": 727,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/BJO0GQv9eqb8/",
-            "site_url": "http://www.amara.org/videos/BJO0GQv9eqb8/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5587": {
@@ -6182,25 +5858,7 @@
         "ticket_id": 1557,
         "wiki_status": "text in pad complete (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5587-en-Making_machines_that_make_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:21",
-            "description": "",
-            "duration": null,
-            "id": "dUXeyOx0rPbE",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/dUXeyOx0rPbE/",
-            "site_url": "http://www.amara.org/videos/dUXeyOx0rPbE/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5406": {
@@ -6215,25 +5873,7 @@
         "ticket_id": 1558,
         "wiki_status": "\u2717 (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5406-en-Drones_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:39:15",
-            "description": "",
-            "duration": null,
-            "id": "ORylwIVUQL9G",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/ORylwIVUQL9G/",
-            "site_url": "http://www.amara.org/videos/ORylwIVUQL9G/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5294": {
@@ -6248,25 +5888,7 @@
         "ticket_id": 1559,
         "wiki_status": "\u2717 (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:20:31",
-            "description": "",
-            "duration": null,
-            "id": "WBn2Wud86bIA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/WBn2Wud86bIA/",
-            "site_url": "http://www.amara.org/videos/WBn2Wud86bIA/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5192": {
@@ -6281,25 +5903,7 @@
         "ticket_id": 1560,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5192-en-Android_DDI_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:26",
-            "description": "",
-            "duration": null,
-            "id": "E6HP2r8oo8yT",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/E6HP2r8oo8yT/",
-            "site_url": "http://www.amara.org/videos/E6HP2r8oo8yT/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5279": {
@@ -6314,25 +5918,7 @@
         "ticket_id": 1561,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:23:09",
-            "description": "",
-            "duration": null,
-            "id": "eSmrG45AB7mJ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/eSmrG45AB7mJ/",
-            "site_url": "http://www.amara.org/videos/eSmrG45AB7mJ/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5499": {
@@ -6347,25 +5933,7 @@
         "ticket_id": 1562,
         "wiki_status": "\u2717 (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5499-en-X_Security_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:07",
-            "description": "",
-            "duration": null,
-            "id": "zQYOBTxLwAkw",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/zQYOBTxLwAkw/",
-            "site_url": "http://www.amara.org/videos/zQYOBTxLwAkw/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5295": {
@@ -6380,25 +5948,7 @@
         "ticket_id": 1563,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5295-en-The_Four_Wars_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:37",
-            "description": "",
-            "duration": null,
-            "id": "i0fwhOq5pZZB",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/i0fwhOq5pZZB/",
-            "site_url": "http://www.amara.org/videos/i0fwhOq5pZZB/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5439": {
@@ -6413,25 +5963,7 @@
         "ticket_id": 1624,
         "wiki_status": "unknown",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5439-en-To_Protect_And_Infect_h264-iprod.mp4"
-            ],
-            "created": "2014-01-12T12:18:53",
-            "description": "",
-            "duration": null,
-            "id": "hDjq9VBpCDoC",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/hDjq9VBpCDoC/",
-            "site_url": "http://www.amara.org/videos/hDjq9VBpCDoC/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5545": {
@@ -6446,25 +5978,7 @@
         "ticket_id": 1564,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5545-en-Trezor_Bitcoin_hardware_wallet_h264-iprod.mp4"
-            ],
-            "created": "2014-01-03T10:30:55",
-            "description": "",
-            "duration": null,
-            "id": "BFKTCvZCzGFZ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/BFKTCvZCzGFZ/",
-            "site_url": "http://www.amara.org/videos/BFKTCvZCzGFZ/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5397": {
@@ -6479,25 +5993,7 @@
         "ticket_id": 1565,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5397-en-Sysadmins_of_the_world_unite__h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:17:13",
-            "description": "",
-            "duration": null,
-            "id": "32W2JnLYgFm5",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/32W2JnLYgFm5/",
-            "site_url": "http://www.amara.org/videos/32W2JnLYgFm5/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5304": {
@@ -6512,25 +6008,7 @@
         "ticket_id": 1566,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5304-en-CounterStrike_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:20:33",
-            "description": "",
-            "duration": null,
-            "id": "apAPEtjBdnSj",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/apAPEtjBdnSj/",
-            "site_url": "http://www.amara.org/videos/apAPEtjBdnSj/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5490": {
@@ -6545,25 +6023,7 @@
         "ticket_id": 1567,
         "wiki_status": "text in pad complete, needs spell checking (de)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5490-de-Fnord_News_Show_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:55",
-            "description": "",
-            "duration": null,
-            "id": "z27dzyopUuBx",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/z27dzyopUuBx/",
-            "site_url": "http://www.amara.org/videos/z27dzyopUuBx/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5593": {
@@ -6578,57 +6038,7 @@
         "ticket_id": 1618,
         "wiki_status": "text at amara (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5593-en-Hacking_the_Czech_Parliament_via_SMS_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:31",
-            "description": "",
-            "duration": null,
-            "id": "OllWZNHjdn82",
-            "languages": [
-                {
-                    "code": "en",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T07:18:23",
-                    "description": "",
-                    "id": "628175",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 1,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/OllWZNHjdn82/en/628175/",
-                    "subtitle_count": 8,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/OllWZNHjdn82/",
-            "site_url": "http://www.amara.org/videos/OllWZNHjdn82/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5600": {
@@ -6643,25 +6053,7 @@
         "ticket_id": 1619,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5600-en-Thwarting_the_Evil_Maid_Attacks_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:17:38",
-            "description": "",
-            "duration": null,
-            "id": "VhjD6PdVI7r8",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/VhjD6PdVI7r8/",
-            "site_url": "http://www.amara.org/videos/VhjD6PdVI7r8/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5255": {
@@ -6676,25 +6068,7 @@
         "ticket_id": 1620,
         "wiki_status": "text in pad (en)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5255-en-de-Through_a_PRISM_Darkly_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:14",
-            "description": "",
-            "duration": null,
-            "id": "CKdWU3qm13d7",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/CKdWU3qm13d7/",
-            "site_url": "http://www.amara.org/videos/CKdWU3qm13d7/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5623": {
@@ -6709,99 +6083,7 @@
         "ticket_id": 1621,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5623-de-en-Amtliche_Datenschuetzer_Kontrolleure_oder_Papiertiger__h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:27:24",
-            "description": "",
-            "duration": null,
-            "id": "Mqh45F0UOpfb",
-            "languages": [
-                {
-                    "code": "de",
-                    "name": "German",
-                    "resource_uri": "/api2/partners/videos/Mqh45F0UOpfb/languages/de/",
-                    "subtitles_uri": "/api2/partners/videos/Mqh45F0UOpfb/languages/de/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-04T15:54:56",
-                    "description": "",
-                    "id": "629167",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "de",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 7,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/de/629167/",
-                    "subtitle_count": 1245,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 0.99781181619256,
-                            "time_change": 1,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "text_change": 0.16236722306525,
-                            "time_change": 0.16236722306525,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "text_change": 0.18539727988547,
-                            "time_change": 0.18539727988547,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "text_change": 0.43324937027708,
-                            "time_change": 0.43324937027708,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "Pejama",
-                            "published": true,
-                            "text_change": 0.76,
-                            "time_change": 1,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/Mqh45F0UOpfb/",
-            "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5413": {
@@ -6816,25 +6098,7 @@
         "ticket_id": 1622,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5413-de-Security_Nightmares_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:47",
-            "description": "",
-            "duration": null,
-            "id": "tcnyb7cNwcfY",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/tcnyb7cNwcfY/",
-            "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     },
     "5606": {
@@ -6849,25 +6113,7 @@
         "ticket_id": 1623,
         "wiki_status": "text in pad (de)",
         "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5606-de-en-Closing_Event_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T15:30:59",
-            "description": "",
-            "duration": null,
-            "id": "xmjBChWQkEPV",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/xmjBChWQkEPV/",
-            "site_url": "http://www.amara.org/videos/xmjBChWQkEPV/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
+            "error": "Bad Gateway"
         }
     }
 }
