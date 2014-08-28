@@ -5895,27 +5895,7 @@
         "filename": "30c3-5339-en-de-The_Year_in_Crypto",
         "ticket_id": 1504,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5339-en-de-The_Year_in_Crypto_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:14",
-            "description": "",
-            "duration": null,
-            "id": "yjj9d3T8OReh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/yjj9d3T8OReh/",
-            "site_url": "http://www.amara.org/videos/yjj9d3T8OReh/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5548": {
         "fahrplan_start": "20:30",
