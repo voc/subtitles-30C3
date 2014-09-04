@@ -21,6 +21,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/subtitles/",
@@ -61,6 +62,7 @@
                 },
                 {
                     "code": "fr",
+                    "dir": "ltr",
                     "name": "French",
                     "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/fr/",
                     "subtitles_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/fr/subtitles/",
@@ -168,6 +170,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/de/subtitles/",
@@ -292,6 +295,7 @@
                 },
                 {
                     "code": "fr",
+                    "dir": "ltr",
                     "name": "French",
                     "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/fr/",
                     "subtitles_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/fr/subtitles/",
@@ -420,6 +424,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/de/subtitles/",
@@ -558,6 +563,7 @@
                 },
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/subtitles/",
@@ -637,6 +643,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/uHzeWq1IRNnF/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/uHzeWq1IRNnF/languages/de/subtitles/",
@@ -864,6 +871,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/kEbLTdDn300e/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/kEbLTdDn300e/languages/en/subtitles/",
@@ -1037,6 +1045,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/KsJjYDX1H0gY/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/KsJjYDX1H0gY/languages/en/subtitles/",
@@ -1578,6 +1587,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/715tJ4XhRPjc/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/715tJ4XhRPjc/languages/en/subtitles/",
@@ -2373,6 +2383,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/subtitles/",
@@ -2483,6 +2494,7 @@
                 },
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/subtitles/",
@@ -3078,6 +3090,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/de/subtitles/",
@@ -3230,6 +3243,7 @@
                 },
                 {
                     "code": "tlh",
+                    "dir": "ltr",
                     "name": "Klingon",
                     "resource_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/tlh/",
                     "subtitles_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/tlh/subtitles/",
@@ -3358,6 +3372,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/DmPI1rpqWLZH/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/DmPI1rpqWLZH/languages/en/subtitles/",
@@ -3423,6 +3438,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/subtitles/",
@@ -3568,6 +3584,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/subtitles/",
@@ -3732,6 +3749,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/subtitles/",
@@ -3839,6 +3857,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/45ezAPzxFMeh/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/45ezAPzxFMeh/languages/de/subtitles/",
@@ -4184,6 +4203,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/subtitles/",
@@ -4355,6 +4375,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/rSRyxS0R3ltH/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/rSRyxS0R3ltH/languages/de/subtitles/",
@@ -4427,6 +4448,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/en/subtitles/",
@@ -4474,6 +4496,7 @@
                 },
                 {
                     "code": "ja",
+                    "dir": "ltr",
                     "name": "Japanese",
                     "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/",
                     "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/subtitles/",
@@ -4972,6 +4995,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/pZMiDSNMlhYq/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/pZMiDSNMlhYq/languages/en/subtitles/",
@@ -5065,6 +5089,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/subtitles/",
@@ -5203,6 +5228,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/subtitles/",
@@ -5315,6 +5341,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/eBoWzGWkTn2Z/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/eBoWzGWkTn2Z/languages/en/subtitles/",
@@ -5450,6 +5477,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/ogSRd61FX656/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/ogSRd61FX656/languages/en/subtitles/",
@@ -5576,6 +5604,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/subtitles/",
@@ -5745,6 +5774,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/BtTNgV2drDsk/languages/en/subtitles/",
@@ -6006,6 +6036,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/subtitles/",
@@ -6127,6 +6158,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/BJO0GQv9eqb8/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/BJO0GQv9eqb8/languages/de/subtitles/",
@@ -6588,6 +6620,7 @@
             "languages": [
                 {
                     "code": "en",
+                    "dir": "ltr",
                     "name": "English",
                     "resource_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/",
                     "subtitles_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/subtitles/",
@@ -6719,6 +6752,7 @@
             "languages": [
                 {
                     "code": "de",
+                    "dir": "ltr",
                     "name": "German",
                     "resource_uri": "/api2/partners/videos/Mqh45F0UOpfb/languages/de/",
                     "subtitles_uri": "/api2/partners/videos/Mqh45F0UOpfb/languages/de/subtitles/",
