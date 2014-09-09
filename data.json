@@ -20,47 +20,6 @@
             "id": "j2vSO9vtZNSz",
             "languages": [
                 {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T15:44:47",
-                    "description": "Introductory event to say hello to everybody, give a brief overview of the event's features and look into history and future alike",
-                    "id": "627783",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 2,
-                    "official_signoff_count": 0,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/en/627783/",
-                    "subtitle_count": 80,
-                    "subtitles_complete": true,
-                    "title": "Opening Event 30C3 - Tim Pritlove",
-                    "versions": [
-                        {
-                            "author": "Florob",
-                            "published": true,
-                            "text_change": 0.0625,
-                            "time_change": 0.0625,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                },
-                {
                     "code": "fr",
                     "dir": "ltr",
                     "name": "French",
@@ -6279,27 +6238,7 @@
         "filename": "30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card",
         "ticket_id": 1559,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T14:20:31",
-            "description": "",
-            "duration": null,
-            "id": "WBn2Wud86bIA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/WBn2Wud86bIA/",
-            "site_url": "http://www.amara.org/videos/WBn2Wud86bIA/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5192": {
         "fahrplan_start": "16:00",
@@ -6444,27 +6383,7 @@
         "filename": "30c3-5439-en-To_Protect_And_Infect",
         "ticket_id": 1624,
         "wiki_status": "unknown",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5439-en-To_Protect_And_Infect_h264-iprod.mp4"
-            ],
-            "created": "2014-01-12T12:18:53",
-            "description": "",
-            "duration": null,
-            "id": "hDjq9VBpCDoC",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/hDjq9VBpCDoC/",
-            "site_url": "http://www.amara.org/videos/hDjq9VBpCDoC/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5545": {
         "fahrplan_start": "22:00",
@@ -6708,27 +6627,7 @@
         "filename": "30c3-5255-en-de-Through_a_PRISM_Darkly",
         "ticket_id": 1620,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5255-en-de-Through_a_PRISM_Darkly_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:14",
-            "description": "",
-            "duration": null,
-            "id": "CKdWU3qm13d7",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/CKdWU3qm13d7/",
-            "site_url": "http://www.amara.org/videos/CKdWU3qm13d7/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5623": {
         "fahrplan_start": "16:00",
