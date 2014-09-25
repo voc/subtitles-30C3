@@ -5602,7 +5602,40 @@
             "duration": null,
             "id": "2kGOoOdz2i5w",
             "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T16:21:22",
+                    "description": "",
+                    "id": "628531",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
 
+                    ],
+                    "num_versions": 1,
+                    "official_signoff_count": 0,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/en/628531/",
+                    "subtitle_count": 2,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "stackexchange2",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
             ],
             "metadata": [
 
