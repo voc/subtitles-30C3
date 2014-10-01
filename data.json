@@ -6767,7 +6767,7 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 7,
+                    "num_versions": 9,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/de/629167/",
@@ -6775,6 +6775,20 @@
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.018459069020867,
+                            "time_change": 0.028892455858748,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.0096308186195827,
+                            "time_change": 0.023274478330658,
+                            "version_no": 8
+                        },
                         {
                             "author": "saerdnaer",
                             "published": true,
