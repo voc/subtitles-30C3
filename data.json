@@ -1147,27 +1147,7 @@
         "filename": "30c3-5527-en-Basics_of_Digital_Wireless_Communication",
         "ticket_id": 1265,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5527-en-Basics_of_Digital_Wireless_Communication_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:37:42",
-            "description": "",
-            "duration": null,
-            "id": "D8AZFS7Chxaz",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/D8AZFS7Chxaz/",
-            "site_url": "http://www.amara.org/videos/D8AZFS7Chxaz/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5447": {
         "fahrplan_start": "17:30",
