@@ -560,6 +560,54 @@
                             "version_no": 1
                         }
                     ]
+                },
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T22:56:51",
+                    "description": "30C3 \"\u00dcberwachen und Sprache\"",
+                    "id": "627957",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": true,
+                    "language_code": "en",
+                    "metadata": [
+
+                    ],
+                    "num_versions": 3,
+                    "official_signoff_count": 0,
+                    "original_language_code": "de",
+                    "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/en/627957/",
+                    "subtitle_count": 535,
+                    "subtitles_complete": false,
+                    "title": "Deutsch \u2013 \u00dcberwachen und Sprache",
+                    "versions": [
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.87476635514019,
+                            "time_change": 0,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 0.95327102803738,
+                            "time_change": 0,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "chrimoya08",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
                 }
             ],
             "metadata": [
@@ -6719,14 +6767,42 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 17,
+                    "num_versions": 21,
                     "official_signoff_count": 0,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/de/629167/",
-                    "subtitle_count": 1250,
-                    "subtitles_complete": false,
-                    "title": "",
+                    "subtitle_count": 1248,
+                    "subtitles_complete": true,
+                    "title": "Amtliche Datensch\u00fctzer: Kontrolleure oder Papiertiger?",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.0080128205128205,
+                            "time_change": 0.0048076923076923,
+                            "version_no": 21
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 0,
+                            "version_no": 20
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.042050460552663,
+                            "time_change": 0.038045654785743,
+                            "version_no": 19
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "text_change": 0.10284113645458,
+                            "time_change": 0.074829931972789,
+                            "version_no": 18
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
@@ -6857,7 +6933,7 @@
             "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/info/",
             "team": null,
             "thumbnail": "",
-            "title": ""
+            "title": "Amtliche Datensch\u00fctzer: Kontrolleure oder Papiertiger?"
         }
     },
     "5413": {
