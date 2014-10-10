@@ -560,54 +560,6 @@
                             "version_no": 1
                         }
                     ]
-                },
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T22:56:51",
-                    "description": "30C3 \"\u00dcberwachen und Sprache\"",
-                    "id": "627957",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": true,
-                    "language_code": "en",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 3,
-                    "official_signoff_count": 0,
-                    "original_language_code": "de",
-                    "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/en/627957/",
-                    "subtitle_count": 535,
-                    "subtitles_complete": false,
-                    "title": "Deutsch \u2013 \u00dcberwachen und Sprache",
-                    "versions": [
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "text_change": 0.87476635514019,
-                            "time_change": 0,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "text_change": 0.95327102803738,
-                            "time_change": 0,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
                 }
             ],
             "metadata": [
@@ -1745,7 +1697,27 @@
         "filename": "30c3-5611-en-Hello_World_",
         "ticket_id": 1303,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5611-en-Hello_World__h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:04",
+            "description": "",
+            "duration": null,
+            "id": "wyCcbUsLAeCi",
+            "languages": [
+
+            ],
+            "metadata": [
+
+            ],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/wyCcbUsLAeCi/",
+            "site_url": "http://www.amara.org/videos/wyCcbUsLAeCi/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5468": {
         "fahrplan_start": "11:30",
