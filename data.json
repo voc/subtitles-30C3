@@ -3639,27 +3639,7 @@
         "filename": "30c3-5494-en-Nerds_in_the_news",
         "ticket_id": 1374,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5494-en-Nerds_in_the_news_h264-iprod.mp4"
-            ],
-            "created": "2013-12-29T21:33:17",
-            "description": "",
-            "duration": null,
-            "id": "WwbRU9FUu5WT",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/WwbRU9FUu5WT/",
-            "site_url": "http://www.amara.org/videos/WwbRU9FUu5WT/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5590": {
         "fahrplan_start": "17:15",
