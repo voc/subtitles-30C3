@@ -2388,13 +2388,27 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 12,
+                    "num_versions": 14,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 782,
+                    "subtitle_count": 804,
                     "subtitles_complete": false,
                     "title": "Bullshit made in Germany",
                     "versions": [
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "text_change": 0.070440251572327,
+                            "time_change": 0.079245283018868,
+                            "version_no": 14
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "text_change": 0.099489795918367,
+                            "time_change": 0.021683673469388,
+                            "version_no": 13
+                        },
                         {
                             "author": "percidae",
                             "published": true,
