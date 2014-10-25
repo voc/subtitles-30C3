@@ -2064,7 +2064,7 @@
         "sort_id": 1313,
         "filename": "30c3-5588-en-de-My_journey_into_FM-RDS",
         "ticket_id": 1313,
-        "wiki_status": "text in pad complete (en)",
+        "wiki_status": "needs review (en)",
         "amara": {
             "all_urls": [
                 "http://subtitles.media.ccc.de/v/native/30c3-5588-en-de-My_journey_into_FM-RDS_h264-iprod.mp4"
@@ -2091,13 +2091,34 @@
                     "metadata": [
 
                     ],
-                    "num_versions": 5,
+                    "num_versions": 8,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/en/832993/",
-                    "subtitle_count": 59,
+                    "subtitle_count": 495,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 0.066937119675456,
+                            "time_change": 0.1683569979716,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 0.081967213114754,
+                            "time_change": 0.14549180327869,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 0.97794117647059,
+                            "time_change": 1,
+                            "version_no": 6
+                        },
                         {
                             "author": "jonathan.e.werner",
                             "published": true,
