@@ -2074,12 +2074,72 @@
             "duration": null,
             "id": "SZp7nj2FfhlP",
             "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/SZp7nj2FfhlP/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/SZp7nj2FfhlP/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-10-25T02:27:01",
+                    "description": "",
+                    "id": "832993",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [
 
+                    ],
+                    "num_versions": 5,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/en/832993/",
+                    "subtitle_count": 59,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 0.084745762711864,
+                            "time_change": 0.38983050847458,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 0,
+                            "time_change": 1,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 0.96666666666667,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 0,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "jonathan.e.werner",
+                            "published": true,
+                            "text_change": 1,
+                            "time_change": 1,
+                            "version_no": 1
+                        }
+                    ]
+                }
             ],
             "metadata": [
 
             ],
-            "original_language": null,
+            "original_language": "en",
             "resource_uri": "/api2/partners/videos/SZp7nj2FfhlP/",
             "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/info/",
             "team": null,
