@@ -10,141 +10,7 @@
         "filename": "30c3-5605-en-Opening_Event",
         "ticket_id": 3490,
         "wiki_status": "complete (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5605-en-Opening_Event_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:14",
-            "description": "Introductory event to say hello to everybody, give a brief overview of the event's features and look into history and future alike",
-            "duration": null,
-            "id": "j2vSO9vtZNSz",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T15:44:47",
-                    "description": "Introductory event to say hello to everybody, give a brief overview of the event's features and look into history and future alike",
-                    "id": "627783",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 2,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/en/627783/",
-                    "subtitle_count": 80,
-                    "subtitles_complete": true,
-                    "title": "Opening Event 30C3 - Tim Pritlove",
-                    "versions": [
-                        {
-                            "author": "Florob",
-                            "published": true,
-                            "text_change": 0.0625,
-                            "time_change": 0.0625,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                },
-                {
-                    "code": "fr",
-                    "dir": "ltr",
-                    "name": "French",
-                    "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/fr/",
-                    "subtitles_uri": "/api2/partners/videos/j2vSO9vtZNSz/languages/fr/subtitles/",
-                    "visible": true,
-                    "created": "2014-04-21T11:09:13",
-                    "description": "",
-                    "id": "710760",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "fr",
-                    "metadata": [
-
-                    ],
-                    "num_versions": 7,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/fr/710760/",
-                    "subtitle_count": 80,
-                    "subtitles_complete": true,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0,
-                            "time_change": 0,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0.35,
-                            "time_change": 0,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0.075,
-                            "time_change": 0,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0.2125,
-                            "time_change": 0,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0.2375,
-                            "time_change": 0,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "Regh",
-                            "published": true,
-                            "text_change": 0.125,
-                            "time_change": 0,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "text_change": 1,
-                            "time_change": 1,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/",
-            "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": "Opening Event 30C3 - Tim Pritlove"
-        }
+        "amara": false
     },
     "5610": {
         "fahrplan_start": "12:45",
@@ -960,27 +826,7 @@
         "filename": "30c3-5509-de-en-IFGINT",
         "ticket_id": 1272,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5509-de-en-IFGINT_h264-iprod.mp4"
-            ],
-            "created": "2013-12-29T21:30:18",
-            "description": "",
-            "duration": null,
-            "id": "vQfYvqTjIVIR",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/vQfYvqTjIVIR/",
-            "site_url": "http://www.amara.org/videos/vQfYvqTjIVIR/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5298": {
         "fahrplan_start": "16:00",
@@ -1105,27 +951,7 @@
         "filename": "30c3-5337-de-en-Kryptographie_nach_Snowden",
         "ticket_id": 1255,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5337-de-en-Kryptographie_nach_Snowden_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:27",
-            "description": "",
-            "duration": null,
-            "id": "Y9X5i5QCVnqA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/Y9X5i5QCVnqA/",
-            "site_url": "http://www.amara.org/videos/Y9X5i5QCVnqA/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5527": {
         "fahrplan_start": "17:15",
@@ -1138,27 +964,7 @@
         "filename": "30c3-5527-en-Basics_of_Digital_Wireless_Communication",
         "ticket_id": 1265,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5527-en-Basics_of_Digital_Wireless_Communication_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:37:42",
-            "description": "",
-            "duration": null,
-            "id": "D8AZFS7Chxaz",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/D8AZFS7Chxaz/",
-            "site_url": "http://www.amara.org/videos/D8AZFS7Chxaz/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5447": {
         "fahrplan_start": "17:30",
@@ -3129,27 +2935,7 @@
         "filename": "30c3-5594-en-Structuring_open_hardware_projects",
         "ticket_id": 1383,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5594-en-Structuring_open_hardware_projects_h264-iprod.mp4"
-            ],
-            "created": "2013-12-29T21:29:54",
-            "description": "",
-            "duration": null,
-            "id": "roLRIzEt7YkG",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/roLRIzEt7YkG/",
-            "site_url": "http://www.amara.org/videos/roLRIzEt7YkG/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5420": {
         "fahrplan_start": "13:45",
