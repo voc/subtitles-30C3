@@ -33,9 +33,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 2,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/en/627783/",
@@ -69,9 +67,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "fr",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 7,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/fr/710760/",
@@ -117,9 +113,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/j2vSO9vtZNSz/",
             "site_url": "http://www.amara.org/videos/j2vSO9vtZNSz/info/",
@@ -162,9 +156,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 14,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/de/626311/",
@@ -258,9 +250,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "fr",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 10,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/fr/712056/",
@@ -321,9 +311,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/",
             "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/info/",
@@ -366,9 +354,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 16,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/de/625974/",
@@ -472,9 +458,7 @@
                     "is_rtl": false,
                     "is_translation": true,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 3,
                     "original_language_code": "de",
                     "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/en/627957/",
@@ -500,9 +484,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/",
             "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/info/",
@@ -545,9 +527,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 10,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/uHzeWq1IRNnF/de/627269/",
@@ -608,9 +588,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/uHzeWq1IRNnF/",
             "site_url": "http://www.amara.org/videos/uHzeWq1IRNnF/info/",
@@ -638,12 +616,8 @@
             "description": "",
             "duration": null,
             "id": "ALF4cLDpCOGb",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/ALF4cLDpCOGb/",
             "site_url": "http://www.amara.org/videos/ALF4cLDpCOGb/info/",
@@ -671,12 +645,8 @@
             "description": "",
             "duration": null,
             "id": "qiHBDq7IqHII",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/qiHBDq7IqHII/",
             "site_url": "http://www.amara.org/videos/qiHBDq7IqHII/info/",
@@ -704,12 +674,8 @@
             "description": "",
             "duration": null,
             "id": "cbcDFgLuX9cL",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/cbcDFgLuX9cL/",
             "site_url": "http://www.amara.org/videos/cbcDFgLuX9cL/info/",
@@ -752,9 +718,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 7,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/kEbLTdDn300e/en/626993/",
@@ -800,9 +764,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/kEbLTdDn300e/",
             "site_url": "http://www.amara.org/videos/kEbLTdDn300e/info/",
@@ -830,12 +792,8 @@
             "description": "",
             "duration": null,
             "id": "vQfYvqTjIVIR",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/vQfYvqTjIVIR/",
             "site_url": "http://www.amara.org/videos/vQfYvqTjIVIR/info/",
@@ -863,12 +821,8 @@
             "description": "",
             "duration": null,
             "id": "khs4mZMLm8ui",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/khs4mZMLm8ui/",
             "site_url": "http://www.amara.org/videos/khs4mZMLm8ui/info/",
@@ -911,9 +865,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 3,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/KsJjYDX1H0gY/en/627287/",
@@ -939,9 +891,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/KsJjYDX1H0gY/",
             "site_url": "http://www.amara.org/videos/KsJjYDX1H0gY/info/",
@@ -969,12 +919,8 @@
             "description": "",
             "duration": null,
             "id": "Y9X5i5QCVnqA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/Y9X5i5QCVnqA/",
             "site_url": "http://www.amara.org/videos/Y9X5i5QCVnqA/info/",
@@ -1002,12 +948,8 @@
             "description": "",
             "duration": null,
             "id": "D8AZFS7Chxaz",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/D8AZFS7Chxaz/",
             "site_url": "http://www.amara.org/videos/D8AZFS7Chxaz/info/",
@@ -1035,12 +977,8 @@
             "description": "",
             "duration": null,
             "id": "AtKBxE4lHbeU",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/AtKBxE4lHbeU/",
             "site_url": "http://www.amara.org/videos/AtKBxE4lHbeU/info/",
@@ -1068,12 +1006,8 @@
             "description": "",
             "duration": null,
             "id": "c9lcIQbrkTes",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/c9lcIQbrkTes/",
             "site_url": "http://www.amara.org/videos/c9lcIQbrkTes/info/",
@@ -1101,12 +1035,8 @@
             "description": "",
             "duration": null,
             "id": "ZWRbSoz3FqxU",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/ZWRbSoz3FqxU/",
             "site_url": "http://www.amara.org/videos/ZWRbSoz3FqxU/info/",
@@ -1134,12 +1064,8 @@
             "description": "",
             "duration": null,
             "id": "NyPMoCwXfrmf",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/NyPMoCwXfrmf/",
             "site_url": "http://www.amara.org/videos/NyPMoCwXfrmf/info/",
@@ -1167,12 +1093,8 @@
             "description": "",
             "duration": null,
             "id": "EkgljoB0Mebi",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/EkgljoB0Mebi/",
             "site_url": "http://www.amara.org/videos/EkgljoB0Mebi/info/",
@@ -1200,12 +1122,8 @@
             "description": "",
             "duration": null,
             "id": "scsGsCOfOcHx",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/scsGsCOfOcHx/",
             "site_url": "http://www.amara.org/videos/scsGsCOfOcHx/info/",
@@ -1233,12 +1151,8 @@
             "description": "",
             "duration": null,
             "id": "elTfJlVM8Crr",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/elTfJlVM8Crr/",
             "site_url": "http://www.amara.org/videos/elTfJlVM8Crr/info/",
@@ -1266,12 +1180,8 @@
             "description": "",
             "duration": null,
             "id": "EQgIabpY8R75",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/EQgIabpY8R75/",
             "site_url": "http://www.amara.org/videos/EQgIabpY8R75/info/",
@@ -1299,12 +1209,8 @@
             "description": "",
             "duration": null,
             "id": "5JioSwb5IQ2J",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/5JioSwb5IQ2J/",
             "site_url": "http://www.amara.org/videos/5JioSwb5IQ2J/info/",
@@ -1332,12 +1238,8 @@
             "description": "",
             "duration": null,
             "id": "cUvDLopItcBA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/cUvDLopItcBA/",
             "site_url": "http://www.amara.org/videos/cUvDLopItcBA/info/",
@@ -1365,12 +1267,8 @@
             "description": "",
             "duration": null,
             "id": "wKaTbGDnFQNM",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/wKaTbGDnFQNM/",
             "site_url": "http://www.amara.org/videos/wKaTbGDnFQNM/info/",
@@ -1398,12 +1296,8 @@
             "description": "",
             "duration": null,
             "id": "IM3aPAJD5A95",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/IM3aPAJD5A95/",
             "site_url": "http://www.amara.org/videos/IM3aPAJD5A95/info/",
@@ -1446,9 +1340,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 11,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/715tJ4XhRPjc/en/627872/",
@@ -1514,9 +1406,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/715tJ4XhRPjc/",
             "site_url": "http://www.amara.org/videos/715tJ4XhRPjc/info/",
@@ -1544,12 +1434,8 @@
             "description": "",
             "duration": null,
             "id": "pFrtIBOVNL4r",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/pFrtIBOVNL4r/",
             "site_url": "http://www.amara.org/videos/pFrtIBOVNL4r/info/",
@@ -1577,12 +1463,8 @@
             "description": "",
             "duration": null,
             "id": "wyCcbUsLAeCi",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/wyCcbUsLAeCi/",
             "site_url": "http://www.amara.org/videos/wyCcbUsLAeCi/info/",
@@ -1610,12 +1492,8 @@
             "description": "",
             "duration": null,
             "id": "poVmHIUTysHN",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/poVmHIUTysHN/",
             "site_url": "http://www.amara.org/videos/poVmHIUTysHN/info/",
@@ -1643,12 +1521,8 @@
             "description": "",
             "duration": null,
             "id": "ytKklXYhsLcI",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/ytKklXYhsLcI/",
             "site_url": "http://www.amara.org/videos/ytKklXYhsLcI/info/",
@@ -1676,12 +1550,8 @@
             "description": "",
             "duration": null,
             "id": "Hcf6nUQ2vcaq",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/Hcf6nUQ2vcaq/",
             "site_url": "http://www.amara.org/videos/Hcf6nUQ2vcaq/info/",
@@ -1709,12 +1579,8 @@
             "description": "",
             "duration": null,
             "id": "BuYUWvZ0j76J",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/BuYUWvZ0j76J/",
             "site_url": "http://www.amara.org/videos/BuYUWvZ0j76J/info/",
@@ -1742,12 +1608,8 @@
             "description": "",
             "duration": null,
             "id": "JbaYBTzglQh1",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/JbaYBTzglQh1/",
             "site_url": "http://www.amara.org/videos/JbaYBTzglQh1/info/",
@@ -1775,12 +1637,8 @@
             "description": "",
             "duration": null,
             "id": "TVLe3envxZ5z",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/TVLe3envxZ5z/",
             "site_url": "http://www.amara.org/videos/TVLe3envxZ5z/info/",
@@ -1808,12 +1666,8 @@
             "description": "",
             "duration": null,
             "id": "NRuayD4MEgd5",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/NRuayD4MEgd5/",
             "site_url": "http://www.amara.org/videos/NRuayD4MEgd5/info/",
@@ -1841,12 +1695,8 @@
             "description": "",
             "duration": null,
             "id": "sspR2rLfnO81",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/sspR2rLfnO81/",
             "site_url": "http://www.amara.org/videos/sspR2rLfnO81/info/",
@@ -1874,12 +1724,8 @@
             "description": "",
             "duration": null,
             "id": "syx9v3flSfIo",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/syx9v3flSfIo/",
             "site_url": "http://www.amara.org/videos/syx9v3flSfIo/info/",
@@ -1922,9 +1768,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 8,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/en/832993/",
@@ -1975,9 +1819,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/SZp7nj2FfhlP/",
             "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/info/",
@@ -2005,12 +1847,8 @@
             "description": "",
             "duration": null,
             "id": "OZ6rSaXO0uNA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/OZ6rSaXO0uNA/",
             "site_url": "http://www.amara.org/videos/OZ6rSaXO0uNA/info/",
@@ -2038,12 +1876,8 @@
             "description": "",
             "duration": null,
             "id": "eOoD9nRqjdue",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/eOoD9nRqjdue/",
             "site_url": "http://www.amara.org/videos/eOoD9nRqjdue/info/",
@@ -2071,12 +1905,8 @@
             "description": "",
             "duration": null,
             "id": "w4O6X2K9jkCI",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/w4O6X2K9jkCI/",
             "site_url": "http://www.amara.org/videos/w4O6X2K9jkCI/info/",
@@ -2104,12 +1934,8 @@
             "description": "",
             "duration": null,
             "id": "jLC3Wee4iHYz",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/jLC3Wee4iHYz/",
             "site_url": "http://www.amara.org/videos/jLC3Wee4iHYz/info/",
@@ -2137,12 +1963,8 @@
             "description": "",
             "duration": null,
             "id": "HToaCNX9Dqxf",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/HToaCNX9Dqxf/",
             "site_url": "http://www.amara.org/videos/HToaCNX9Dqxf/info/",
@@ -2170,12 +1992,8 @@
             "description": "",
             "duration": null,
             "id": "69d36ocfyh2b",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/69d36ocfyh2b/",
             "site_url": "http://www.amara.org/videos/69d36ocfyh2b/info/",
@@ -2203,12 +2021,8 @@
             "description": "",
             "duration": null,
             "id": "3mLEkbrxB4aO",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/3mLEkbrxB4aO/",
             "site_url": "http://www.amara.org/videos/3mLEkbrxB4aO/info/",
@@ -2236,12 +2050,8 @@
             "description": "",
             "duration": null,
             "id": "yDnCD9l7BLwD",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/yDnCD9l7BLwD/",
             "site_url": "http://www.amara.org/videos/yDnCD9l7BLwD/info/",
@@ -2284,9 +2094,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 14,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
@@ -2380,9 +2188,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 6,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/en/627978/",
@@ -2423,9 +2229,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/",
             "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/info/",
@@ -2453,12 +2257,8 @@
             "description": "",
             "duration": null,
             "id": "Vnzl2uoGjW3s",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/Vnzl2uoGjW3s/",
             "site_url": "http://www.amara.org/videos/Vnzl2uoGjW3s/info/",
@@ -2486,12 +2286,8 @@
             "description": "",
             "duration": null,
             "id": "LMIdCrOjxrxA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/LMIdCrOjxrxA/",
             "site_url": "http://www.amara.org/videos/LMIdCrOjxrxA/info/",
@@ -2519,12 +2315,8 @@
             "description": "",
             "duration": null,
             "id": "74QSCTaz1S3Q",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/74QSCTaz1S3Q/",
             "site_url": "http://www.amara.org/videos/74QSCTaz1S3Q/info/",
@@ -2552,12 +2344,8 @@
             "description": "",
             "duration": null,
             "id": "RZl5rbAeq2PX",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/RZl5rbAeq2PX/",
             "site_url": "http://www.amara.org/videos/RZl5rbAeq2PX/info/",
@@ -2585,12 +2373,8 @@
             "description": "",
             "duration": null,
             "id": "9VcUa9bufpDy",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/9VcUa9bufpDy/",
             "site_url": "http://www.amara.org/videos/9VcUa9bufpDy/info/",
@@ -2618,12 +2402,8 @@
             "description": "",
             "duration": null,
             "id": "2FKYeLpjdOeM",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/2FKYeLpjdOeM/",
             "site_url": "http://www.amara.org/videos/2FKYeLpjdOeM/info/",
@@ -2651,12 +2431,8 @@
             "description": "",
             "duration": null,
             "id": "eCSW5x6caOFZ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/eCSW5x6caOFZ/",
             "site_url": "http://www.amara.org/videos/eCSW5x6caOFZ/info/",
@@ -2684,12 +2460,8 @@
             "description": "",
             "duration": null,
             "id": "XER8rssylR6H",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/XER8rssylR6H/",
             "site_url": "http://www.amara.org/videos/XER8rssylR6H/info/",
@@ -2717,12 +2489,8 @@
             "description": "",
             "duration": null,
             "id": "UKnXyZNQEOr8",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/UKnXyZNQEOr8/",
             "site_url": "http://www.amara.org/videos/UKnXyZNQEOr8/info/",
@@ -2750,12 +2518,8 @@
             "description": "",
             "duration": null,
             "id": "AcSYmwPfIfyF",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/AcSYmwPfIfyF/",
             "site_url": "http://www.amara.org/videos/AcSYmwPfIfyF/info/",
@@ -2783,12 +2547,8 @@
             "description": "",
             "duration": null,
             "id": "iN9Xrr6tpDxr",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/iN9Xrr6tpDxr/",
             "site_url": "http://www.amara.org/videos/iN9Xrr6tpDxr/info/",
@@ -2816,12 +2576,8 @@
             "description": "",
             "duration": null,
             "id": "lLXrTQKOqoMO",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/lLXrTQKOqoMO/",
             "site_url": "http://www.amara.org/videos/lLXrTQKOqoMO/info/",
@@ -2849,12 +2605,8 @@
             "description": "",
             "duration": null,
             "id": "oD089RQ3ivme",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/oD089RQ3ivme/",
             "site_url": "http://www.amara.org/videos/oD089RQ3ivme/info/",
@@ -2882,12 +2634,8 @@
             "description": "",
             "duration": null,
             "id": "oAR46G8CblIh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/oAR46G8CblIh/",
             "site_url": "http://www.amara.org/videos/oAR46G8CblIh/info/",
@@ -2915,12 +2663,8 @@
             "description": "",
             "duration": null,
             "id": "roLRIzEt7YkG",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/roLRIzEt7YkG/",
             "site_url": "http://www.amara.org/videos/roLRIzEt7YkG/info/",
@@ -2963,9 +2707,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 18,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/de/627847/",
@@ -3079,9 +2821,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "tlh",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 10,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/tlh/634854/",
@@ -3142,9 +2882,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/7yu3xau1UWrX/",
             "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/info/",
@@ -3187,9 +2925,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 1,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/DmPI1rpqWLZH/en/626062/",
@@ -3205,9 +2941,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/DmPI1rpqWLZH/",
             "site_url": "http://www.amara.org/videos/DmPI1rpqWLZH/info/",
@@ -3250,9 +2984,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 3,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/3XwDZenurjPP/en/627596/",
@@ -3278,9 +3010,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/3XwDZenurjPP/",
             "site_url": "http://www.amara.org/videos/3XwDZenurjPP/info/",
@@ -3308,12 +3038,8 @@
             "description": "",
             "duration": null,
             "id": "RIOzmOELWGjT",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/RIOzmOELWGjT/",
             "site_url": "http://www.amara.org/videos/RIOzmOELWGjT/info/",
@@ -3341,12 +3067,8 @@
             "description": "",
             "duration": null,
             "id": "6e7D1YlwBSZO",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/6e7D1YlwBSZO/",
             "site_url": "http://www.amara.org/videos/6e7D1YlwBSZO/info/",
@@ -3389,9 +3111,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 1,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/en/626054/",
@@ -3407,9 +3127,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/",
             "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/info/",
@@ -3437,12 +3155,8 @@
             "description": "",
             "duration": null,
             "id": "WwbRU9FUu5WT",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/WwbRU9FUu5WT/",
             "site_url": "http://www.amara.org/videos/WwbRU9FUu5WT/info/",
@@ -3470,12 +3184,8 @@
             "description": "",
             "duration": null,
             "id": "HX2lTGgFGka0",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/HX2lTGgFGka0/",
             "site_url": "http://www.amara.org/videos/HX2lTGgFGka0/info/",
@@ -3503,12 +3213,8 @@
             "description": "",
             "duration": null,
             "id": "2YdoVhomCaUp",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/2YdoVhomCaUp/",
             "site_url": "http://www.amara.org/videos/2YdoVhomCaUp/info/",
@@ -3551,9 +3257,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 7,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/en/696853/",
@@ -3599,9 +3303,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/",
             "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/info/",
@@ -3644,9 +3346,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 8,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/45ezAPzxFMeh/de/626321/",
@@ -3697,9 +3397,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/45ezAPzxFMeh/",
             "site_url": "http://www.amara.org/videos/45ezAPzxFMeh/info/",
@@ -3727,12 +3425,8 @@
             "description": "",
             "duration": null,
             "id": "QQ8u48nOqITN",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/QQ8u48nOqITN/",
             "site_url": "http://www.amara.org/videos/QQ8u48nOqITN/info/",
@@ -3760,12 +3454,8 @@
             "description": "",
             "duration": null,
             "id": "8tSBEj1w38Cr",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/8tSBEj1w38Cr/",
             "site_url": "http://www.amara.org/videos/8tSBEj1w38Cr/info/",
@@ -3793,12 +3483,8 @@
             "description": "",
             "duration": null,
             "id": "Kjo1egNvmISB",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/Kjo1egNvmISB/",
             "site_url": "http://www.amara.org/videos/Kjo1egNvmISB/info/",
@@ -3826,12 +3512,8 @@
             "description": "",
             "duration": null,
             "id": "8HPSBM3pLw0u",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/8HPSBM3pLw0u/",
             "site_url": "http://www.amara.org/videos/8HPSBM3pLw0u/info/",
@@ -3859,12 +3541,8 @@
             "description": "",
             "duration": null,
             "id": "RigB9nK8XRoR",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/RigB9nK8XRoR/",
             "site_url": "http://www.amara.org/videos/RigB9nK8XRoR/info/",
@@ -3892,12 +3570,8 @@
             "description": "",
             "duration": null,
             "id": "MedDt2Cy4XTb",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/MedDt2Cy4XTb/",
             "site_url": "http://www.amara.org/videos/MedDt2Cy4XTb/info/",
@@ -3925,12 +3599,8 @@
             "description": "",
             "duration": null,
             "id": "XdRDZvqRO7Hh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/XdRDZvqRO7Hh/",
             "site_url": "http://www.amara.org/videos/XdRDZvqRO7Hh/info/",
@@ -3973,9 +3643,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 2,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/en/630927/",
@@ -3996,9 +3664,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/",
             "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/info/",
@@ -4026,12 +3692,8 @@
             "description": "",
             "duration": null,
             "id": "CALODaISljbh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/CALODaISljbh/",
             "site_url": "http://www.amara.org/videos/CALODaISljbh/info/",
@@ -4059,12 +3721,8 @@
             "description": "",
             "duration": null,
             "id": "dBDKDlwER1mY",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/dBDKDlwER1mY/",
             "site_url": "http://www.amara.org/videos/dBDKDlwER1mY/info/",
@@ -4092,12 +3750,8 @@
             "description": "",
             "duration": null,
             "id": "nLUN7RKUSCGL",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/nLUN7RKUSCGL/",
             "site_url": "http://www.amara.org/videos/nLUN7RKUSCGL/info/",
@@ -4140,9 +3794,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 2,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/rSRyxS0R3ltH/de/629489/",
@@ -4163,9 +3815,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/rSRyxS0R3ltH/",
             "site_url": "http://www.amara.org/videos/rSRyxS0R3ltH/info/",
@@ -4208,9 +3858,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 3,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/en/628572/",
@@ -4249,9 +3897,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "ja",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 11,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
@@ -4317,9 +3963,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/",
             "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/info/",
@@ -4347,12 +3991,8 @@
             "description": "",
             "duration": null,
             "id": "0u5FVTfwaDxN",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/0u5FVTfwaDxN/",
             "site_url": "http://www.amara.org/videos/0u5FVTfwaDxN/info/",
@@ -4380,12 +4020,8 @@
             "description": "",
             "duration": null,
             "id": "28NFxFutmSJC",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/28NFxFutmSJC/",
             "site_url": "http://www.amara.org/videos/28NFxFutmSJC/info/",
@@ -4413,12 +4049,8 @@
             "description": "",
             "duration": null,
             "id": "F3Bx7xLhZQsX",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/F3Bx7xLhZQsX/",
             "site_url": "http://www.amara.org/videos/F3Bx7xLhZQsX/info/",
@@ -4446,12 +4078,8 @@
             "description": "",
             "duration": null,
             "id": "zLQmTVh54kav",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/zLQmTVh54kav/",
             "site_url": "http://www.amara.org/videos/zLQmTVh54kav/info/",
@@ -4479,12 +4107,8 @@
             "description": "",
             "duration": null,
             "id": "8qD6zJ6SNVNl",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/8qD6zJ6SNVNl/",
             "site_url": "http://www.amara.org/videos/8qD6zJ6SNVNl/info/",
@@ -4512,12 +4136,8 @@
             "description": "",
             "duration": null,
             "id": "7qS3I3IwOOxQ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/7qS3I3IwOOxQ/",
             "site_url": "http://www.amara.org/videos/7qS3I3IwOOxQ/info/",
@@ -4545,12 +4165,8 @@
             "description": "",
             "duration": null,
             "id": "U3CR7LU1o9wD",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/U3CR7LU1o9wD/",
             "site_url": "http://www.amara.org/videos/U3CR7LU1o9wD/info/",
@@ -4578,12 +4194,8 @@
             "description": "",
             "duration": null,
             "id": "8qKKxlpSKOT6",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/8qKKxlpSKOT6/",
             "site_url": "http://www.amara.org/videos/8qKKxlpSKOT6/info/",
@@ -4611,12 +4223,8 @@
             "description": "",
             "duration": null,
             "id": "DNymsl1nTHVf",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/DNymsl1nTHVf/",
             "site_url": "http://www.amara.org/videos/DNymsl1nTHVf/info/",
@@ -4644,12 +4252,8 @@
             "description": "",
             "duration": null,
             "id": "yk054KNTnW77",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/yk054KNTnW77/",
             "site_url": "http://www.amara.org/videos/yk054KNTnW77/info/",
@@ -4677,12 +4281,8 @@
             "description": "",
             "duration": null,
             "id": "ME3N8CVZngc7",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/ME3N8CVZngc7/",
             "site_url": "http://www.amara.org/videos/ME3N8CVZngc7/info/",
@@ -4725,9 +4325,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 5,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/pZMiDSNMlhYq/en/629500/",
@@ -4763,9 +4361,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/pZMiDSNMlhYq/",
             "site_url": "http://www.amara.org/videos/pZMiDSNMlhYq/info/",
@@ -4808,9 +4404,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 2,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/JINCGsJG4f6S/en/627811/",
@@ -4831,9 +4425,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/",
             "site_url": "http://www.amara.org/videos/JINCGsJG4f6S/info/",
@@ -4861,12 +4453,8 @@
             "description": "",
             "duration": null,
             "id": "6AehuOtKEdfr",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/6AehuOtKEdfr/",
             "site_url": "http://www.amara.org/videos/6AehuOtKEdfr/info/",
@@ -4894,12 +4482,8 @@
             "description": "",
             "duration": null,
             "id": "xqJqthAUWej0",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/xqJqthAUWej0/",
             "site_url": "http://www.amara.org/videos/xqJqthAUWej0/info/",
@@ -4942,9 +4526,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 3,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/B0Y86cstxaK1/en/627927/",
@@ -4970,9 +4552,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/",
             "site_url": "http://www.amara.org/videos/B0Y86cstxaK1/info/",
@@ -5000,12 +4580,8 @@
             "description": "",
             "duration": null,
             "id": "zL2dXPyXROjp",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/zL2dXPyXROjp/",
             "site_url": "http://www.amara.org/videos/zL2dXPyXROjp/info/",
@@ -5048,9 +4624,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 11,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/eBoWzGWkTn2Z/en/627793/",
@@ -5116,9 +4690,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/eBoWzGWkTn2Z/",
             "site_url": "http://www.amara.org/videos/eBoWzGWkTn2Z/info/",
@@ -5161,9 +4733,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 5,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/ogSRd61FX656/en/627819/",
@@ -5199,9 +4769,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/ogSRd61FX656/",
             "site_url": "http://www.amara.org/videos/ogSRd61FX656/info/",
@@ -5229,12 +4797,8 @@
             "description": "",
             "duration": null,
             "id": "JrW7lYXUfmQC",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/JrW7lYXUfmQC/",
             "site_url": "http://www.amara.org/videos/JrW7lYXUfmQC/info/",
@@ -5277,9 +4841,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 1,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/en/628531/",
@@ -5295,9 +4857,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/",
             "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/info/",
@@ -5325,12 +4885,8 @@
             "description": "",
             "duration": null,
             "id": "RARxKTVqINRc",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/RARxKTVqINRc/",
             "site_url": "http://www.amara.org/videos/RARxKTVqINRc/info/",
@@ -5358,12 +4914,8 @@
             "description": "",
             "duration": null,
             "id": "WQFdossBPoDI",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/WQFdossBPoDI/",
             "site_url": "http://www.amara.org/videos/WQFdossBPoDI/info/",
@@ -5391,12 +4943,8 @@
             "description": "",
             "duration": null,
             "id": "IwiKybILl85q",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/IwiKybILl85q/",
             "site_url": "http://www.amara.org/videos/IwiKybILl85q/info/",
@@ -5444,9 +4992,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 10,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/BtTNgV2drDsk/en/627845/",
@@ -5507,9 +5053,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/BtTNgV2drDsk/",
             "site_url": "http://www.amara.org/videos/BtTNgV2drDsk/info/",
@@ -5537,12 +5081,8 @@
             "description": "",
             "duration": null,
             "id": "H4NXhKj5ZfrF",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/H4NXhKj5ZfrF/",
             "site_url": "http://www.amara.org/videos/H4NXhKj5ZfrF/info/",
@@ -5570,12 +5110,8 @@
             "description": "",
             "duration": null,
             "id": "yjj9d3T8OReh",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/yjj9d3T8OReh/",
             "site_url": "http://www.amara.org/videos/yjj9d3T8OReh/info/",
@@ -5603,12 +5139,8 @@
             "description": "",
             "duration": null,
             "id": "sPE3RUZF69vx",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/sPE3RUZF69vx/",
             "site_url": "http://www.amara.org/videos/sPE3RUZF69vx/info/",
@@ -5636,12 +5168,8 @@
             "description": "",
             "duration": null,
             "id": "ZjVJLD91CzEa",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/ZjVJLD91CzEa/",
             "site_url": "http://www.amara.org/videos/ZjVJLD91CzEa/info/",
@@ -5685,9 +5213,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 9,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/DvMKST6ncdkf/en/627799/",
@@ -5743,9 +5269,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/",
             "site_url": "http://www.amara.org/videos/DvMKST6ncdkf/info/",
@@ -5788,9 +5312,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 1,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/BJO0GQv9eqb8/de/635398/",
@@ -5806,9 +5328,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/BJO0GQv9eqb8/",
             "site_url": "http://www.amara.org/videos/BJO0GQv9eqb8/info/",
@@ -5836,12 +5356,8 @@
             "description": "",
             "duration": null,
             "id": "dUXeyOx0rPbE",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/dUXeyOx0rPbE/",
             "site_url": "http://www.amara.org/videos/dUXeyOx0rPbE/info/",
@@ -5869,12 +5385,8 @@
             "description": "",
             "duration": null,
             "id": "ORylwIVUQL9G",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/ORylwIVUQL9G/",
             "site_url": "http://www.amara.org/videos/ORylwIVUQL9G/info/",
@@ -5902,12 +5414,8 @@
             "description": "",
             "duration": null,
             "id": "WBn2Wud86bIA",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/WBn2Wud86bIA/",
             "site_url": "http://www.amara.org/videos/WBn2Wud86bIA/info/",
@@ -5935,12 +5443,8 @@
             "description": "",
             "duration": null,
             "id": "E6HP2r8oo8yT",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/E6HP2r8oo8yT/",
             "site_url": "http://www.amara.org/videos/E6HP2r8oo8yT/info/",
@@ -5968,12 +5472,8 @@
             "description": "",
             "duration": null,
             "id": "eSmrG45AB7mJ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/eSmrG45AB7mJ/",
             "site_url": "http://www.amara.org/videos/eSmrG45AB7mJ/info/",
@@ -6001,12 +5501,8 @@
             "description": "",
             "duration": null,
             "id": "zQYOBTxLwAkw",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/zQYOBTxLwAkw/",
             "site_url": "http://www.amara.org/videos/zQYOBTxLwAkw/info/",
@@ -6034,12 +5530,8 @@
             "description": "",
             "duration": null,
             "id": "i0fwhOq5pZZB",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/i0fwhOq5pZZB/",
             "site_url": "http://www.amara.org/videos/i0fwhOq5pZZB/info/",
@@ -6067,12 +5559,8 @@
             "description": "",
             "duration": null,
             "id": "hDjq9VBpCDoC",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/hDjq9VBpCDoC/",
             "site_url": "http://www.amara.org/videos/hDjq9VBpCDoC/info/",
@@ -6100,12 +5588,8 @@
             "description": "",
             "duration": null,
             "id": "BFKTCvZCzGFZ",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/BFKTCvZCzGFZ/",
             "site_url": "http://www.amara.org/videos/BFKTCvZCzGFZ/info/",
@@ -6133,12 +5617,8 @@
             "description": "",
             "duration": null,
             "id": "32W2JnLYgFm5",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/32W2JnLYgFm5/",
             "site_url": "http://www.amara.org/videos/32W2JnLYgFm5/info/",
@@ -6166,12 +5646,8 @@
             "description": "",
             "duration": null,
             "id": "apAPEtjBdnSj",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/apAPEtjBdnSj/",
             "site_url": "http://www.amara.org/videos/apAPEtjBdnSj/info/",
@@ -6199,12 +5675,8 @@
             "description": "",
             "duration": null,
             "id": "z27dzyopUuBx",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/z27dzyopUuBx/",
             "site_url": "http://www.amara.org/videos/z27dzyopUuBx/info/",
@@ -6247,9 +5719,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "en",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 1,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/OllWZNHjdn82/en/628175/",
@@ -6265,9 +5735,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/OllWZNHjdn82/",
             "site_url": "http://www.amara.org/videos/OllWZNHjdn82/info/",
@@ -6295,12 +5763,8 @@
             "description": "",
             "duration": null,
             "id": "VhjD6PdVI7r8",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/VhjD6PdVI7r8/",
             "site_url": "http://www.amara.org/videos/VhjD6PdVI7r8/info/",
@@ -6328,12 +5792,8 @@
             "description": "",
             "duration": null,
             "id": "CKdWU3qm13d7",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/CKdWU3qm13d7/",
             "site_url": "http://www.amara.org/videos/CKdWU3qm13d7/info/",
@@ -6376,9 +5836,7 @@
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "de",
-                    "metadata": [
-
-                    ],
+                    "metadata": [],
                     "num_versions": 21,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/de/629167/",
@@ -6494,9 +5952,7 @@
                     ]
                 }
             ],
-            "metadata": [
-
-            ],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/Mqh45F0UOpfb/",
             "site_url": "http://www.amara.org/videos/Mqh45F0UOpfb/info/",
@@ -6524,12 +5980,8 @@
             "description": "",
             "duration": null,
             "id": "tcnyb7cNwcfY",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/tcnyb7cNwcfY/",
             "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/info/",
@@ -6557,12 +6009,8 @@
             "description": "",
             "duration": null,
             "id": "xmjBChWQkEPV",
-            "languages": [
-
-            ],
-            "metadata": [
-
-            ],
+            "languages": [],
+            "metadata": [],
             "original_language": null,
             "resource_uri": "/api2/partners/videos/xmjBChWQkEPV/",
             "site_url": "http://www.amara.org/videos/xmjBChWQkEPV/info/",
