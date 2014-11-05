@@ -443,45 +443,6 @@
                             "version_no": 1
                         }
                     ]
-                },
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/1zb4IvHiEA5w/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T22:56:51",
-                    "description": "30C3 \"\u00dcberwachen und Sprache\"",
-                    "id": "627957",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": true,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 3,
-                    "original_language_code": "de",
-                    "site_url": "http://www.amara.org/videos/1zb4IvHiEA5w/en/627957/",
-                    "subtitle_count": 535,
-                    "subtitles_complete": false,
-                    "title": "Deutsch \u2013 \u00dcberwachen und Sprache",
-                    "versions": [
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "chrimoya08",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
                 }
             ],
             "metadata": [],
@@ -2694,120 +2655,6 @@
             "id": "7yu3xau1UWrX",
             "languages": [
                 {
-                    "code": "de",
-                    "dir": "ltr",
-                    "name": "German",
-                    "resource_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/de/",
-                    "subtitles_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/de/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-02T17:53:21",
-                    "description": "",
-                    "id": "627847",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "de",
-                    "metadata": [],
-                    "num_versions": 18,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/de/627847/",
-                    "subtitle_count": 583,
-                    "subtitles_complete": true,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 18
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 17
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 16
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 15
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 14
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 13
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 12
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 11
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "rohieb",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "rohieb",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "rohieb",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "rohieb",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                },
-                {
                     "code": "tlh",
                     "dir": "ltr",
                     "name": "Klingon",
@@ -3030,23 +2877,7 @@
         "filename": "30c3-5526-en-How_to_Build_a_Mind",
         "ticket_id": 1365,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5526-en-How_to_Build_a_Mind_h264-iprod.mp4"
-            ],
-            "created": "2013-12-29T21:33:36",
-            "description": "",
-            "duration": null,
-            "id": "RIOzmOELWGjT",
-            "languages": [],
-            "metadata": [],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/RIOzmOELWGjT/",
-            "site_url": "http://www.amara.org/videos/RIOzmOELWGjT/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5395": {
         "fahrplan_start": "16:00",
