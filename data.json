@@ -3620,7 +3620,58 @@
         "filename": "30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security",
         "ticket_id": 1390,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:20",
+            "description": "",
+            "duration": null,
+            "id": "QnlKic8UEoAx",
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-07T12:05:11",
+                    "description": "",
+                    "id": "630927",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 2,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/en/630927/",
+                    "subtitle_count": 46,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/",
+            "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5478": {
         "fahrplan_start": "21:45",
@@ -4193,7 +4244,23 @@
         "filename": "30c3-5293-de-en-Dead_Man_Edition",
         "ticket_id": 1429,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5293-de-en-Dead_Man_Edition_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:37:53",
+            "description": "",
+            "duration": null,
+            "id": "yk054KNTnW77",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/yk054KNTnW77/",
+            "site_url": "http://www.amara.org/videos/yk054KNTnW77/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5444": {
         "fahrplan_start": "16:00",
