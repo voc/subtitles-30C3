@@ -1745,88 +1745,7 @@
         "filename": "30c3-5588-en-de-My_journey_into_FM-RDS",
         "ticket_id": 1313,
         "wiki_status": "needs review (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5588-en-de-My_journey_into_FM-RDS_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:39:17",
-            "description": "",
-            "duration": null,
-            "id": "SZp7nj2FfhlP",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/SZp7nj2FfhlP/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/SZp7nj2FfhlP/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-10-25T02:27:01",
-                    "description": "",
-                    "id": "832993",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 8,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/en/832993/",
-                    "subtitle_count": 495,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "jonathan.e.werner",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/SZp7nj2FfhlP/",
-            "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5607": {
         "fahrplan_start": "16:45",
@@ -2071,172 +1990,7 @@
         "filename": "30c3-5210-de-en-Bullshit_made_in_Germany",
         "ticket_id": 1316,
         "wiki_status": "text at amara incomplete, text in pad complete? (de)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5210-de-en-Bullshit_made_in_Germany_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:42",
-            "description": "",
-            "duration": null,
-            "id": "y1Gk3maFbvNQ",
-            "languages": [
-                {
-                    "code": "de",
-                    "dir": "ltr",
-                    "name": "German",
-                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/",
-                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T00:30:10",
-                    "description": "",
-                    "id": "627979",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "de",
-                    "metadata": [],
-                    "num_versions": 14,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 804,
-                    "subtitles_complete": false,
-                    "title": "Bullshit made in Germany",
-                    "versions": [
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 14
-                        },
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 13
-                        },
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 12
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 11
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                },
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T00:28:46",
-                    "description": "",
-                    "id": "627978",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 6,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/en/627978/",
-                    "subtitle_count": 319,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "roham.molavy",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
-            "metadata": [],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/",
-            "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": "Bullshit made in Germany"
-        }
+        "amara": false
     },
     "5440": {
         "fahrplan_start": "21:45",
@@ -3242,67 +2996,7 @@
             "description": "",
             "duration": null,
             "id": "i1LHDvxS9qb8",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-04-02T01:59:37",
-                    "description": "",
-                    "id": "696853",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 7,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/en/696853/",
-                    "subtitle_count": 268,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
+            "languages": [],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/",
@@ -3878,85 +3572,6 @@
                         },
                         {
                             "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                },
-                {
-                    "code": "ja",
-                    "dir": "ltr",
-                    "name": "Japanese",
-                    "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/",
-                    "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/ja/subtitles/",
-                    "visible": true,
-                    "created": "2014-04-10T20:27:35",
-                    "description": "\uff0a\u304a\u9858\u3044\uff0a\n\u82f1\u8a9e\u306e\u3001\u3082\u3057\u304f\u306fPC\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u7528\u8a9e\u306e\u70b9\u304b\u3089\u898b\u3066\u3001\u7406\u89e3\u304c\u8db3\u3089\u305a\u6b63\u3057\u304f\u8a33\u305b\u3066\u3044\u306a\u3044\u7b87\u6240\u304c\u3042\u308b\u3068\u601d\u3044\u307e\u3059\u3002\n\u53b3\u5bc6\u3055\u306e\u5411\u4e0a\u306e\u305f\u3081\u306b\u3001\u4fee\u6b63\u70b9\u304c\u3042\u308c\u3070\u305c\u3072\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
-                    "id": "703624",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "ja",
-                    "metadata": [],
-                    "num_versions": 11,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/ja/703624/",
-                    "subtitle_count": 568,
-                    "subtitles_complete": true,
-                    "title": "To Protect And Infect, Part 2",
-                    "versions": [
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 11
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "kaoruco",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "kaoruco",
                             "published": true,
                             "version_no": 1
                         }
@@ -4572,23 +4187,7 @@
         "filename": "30c3-5412-en-Bug_class_genocide",
         "ticket_id": 1452,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5412-en-Bug_class_genocide_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:17",
-            "description": "",
-            "duration": null,
-            "id": "zL2dXPyXROjp",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/zL2dXPyXROjp/",
-            "site_url": "http://www.amara.org/videos/zL2dXPyXROjp/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5622": {
         "fahrplan_start": "19:30",
@@ -4906,23 +4505,7 @@
         "filename": "30c3-5214-en-The_Gospel_of_IRMA_",
         "ticket_id": 1499,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5214-en-The_Gospel_of_IRMA__h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:48",
-            "description": "",
-            "duration": null,
-            "id": "WQFdossBPoDI",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/WQFdossBPoDI/",
-            "site_url": "http://www.amara.org/videos/WQFdossBPoDI/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5537": {
         "fahrplan_start": "12:45",
@@ -5493,23 +5076,7 @@
         "filename": "30c3-5499-en-X_Security",
         "ticket_id": 1562,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5499-en-X_Security_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:07",
-            "description": "",
-            "duration": null,
-            "id": "zQYOBTxLwAkw",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/zQYOBTxLwAkw/",
-            "site_url": "http://www.amara.org/videos/zQYOBTxLwAkw/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5295": {
         "fahrplan_start": "20:30",
@@ -5704,37 +5271,7 @@
             "description": "",
             "duration": null,
             "id": "OllWZNHjdn82",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T07:18:23",
-                    "description": "",
-                    "id": "628175",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 1,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/OllWZNHjdn82/en/628175/",
-                    "subtitle_count": 8,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "leonkunert",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
+            "languages": [],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/OllWZNHjdn82/",
