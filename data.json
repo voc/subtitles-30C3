@@ -1230,7 +1230,23 @@
         "filename": "30c3-5474-en-World_War_II_Hackers",
         "ticket_id": 1268,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5474-en-World_War_II_Hackers_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:56",
+            "description": "",
+            "duration": null,
+            "id": "cUvDLopItcBA",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/cUvDLopItcBA/",
+            "site_url": "http://www.amara.org/videos/cUvDLopItcBA/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5398": {
         "fahrplan_start": "23:00",
@@ -2026,23 +2042,7 @@
         "filename": "30c3-5416-en-de-Desperately_Seeking_Susy",
         "ticket_id": 1329,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5416-en-de-Desperately_Seeking_Susy_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:37:35",
-            "description": "",
-            "duration": null,
-            "id": "yDnCD9l7BLwD",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/yDnCD9l7BLwD/",
-            "site_url": "http://www.amara.org/videos/yDnCD9l7BLwD/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5210": {
         "fahrplan_start": "20:30",
@@ -2064,100 +2064,6 @@
             "duration": null,
             "id": "y1Gk3maFbvNQ",
             "languages": [
-                {
-                    "code": "de",
-                    "dir": "ltr",
-                    "name": "German",
-                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/",
-                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T00:30:10",
-                    "description": "",
-                    "id": "627979",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "de",
-                    "metadata": [],
-                    "num_versions": 14,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 804,
-                    "subtitles_complete": false,
-                    "title": "Bullshit made in Germany",
-                    "versions": [
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 14
-                        },
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 13
-                        },
-                        {
-                            "author": "percidae",
-                            "published": true,
-                            "version_no": 12
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 11
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "saerdnaer",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "EvitaBley",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                },
                 {
                     "code": "en",
                     "dir": "ltr",
@@ -2436,7 +2342,23 @@
         "filename": "30c3-5614-en-Perfect_Paul",
         "ticket_id": 2980,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5614-en-Perfect_Paul_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:30:15",
+            "description": "",
+            "duration": null,
+            "id": "XER8rssylR6H",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/XER8rssylR6H/",
+            "site_url": "http://www.amara.org/videos/XER8rssylR6H/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5483": {
         "fahrplan_start": "11:30",
@@ -3024,37 +2946,7 @@
             "description": "",
             "duration": null,
             "id": "PooCBJvwwEVt",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2013-12-30T06:31:53",
-                    "description": "",
-                    "id": "626054",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 1,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/en/626054/",
-                    "subtitle_count": 4,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "twissi.mail",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
+            "languages": [],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/",
@@ -3133,23 +3025,7 @@
         "filename": "30c3-5433-de-en-Recht_auf_Remix",
         "ticket_id": 1387,
         "wiki_status": "text in pad complete (de)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5433-de-en-Recht_auf_Remix_h264-iprod.mp4"
-            ],
-            "created": "2013-12-29T21:30:16",
-            "description": "",
-            "duration": null,
-            "id": "2YdoVhomCaUp",
-            "languages": [],
-            "metadata": [],
-            "original_language": "de",
-            "resource_uri": "/api2/partners/videos/2YdoVhomCaUp/",
-            "site_url": "http://www.amara.org/videos/2YdoVhomCaUp/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5405": {
         "fahrplan_start": "17:30",
@@ -3170,7 +3046,67 @@
             "description": "",
             "duration": null,
             "id": "i1LHDvxS9qb8",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/i1LHDvxS9qb8/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-04-02T01:59:37",
+                    "description": "",
+                    "id": "696853",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 7,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/en/696853/",
+                    "subtitle_count": 268,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/i1LHDvxS9qb8/",
@@ -3488,7 +3424,58 @@
         "filename": "30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security",
         "ticket_id": 1390,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:20",
+            "description": "",
+            "duration": null,
+            "id": "QnlKic8UEoAx",
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/QnlKic8UEoAx/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-07T12:05:11",
+                    "description": "",
+                    "id": "630927",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 2,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/en/630927/",
+                    "subtitle_count": 46,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "pfhorte",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/QnlKic8UEoAx/",
+            "site_url": "http://www.amara.org/videos/QnlKic8UEoAx/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5478": {
         "fahrplan_start": "21:45",
@@ -3800,23 +3787,7 @@
         "filename": "30c3-5550-en-Beyond_the_Tech_Building_Internet_Freedom_Tools_for_Real_People",
         "ticket_id": 1422,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5550-en-Beyond_the_Tech_Building_Internet_Freedom_Tools_for_Real_People_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:42",
-            "description": "",
-            "duration": null,
-            "id": "0u5FVTfwaDxN",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/0u5FVTfwaDxN/",
-            "site_url": "http://www.amara.org/videos/0u5FVTfwaDxN/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5289": {
         "fahrplan_start": "12:15",
@@ -3829,7 +3800,23 @@
         "filename": "30c3-5289-en-Coding_your_body",
         "ticket_id": 1425,
         "wiki_status": "text in pad complete (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5289-en-Coding_your_body_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:39:13",
+            "description": "",
+            "duration": null,
+            "id": "28NFxFutmSJC",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/28NFxFutmSJC/",
+            "site_url": "http://www.amara.org/videos/28NFxFutmSJC/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5467": {
         "fahrplan_start": "12:45",
@@ -3842,7 +3829,23 @@
         "filename": "30c3-5467-de-en-Warum_die_Digitale_Revolution_des_Lernens_gescheitert_ist",
         "ticket_id": 1419,
         "wiki_status": "text in pad complete (de)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5467-de-en-Warum_die_Digitale_Revolution_des_Lernens_gescheitert_ist_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:06",
+            "description": "",
+            "duration": null,
+            "id": "F3Bx7xLhZQsX",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/F3Bx7xLhZQsX/",
+            "site_url": "http://www.amara.org/videos/F3Bx7xLhZQsX/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5564": {
         "fahrplan_start": "12:45",
@@ -4095,7 +4098,57 @@
             "description": "",
             "duration": null,
             "id": "pZMiDSNMlhYq",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/pZMiDSNMlhYq/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/pZMiDSNMlhYq/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-05T09:00:14",
+                    "description": "",
+                    "id": "629500",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 5,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/pZMiDSNMlhYq/en/629500/",
+                    "subtitle_count": 60,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/pZMiDSNMlhYq/",
@@ -4124,7 +4177,42 @@
             "description": "",
             "duration": null,
             "id": "JINCGsJG4f6S",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T17:01:56",
+                    "description": "",
+                    "id": "627811",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 2,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/JINCGsJG4f6S/en/627811/",
+                    "subtitle_count": 327,
+                    "subtitles_complete": false,
+                    "title": "An introduction to Firmware Analysis",
+                    "versions": [
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/",
@@ -4203,7 +4291,63 @@
         "filename": "30c3-5449-en-Mobile_network_attack_evolution",
         "ticket_id": 1451,
         "wiki_status": "needs review (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5449-en-Mobile_network_attack_evolution_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:39:10",
+            "description": "",
+            "duration": null,
+            "id": "B0Y86cstxaK1",
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T21:36:28",
+                    "description": "",
+                    "id": "627927",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 3,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/B0Y86cstxaK1/en/627927/",
+                    "subtitle_count": 514,
+                    "subtitles_complete": false,
+                    "title": "Mobile network attack evolution",
+                    "versions": [
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/",
+            "site_url": "http://www.amara.org/videos/B0Y86cstxaK1/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": "Mobile network attack evolution"
+        }
     },
     "5412": {
         "fahrplan_start": "18:30",
