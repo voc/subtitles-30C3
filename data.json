@@ -1513,23 +1513,7 @@
         "filename": "30c3-5394-BREACH_in_Agda",
         "ticket_id": 1311,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5394-BREACH_in_Agda_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:08",
-            "description": "",
-            "duration": null,
-            "id": "ytKklXYhsLcI",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/ytKklXYhsLcI/",
-            "site_url": "http://www.amara.org/videos/ytKklXYhsLcI/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5533": {
         "fahrplan_start": "12:45",
@@ -1984,23 +1968,7 @@
         "filename": "30c3-5425-en-Hacking_as_Artistic_Practice",
         "ticket_id": 1328,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5425-en-Hacking_as_Artistic_Practice_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:53",
-            "description": "",
-            "duration": null,
-            "id": "69d36ocfyh2b",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/69d36ocfyh2b/",
-            "site_url": "http://www.amara.org/videos/69d36ocfyh2b/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5542": {
         "fahrplan_start": "20:30",
@@ -2042,7 +2010,23 @@
         "filename": "30c3-5416-en-de-Desperately_Seeking_Susy",
         "ticket_id": 1329,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5416-en-de-Desperately_Seeking_Susy_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:37:35",
+            "description": "",
+            "duration": null,
+            "id": "yDnCD9l7BLwD",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/yDnCD9l7BLwD/",
+            "site_url": "http://www.amara.org/videos/yDnCD9l7BLwD/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5210": {
         "fahrplan_start": "20:30",
@@ -2064,6 +2048,100 @@
             "duration": null,
             "id": "y1Gk3maFbvNQ",
             "languages": [
+                {
+                    "code": "de",
+                    "dir": "ltr",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T00:30:10",
+                    "description": "",
+                    "id": "627979",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [],
+                    "num_versions": 14,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
+                    "subtitle_count": 804,
+                    "subtitles_complete": false,
+                    "title": "Bullshit made in Germany",
+                    "versions": [
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 14
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 13
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 12
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 11
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                },
                 {
                     "code": "en",
                     "dir": "ltr",
@@ -2168,23 +2246,7 @@
         "filename": "30c3-5186-en-Programming_FPGAs_with_PSHDL",
         "ticket_id": 1330,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5186-en-Programming_FPGAs_with_PSHDL_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:37:54",
-            "description": "",
-            "duration": null,
-            "id": "LMIdCrOjxrxA",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/LMIdCrOjxrxA/",
-            "site_url": "http://www.amara.org/videos/LMIdCrOjxrxA/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5446": {
         "fahrplan_start": "22:00",
@@ -2696,80 +2758,6 @@
                             "version_no": 1
                         }
                     ]
-                },
-                {
-                    "code": "tlh",
-                    "dir": "ltr",
-                    "name": "Klingon",
-                    "resource_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/tlh/",
-                    "subtitles_uri": "/api2/partners/videos/7yu3xau1UWrX/languages/tlh/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-13T00:14:04",
-                    "description": "Passwortgenerierung mit Arduino (Generating passwords with Arduino)",
-                    "id": "634854",
-                    "is_original": false,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "tlh",
-                    "metadata": [],
-                    "num_versions": 10,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/7yu3xau1UWrX/tlh/634854/",
-                    "subtitle_count": 583,
-                    "subtitles_complete": true,
-                    "title": "calc.pw",
-                    "versions": [
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 10
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 9
-                        },
-                        {
-                            "author": "c3subtitles",
-                            "published": true,
-                            "version_no": 8
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 7
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 6
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 5
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 4
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 3
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 2
-                        },
-                        {
-                            "author": "Sebi",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
                 }
             ],
             "metadata": [],
@@ -2859,7 +2847,47 @@
             "description": "The ArduGuitar EN",
             "duration": null,
             "id": "3XwDZenurjPP",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/3XwDZenurjPP/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T10:49:27",
+                    "description": "The ArduGuitar EN",
+                    "id": "627596",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 3,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/3XwDZenurjPP/en/627596/",
+                    "subtitle_count": 229,
+                    "subtitles_complete": false,
+                    "title": "The ArduGuitar EN",
+                    "versions": [
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Foobar",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/3XwDZenurjPP/",
@@ -2946,7 +2974,37 @@
             "description": "",
             "duration": null,
             "id": "PooCBJvwwEVt",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/PooCBJvwwEVt/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2013-12-30T06:31:53",
+                    "description": "",
+                    "id": "626054",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 1,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/PooCBJvwwEVt/en/626054/",
+                    "subtitle_count": 4,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "twissi.mail",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/PooCBJvwwEVt/",
@@ -3025,7 +3083,23 @@
         "filename": "30c3-5433-de-en-Recht_auf_Remix",
         "ticket_id": 1387,
         "wiki_status": "text in pad complete (de)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5433-de-en-Recht_auf_Remix_h264-iprod.mp4"
+            ],
+            "created": "2013-12-29T21:30:16",
+            "description": "",
+            "duration": null,
+            "id": "2YdoVhomCaUp",
+            "languages": [],
+            "metadata": [],
+            "original_language": "de",
+            "resource_uri": "/api2/partners/videos/2YdoVhomCaUp/",
+            "site_url": "http://www.amara.org/videos/2YdoVhomCaUp/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5405": {
         "fahrplan_start": "17:30",
@@ -3787,7 +3861,23 @@
         "filename": "30c3-5550-en-Beyond_the_Tech_Building_Internet_Freedom_Tools_for_Real_People",
         "ticket_id": 1422,
         "wiki_status": "\u2717 (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5550-en-Beyond_the_Tech_Building_Internet_Freedom_Tools_for_Real_People_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:42",
+            "description": "",
+            "duration": null,
+            "id": "0u5FVTfwaDxN",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/0u5FVTfwaDxN/",
+            "site_url": "http://www.amara.org/videos/0u5FVTfwaDxN/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5289": {
         "fahrplan_start": "12:15",
@@ -4577,23 +4667,7 @@
         "filename": "30c3-5618-en-Baseband_Exploitation_in_2013",
         "ticket_id": 1455,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5618-en-Baseband_Exploitation_in_2013_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:38:07",
-            "description": "",
-            "duration": null,
-            "id": "JrW7lYXUfmQC",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/JrW7lYXUfmQC/",
-            "site_url": "http://www.amara.org/videos/JrW7lYXUfmQC/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5491": {
         "fahrplan_start": "23:00",
@@ -4614,37 +4688,7 @@
             "description": "",
             "duration": null,
             "id": "2kGOoOdz2i5w",
-            "languages": [
-                {
-                    "code": "en",
-                    "dir": "ltr",
-                    "name": "English",
-                    "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/",
-                    "subtitles_uri": "/api2/partners/videos/2kGOoOdz2i5w/languages/en/subtitles/",
-                    "visible": true,
-                    "created": "2014-01-03T16:21:22",
-                    "description": "",
-                    "id": "628531",
-                    "is_original": true,
-                    "is_rtl": false,
-                    "is_translation": false,
-                    "language_code": "en",
-                    "metadata": [],
-                    "num_versions": 1,
-                    "original_language_code": "",
-                    "site_url": "http://www.amara.org/videos/2kGOoOdz2i5w/en/628531/",
-                    "subtitle_count": 2,
-                    "subtitles_complete": false,
-                    "title": "",
-                    "versions": [
-                        {
-                            "author": "stackexchange2",
-                            "published": true,
-                            "version_no": 1
-                        }
-                    ]
-                }
-            ],
+            "languages": [],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/2kGOoOdz2i5w/",
@@ -4694,23 +4738,7 @@
         "filename": "30c3-5214-en-The_Gospel_of_IRMA_",
         "ticket_id": 1499,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5214-en-The_Gospel_of_IRMA__h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:35:48",
-            "description": "",
-            "duration": null,
-            "id": "WQFdossBPoDI",
-            "languages": [],
-            "metadata": [],
-            "original_language": null,
-            "resource_uri": "/api2/partners/videos/WQFdossBPoDI/",
-            "site_url": "http://www.amara.org/videos/WQFdossBPoDI/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5537": {
         "fahrplan_start": "12:45",
