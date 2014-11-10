@@ -3417,7 +3417,23 @@
         "filename": "30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware",
         "ticket_id": 1367,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:32",
+            "description": "",
+            "duration": null,
+            "id": "QQ8u48nOqITN",
+            "languages": [],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/QQ8u48nOqITN/",
+            "site_url": "http://www.amara.org/videos/QQ8u48nOqITN/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5571": {
         "fahrplan_start": "18:30",
@@ -3828,6 +3844,45 @@
             "duration": null,
             "id": "96H1vDtnHQoW",
             "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/96H1vDtnHQoW/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T17:45:46",
+                    "description": "",
+                    "id": "628572",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 3,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/96H1vDtnHQoW/en/628572/",
+                    "subtitle_count": 1081,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "encryptologist",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "forteller",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                },
                 {
                     "code": "ja",
                     "dir": "ltr",
@@ -4326,7 +4381,58 @@
         "filename": "30c3-5477-en-An_introduction_to_Firmware_Analysis",
         "ticket_id": 1448,
         "wiki_status": "needs review (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5477-en-An_introduction_to_Firmware_Analysis_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:38:02",
+            "description": "",
+            "duration": null,
+            "id": "JINCGsJG4f6S",
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/JINCGsJG4f6S/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T17:01:56",
+                    "description": "",
+                    "id": "627811",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 2,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/JINCGsJG4f6S/en/627811/",
+                    "subtitle_count": 327,
+                    "subtitles_complete": false,
+                    "title": "An introduction to Firmware Analysis",
+                    "versions": [
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/JINCGsJG4f6S/",
+            "site_url": "http://www.amara.org/videos/JINCGsJG4f6S/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": "An introduction to Firmware Analysis"
+        }
     },
     "5281": {
         "fahrplan_start": "14:00",
@@ -4405,7 +4511,47 @@
             "description": "",
             "duration": null,
             "id": "B0Y86cstxaK1",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/B0Y86cstxaK1/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T21:36:28",
+                    "description": "",
+                    "id": "627927",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 3,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/B0Y86cstxaK1/en/627927/",
+                    "subtitle_count": 514,
+                    "subtitles_complete": false,
+                    "title": "Mobile network attack evolution",
+                    "versions": [
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "Solvent",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/B0Y86cstxaK1/",
@@ -5052,7 +5198,77 @@
             "description": "Seeing The Secret State: Six Landscapes\n\nAlthough people around the world are becoming increasingly aware of the United States' global geography of surveillance, covert action, and other secret programs, much of this landscape is invisible in our everyday lives.\n  The drone war, for example, seems to happen \"somewhere else\" while surveillance programs take place among the (largely) invisible infrastructures and digital protocols of the internet and other communications networks. Moreover, the state agencies responsible for secret programs strive to make them as invisible as possible.  In this talk, artist Trevor Paglen discusses his work attempting to \"see\" the various aspects of the secret state. In examples ranging from tracking spy satellites to foraging through the bureaucratic refuse of CIA front companies, Paglen will discuss methods used to identify and exploit structural contradictions in classified programs which render them visible, and comment on the aesthetics and politics of attempting to \"see\" secrecy.\n\nSpeaker: Trevor Paglen\nEventID: 5604\nEvent: 30th Chaos Communication Congress [30c3] by the Chaos Computer Club [CCC]\nLocation: Congress Centrum Hamburg (CCH); Am Dammtor; Marseiller Stra\u00dfe; 20355 Hamburg; Germany\nLanguage: english\nBegin: Sat, 12/28/2013 23:00:00 +01:00\nLizenz: CC-by\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/DUSV/",
             "duration": null,
             "id": "DvMKST6ncdkf",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/DvMKST6ncdkf/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T16:40:14",
+                    "description": "",
+                    "id": "627799",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 9,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/DvMKST6ncdkf/en/627799/",
+                    "subtitle_count": 100,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/DvMKST6ncdkf/",
@@ -5132,7 +5348,23 @@
         "filename": "30c3-5587-en-Making_machines_that_make",
         "ticket_id": 1557,
         "wiki_status": "text in pad complete (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5587-en-Making_machines_that_make_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:21",
+            "description": "",
+            "duration": null,
+            "id": "dUXeyOx0rPbE",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/dUXeyOx0rPbE/",
+            "site_url": "http://www.amara.org/videos/dUXeyOx0rPbE/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5406": {
         "fahrplan_start": "12:45",
@@ -5232,7 +5464,23 @@
         "filename": "30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation",
         "ticket_id": 1561,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T14:23:09",
+            "description": "",
+            "duration": null,
+            "id": "eSmrG45AB7mJ",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/eSmrG45AB7mJ/",
+            "site_url": "http://www.amara.org/videos/eSmrG45AB7mJ/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5499": {
         "fahrplan_start": "18:30",
@@ -5456,7 +5704,37 @@
             "description": "",
             "duration": null,
             "id": "OllWZNHjdn82",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "en",
+                    "dir": "ltr",
+                    "name": "English",
+                    "resource_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/",
+                    "subtitles_uri": "/api2/partners/videos/OllWZNHjdn82/languages/en/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T07:18:23",
+                    "description": "",
+                    "id": "628175",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "en",
+                    "metadata": [],
+                    "num_versions": 1,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/OllWZNHjdn82/en/628175/",
+                    "subtitle_count": 8,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "leonkunert",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "en",
             "resource_uri": "/api2/partners/videos/OllWZNHjdn82/",
