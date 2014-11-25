@@ -5980,7 +5980,42 @@
             "description": "",
             "duration": null,
             "id": "tcnyb7cNwcfY",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "de",
+                    "dir": "ltr",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/tcnyb7cNwcfY/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/tcnyb7cNwcfY/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-02T22:27:39",
+                    "description": "",
+                    "id": "627946",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [],
+                    "num_versions": 2,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/de/627946/",
+                    "subtitle_count": 46,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
             "original_language": "de",
             "resource_uri": "/api2/partners/videos/tcnyb7cNwcfY/",
