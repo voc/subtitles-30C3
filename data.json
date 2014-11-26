@@ -2095,13 +2095,33 @@
                     "is_translation": false,
                     "language_code": "de",
                     "metadata": [],
-                    "num_versions": 18,
+                    "num_versions": 22,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
-                    "subtitle_count": 815,
+                    "subtitle_count": 849,
                     "subtitles_complete": false,
                     "title": "Bullshit made in Germany",
                     "versions": [
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 22
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 21
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 20
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 19
+                        },
                         {
                             "author": "percidae",
                             "published": true,
@@ -6016,13 +6036,33 @@
                     "is_translation": false,
                     "language_code": "de",
                     "metadata": [],
-                    "num_versions": 2,
+                    "num_versions": 6,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/de/627946/",
-                    "subtitle_count": 46,
+                    "subtitle_count": 326,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 3
+                        },
                         {
                             "author": "ubahnverleih",
                             "published": true,
