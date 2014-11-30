@@ -6056,13 +6056,18 @@
                     "is_translation": false,
                     "language_code": "de",
                     "metadata": [],
-                    "num_versions": 6,
+                    "num_versions": 7,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/de/627946/",
-                    "subtitle_count": 326,
+                    "subtitle_count": 430,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "ubahnverleih",
+                            "published": true,
+                            "version_no": 7
+                        },
                         {
                             "author": "ubahnverleih",
                             "published": true,
