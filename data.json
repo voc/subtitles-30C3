@@ -919,9 +919,39 @@
             "description": "",
             "duration": null,
             "id": "Y9X5i5QCVnqA",
-            "languages": [],
+            "languages": [
+                {
+                    "code": "de",
+                    "dir": "ltr",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/Y9X5i5QCVnqA/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/Y9X5i5QCVnqA/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-12-17T03:31:20",
+                    "description": "",
+                    "id": "875072",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [],
+                    "num_versions": 1,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/Y9X5i5QCVnqA/de/875072/",
+                    "subtitle_count": 17,
+                    "subtitles_complete": false,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "k-nut",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                }
+            ],
             "metadata": [],
-            "original_language": null,
+            "original_language": "de",
             "resource_uri": "/api2/partners/videos/Y9X5i5QCVnqA/",
             "site_url": "http://www.amara.org/videos/Y9X5i5QCVnqA/info/",
             "team": null,
@@ -6056,13 +6086,18 @@
                     "is_translation": false,
                     "language_code": "de",
                     "metadata": [],
-                    "num_versions": 7,
+                    "num_versions": 8,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/tcnyb7cNwcfY/de/627946/",
-                    "subtitle_count": 430,
+                    "subtitle_count": 450,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "k-nut",
+                            "published": true,
+                            "version_no": 8
+                        },
                         {
                             "author": "ubahnverleih",
                             "published": true,
