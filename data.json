@@ -1799,13 +1799,18 @@
                     "is_translation": false,
                     "language_code": "en",
                     "metadata": [],
-                    "num_versions": 8,
+                    "num_versions": 9,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/SZp7nj2FfhlP/en/832993/",
-                    "subtitle_count": 495,
+                    "subtitle_count": 496,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 9
+                        },
                         {
                             "author": "jonathan.e.werner",
                             "published": true,
