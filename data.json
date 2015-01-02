@@ -3353,13 +3353,18 @@
                     "is_translation": false,
                     "language_code": "en",
                     "metadata": [],
-                    "num_versions": 7,
+                    "num_versions": 8,
                     "original_language_code": "",
                     "site_url": "http://www.amara.org/videos/i1LHDvxS9qb8/en/696853/",
-                    "subtitle_count": 268,
+                    "subtitle_count": 498,
                     "subtitles_complete": false,
                     "title": "",
                     "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 8
+                        },
                         {
                             "author": "c3subtitles",
                             "published": true,
