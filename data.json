@@ -1202,7 +1202,23 @@
         "filename": "30c3-5348-de-en-Der_Kampf_um_Netzneutralitaet",
         "ticket_id": 1258,
         "wiki_status": "text in pad (de)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5348-de-en-Der_Kampf_um_Netzneutralitaet_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:39:11",
+            "description": "",
+            "duration": null,
+            "id": "EQgIabpY8R75",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/EQgIabpY8R75/",
+            "site_url": "http://www.amara.org/videos/EQgIabpY8R75/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5212": {
         "fahrplan_start": "21:45",
