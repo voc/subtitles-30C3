@@ -1903,23 +1903,7 @@
         "filename": "30c3-5185-en-FPGA_101",
         "ticket_id": 1314,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5185-en-FPGA_101_h264-iprod.mp4"
-            ],
-            "created": "2014-01-02T13:34:27",
-            "description": "",
-            "duration": null,
-            "id": "eOoD9nRqjdue",
-            "languages": [],
-            "metadata": [],
-            "original_language": "en",
-            "resource_uri": "/api2/partners/videos/eOoD9nRqjdue/",
-            "site_url": "http://www.amara.org/videos/eOoD9nRqjdue/info/",
-            "team": null,
-            "thumbnail": "",
-            "title": ""
-        }
+        "amara": false
     },
     "5547": {
         "fahrplan_start": "17:30",
