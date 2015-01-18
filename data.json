@@ -309,6 +309,35 @@
                             "version_no": 1
                         }
                     ]
+                },
+                {
+                    "code": "tlh",
+                    "dir": "ltr",
+                    "name": "Klingon",
+                    "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/tlh/",
+                    "subtitles_uri": "/api2/partners/videos/7Ert3cbCTB1V/languages/tlh/subtitles/",
+                    "visible": true,
+                    "created": "2015-01-18T10:48:25",
+                    "description": "",
+                    "id": "899321",
+                    "is_original": false,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "tlh",
+                    "metadata": [],
+                    "num_versions": 1,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/tlh/899321/",
+                    "subtitle_count": 486,
+                    "subtitles_complete": true,
+                    "title": "",
+                    "versions": [
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
                 }
             ],
             "metadata": [],
