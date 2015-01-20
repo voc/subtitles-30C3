@@ -320,7 +320,7 @@
                     "created": "2015-01-18T10:48:25",
                     "description": "",
                     "id": "899321",
-                    "is_original": false,
+                    "is_original": true,
                     "is_rtl": false,
                     "is_translation": false,
                     "language_code": "tlh",
@@ -341,7 +341,7 @@
                 }
             ],
             "metadata": [],
-            "original_language": "en",
+            "original_language": "tlh",
             "resource_uri": "/api2/partners/videos/7Ert3cbCTB1V/",
             "site_url": "http://www.amara.org/videos/7Ert3cbCTB1V/info/",
             "team": null,
