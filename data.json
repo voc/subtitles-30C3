@@ -3123,7 +3123,23 @@
         "filename": "30c3-5536-en-Long_Distance_Quantum_Communication",
         "ticket_id": 1266,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5536-en-Long_Distance_Quantum_Communication_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:50",
+            "description": "",
+            "duration": null,
+            "id": "ZWRbSoz3FqxU",
+            "languages": [],
+            "metadata": [],
+            "original_language": "en",
+            "resource_uri": "/api2/partners/videos/ZWRbSoz3FqxU/",
+            "site_url": "http://www.amara.org/videos/ZWRbSoz3FqxU/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5613": {
         "fahrplan_datetime": null,
