@@ -3505,7 +3505,23 @@
         "filename": "30c3-5443-en-Introduction_to_Processor_Design",
         "ticket_id": 1315,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5443-en-Introduction_to_Processor_Design_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:34:49",
+            "description": "",
+            "duration": null,
+            "id": "HToaCNX9Dqxf",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/HToaCNX9Dqxf/",
+            "site_url": "http://www.amara.org/videos/HToaCNX9Dqxf/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5210": {
         "fahrplan_datetime": null,
@@ -3527,6 +3543,160 @@
             "duration": null,
             "id": "y1Gk3maFbvNQ",
             "languages": [
+                {
+                    "code": "de",
+                    "dir": "ltr",
+                    "name": "German",
+                    "resource_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/",
+                    "subtitles_uri": "/api2/partners/videos/y1Gk3maFbvNQ/languages/de/subtitles/",
+                    "visible": true,
+                    "created": "2014-01-03T00:30:10",
+                    "description": "",
+                    "id": "627979",
+                    "is_original": true,
+                    "is_rtl": false,
+                    "is_translation": false,
+                    "language_code": "de",
+                    "metadata": [],
+                    "num_versions": 26,
+                    "original_language_code": "",
+                    "site_url": "http://www.amara.org/videos/y1Gk3maFbvNQ/de/627979/",
+                    "subtitle_count": 906,
+                    "subtitles_complete": true,
+                    "title": "Bullshit made in Germany",
+                    "versions": [
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 26
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 25
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 24
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 23
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 22
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 21
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 20
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 19
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 18
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 17
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 16
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 15
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 14
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 13
+                        },
+                        {
+                            "author": "percidae",
+                            "published": true,
+                            "version_no": 12
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 11
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 10
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 9
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 8
+                        },
+                        {
+                            "author": "c3subtitles",
+                            "published": true,
+                            "version_no": 7
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 6
+                        },
+                        {
+                            "author": "saerdnaer",
+                            "published": true,
+                            "version_no": 5
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 4
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 3
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 2
+                        },
+                        {
+                            "author": "EvitaBley",
+                            "published": true,
+                            "version_no": 1
+                        }
+                    ]
+                },
                 {
                     "code": "en",
                     "dir": "ltr",
@@ -3660,7 +3830,23 @@
         "filename": "30c3-5319-en-Technomonopolies",
         "ticket_id": 1319,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5319-en-Technomonopolies_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:15",
+            "description": "",
+            "duration": null,
+            "id": "eCSW5x6caOFZ",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/eCSW5x6caOFZ/",
+            "site_url": "http://www.amara.org/videos/eCSW5x6caOFZ/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5552": {
         "fahrplan_datetime": null,
