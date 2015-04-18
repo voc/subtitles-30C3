@@ -3830,7 +3830,23 @@
         "filename": "30c3-5319-en-Technomonopolies",
         "ticket_id": 1319,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5319-en-Technomonopolies_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T13:35:15",
+            "description": "",
+            "duration": null,
+            "id": "eCSW5x6caOFZ",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/eCSW5x6caOFZ/",
+            "site_url": "http://www.amara.org/videos/eCSW5x6caOFZ/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5552": {
         "fahrplan_datetime": null,
@@ -5722,7 +5738,23 @@
         "filename": "30c3-5304-en-CounterStrike",
         "ticket_id": 1566,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5304-en-CounterStrike_h264-iprod.mp4"
+            ],
+            "created": "2014-01-02T14:20:33",
+            "description": "",
+            "duration": null,
+            "id": "apAPEtjBdnSj",
+            "languages": [],
+            "metadata": [],
+            "original_language": null,
+            "resource_uri": "/api2/partners/videos/apAPEtjBdnSj/",
+            "site_url": "http://www.amara.org/videos/apAPEtjBdnSj/info/",
+            "team": null,
+            "thumbnail": "",
+            "title": ""
+        }
     },
     "5490": {
         "fahrplan_datetime": null,
