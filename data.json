@@ -10,24 +10,7 @@
         "filename": "30c3-5605-en-Opening_Event",
         "ticket_id": 3490,
         "wiki_status": "complete (en)",
-        "amara": {
-            "id": "j2vSO9vtZNSz",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "Opening Event 30C3 - Tim Pritlove",
-            "description": "Introductory event to say hello to everybody, give a brief overview of the event's features and look into history and future alike",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:14",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5605-en-Opening_Event_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/j2vSO9vtZNSz/"
-        }
+        "amara": []
     },
     "5610": {
         "fahrplan_datetime": null,
@@ -40,24 +23,7 @@
         "filename": "30c3-5610-de-Seidenstrasse",
         "ticket_id": 1252,
         "wiki_status": "complete (en)",
-        "amara": {
-            "id": "7Ert3cbCTB1V",
-            "primary_audio_language_code": "tlh",
-            "original_language": "tlh",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:20",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5610-de-Seidenstrasse_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/7Ert3cbCTB1V/"
-        }
+        "amara": []
     },
     "5307": {
         "fahrplan_datetime": null,
@@ -70,24 +36,7 @@
         "filename": "30c3-5307-en-Reverse_engineering_of_CHIASMUS_from_GSTOOL",
         "ticket_id": 1253,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "ALF4cLDpCOGb",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:22",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5307-en-Reverse_engineering_of_CHIASMUS_from_GSTOOL_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/ALF4cLDpCOGb/"
-        }
+        "amara": []
     },
     "5476": {
         "fahrplan_datetime": null,
@@ -100,24 +49,7 @@
         "filename": "30c3-5476-en-Electronic_Bank_Robberies",
         "ticket_id": 1254,
         "wiki_status": "complete (en)",
-        "amara": {
-            "id": "kEbLTdDn300e",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "Electronic Bank Robberies",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:43",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5476-en-Electronic_Bank_Robberies_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/kEbLTdDn300e/"
-        }
+        "amara": []
     },
     "5337": {
         "fahrplan_datetime": null,
@@ -160,24 +92,7 @@
         "filename": "30c3-5529-en-Hardening_hardware_and_choosing_a_goodBIOS",
         "ticket_id": 1256,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "c9lcIQbrkTes",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:46",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5529-en-Hardening_hardware_and_choosing_a_goodBIOS_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/c9lcIQbrkTes/"
-        }
+        "amara": []
     },
     "5290": {
         "fahrplan_datetime": null,
@@ -190,24 +105,7 @@
         "filename": "30c3-5290-en-Console_Hacking_2013",
         "ticket_id": 1257,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "EkgljoB0Mebi",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-16T16:01:12",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5290-en-Console_Hacking_2013_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/EkgljoB0Mebi/"
-        }
+        "amara": []
     },
     "5348": {
         "fahrplan_datetime": null,
@@ -250,24 +148,7 @@
         "filename": "30c3-5398-en-HbbTV_Security",
         "ticket_id": 1259,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "wKaTbGDnFQNM",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:22",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5398-en-HbbTV_Security_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/wKaTbGDnFQNM/"
-        }
+        "amara": []
     },
     "5544": {
         "fahrplan_datetime": null,
@@ -280,24 +161,7 @@
         "filename": "30c3-5544-de-en-Sim_Gishel",
         "ticket_id": 1261,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "pFrtIBOVNL4r",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:29",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5544-de-en-Sim_Gishel_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/pFrtIBOVNL4r/"
-        }
+        "amara": []
     },
     "5611": {
         "fahrplan_datetime": null,
@@ -400,24 +264,7 @@
         "filename": "30c3-5360-en-Script_Your_Car_",
         "ticket_id": 1306,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "sspR2rLfnO81",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:38",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5360-en-Script_Your_Car__h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/sspR2rLfnO81/"
-        }
+        "amara": []
     },
     "5542": {
         "fahrplan_datetime": null,
@@ -430,24 +277,7 @@
         "filename": "30c3-5542-en-Revisiting_Trusting_Trust_for_binary_toolchains",
         "ticket_id": 1308,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "3mLEkbrxB4aO",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:57",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5542-en-Revisiting_Trusting_Trust_for_binary_toolchains_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/3mLEkbrxB4aO/"
-        }
+        "amara": []
     },
     "5440": {
         "fahrplan_datetime": null,
@@ -460,24 +290,7 @@
         "filename": "30c3-5440-en-de-Art_of_the_Exploit_An_Introduction_to_Critical_Engineering",
         "ticket_id": 1309,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "Vnzl2uoGjW3s",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:05",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5440-en-de-Art_of_the_Exploit_An_Introduction_to_Critical_Engineering_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/Vnzl2uoGjW3s/"
-        }
+        "amara": []
     },
     "5582": {
         "fahrplan_datetime": null,
@@ -490,24 +303,7 @@
         "filename": "30c3-5582-en-SCADA_StrangeLove_2",
         "ticket_id": 1310,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "9VcUa9bufpDy",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:19",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5582-en-SCADA_StrangeLove_2_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/9VcUa9bufpDy/"
-        }
+        "amara": []
     },
     "5483": {
         "fahrplan_datetime": null,
@@ -520,24 +316,7 @@
         "filename": "30c3-5483-en-Europe_the_USA_and_Identity_Ecosystems",
         "ticket_id": 1362,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "UKnXyZNQEOr8",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:47",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5483-en-Europe_the_USA_and_Identity_Ecosystems_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/UKnXyZNQEOr8/"
-        }
+        "amara": []
     },
     "5543": {
         "fahrplan_datetime": null,
@@ -550,24 +329,7 @@
         "filename": "30c3-5543-en-de-ID_Cards_in_China_Your_Worst_Nightmare",
         "ticket_id": 1363,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "oD089RQ3ivme",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:01",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5543-en-de-ID_Cards_in_China_Your_Worst_Nightmare_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/oD089RQ3ivme/"
-        }
+        "amara": []
     },
     "5334": {
         "fahrplan_datetime": null,
@@ -580,24 +342,7 @@
         "filename": "30c3-5334-en-RFID_Treehouse_of_Horror",
         "ticket_id": 1364,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "DmPI1rpqWLZH",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:26",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5334-en-RFID_Treehouse_of_Horror_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/DmPI1rpqWLZH/"
-        }
+        "amara": []
     },
     "5526": {
         "fahrplan_datetime": null,
@@ -610,24 +355,7 @@
         "filename": "30c3-5526-en-How_to_Build_a_Mind",
         "ticket_id": 1365,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "RIOzmOELWGjT",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:36",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5526-en-How_to_Build_a_Mind_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/RIOzmOELWGjT/"
-        }
+        "amara": []
     },
     "5590": {
         "fahrplan_datetime": null,
@@ -640,24 +368,7 @@
         "filename": "30c3-5590-en-White-Box_Cryptography",
         "ticket_id": 1366,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "HX2lTGgFGka0",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:35",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5590-en-White-Box_Cryptography_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/HX2lTGgFGka0/"
-        }
+        "amara": []
     },
     "5380": {
         "fahrplan_datetime": null,
@@ -700,24 +411,7 @@
         "filename": "30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide",
         "ticket_id": 1368,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "8HPSBM3pLw0u",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:10",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/8HPSBM3pLw0u/"
-        }
+        "amara": []
     },
     "5619": {
         "fahrplan_datetime": null,
@@ -850,24 +544,7 @@
         "filename": "30c3-5495-en-Concepts_for_global_TSCM",
         "ticket_id": 1421,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "DNymsl1nTHVf",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:47",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5495-en-Concepts_for_global_TSCM_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/DNymsl1nTHVf/"
-        }
+        "amara": []
     },
     "5713": {
         "fahrplan_datetime": null,
@@ -880,24 +557,7 @@
         "filename": "30c3-5713-en-de-To_Protect_And_Infect_Part_2",
         "ticket_id": 3475,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "96H1vDtnHQoW",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:05",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5713-en-de-To_Protect_And_Infect_Part_2_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/96H1vDtnHQoW/"
-        }
+        "amara": []
     },
     "5377": {
         "fahrplan_datetime": null,
@@ -940,24 +600,7 @@
         "filename": "30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution",
         "ticket_id": 1271,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "qiHBDq7IqHII",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:15",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/qiHBDq7IqHII/"
-        }
+        "amara": []
     },
     "5509": {
         "fahrplan_datetime": null,
@@ -970,24 +613,7 @@
         "filename": "30c3-5509-de-en-IFGINT",
         "ticket_id": 1272,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "vQfYvqTjIVIR",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:18",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5509-de-en-IFGINT_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/vQfYvqTjIVIR/"
-        }
+        "amara": []
     },
     "5311": {
         "fahrplan_datetime": null,
@@ -1000,24 +626,7 @@
         "filename": "30c3-5311-en-lasers_in_space",
         "ticket_id": 1273,
         "wiki_status": "complete (en)",
-        "amara": {
-            "id": "KsJjYDX1H0gY",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:18",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5311-en-lasers_in_space_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/KsJjYDX1H0gY/"
-        }
+        "amara": []
     },
     "5447": {
         "fahrplan_datetime": null,
@@ -1030,24 +639,7 @@
         "filename": "30c3-5447-en-Policing_the_Romantic_Crowd",
         "ticket_id": 1274,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "AtKBxE4lHbeU",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:54",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5447-en-Policing_the_Romantic_Crowd_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/AtKBxE4lHbeU/"
-        }
+        "amara": []
     },
     "5142": {
         "fahrplan_datetime": null,
@@ -1060,24 +652,7 @@
         "filename": "30c3-5142-en-Monitoring_the_Spectrum_Building_Your_Own_Distributed_RF_Scanner_Array",
         "ticket_id": 1275,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "NyPMoCwXfrmf",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:45",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5142-en-Monitoring_the_Spectrum_Building_Your_Own_Distributed_RF_Scanner_Array_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/NyPMoCwXfrmf/"
-        }
+        "amara": []
     },
     "5387": {
         "fahrplan_datetime": null,
@@ -1090,24 +665,7 @@
         "filename": "30c3-5387-en-Toward_a_Cognitive_Quantified_Self_",
         "ticket_id": 1276,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "scsGsCOfOcHx",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:57",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5387-en-Toward_a_Cognitive_Quantified_Self__h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/scsGsCOfOcHx/"
-        }
+        "amara": []
     },
     "5212": {
         "fahrplan_datetime": null,
@@ -1120,24 +678,7 @@
         "filename": "30c3-5212-en-The_GNU_Name_System",
         "ticket_id": 1277,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "5JioSwb5IQ2J",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:08",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5212-en-The_GNU_Name_System_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/5JioSwb5IQ2J/"
-        }
+        "amara": []
     },
     "5356": {
         "fahrplan_datetime": null,
@@ -1150,24 +691,7 @@
         "filename": "30c3-5356-en-Firmware_Fat_Camp",
         "ticket_id": 1278,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "IM3aPAJD5A95",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:33",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5356-en-Firmware_Fat_Camp_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/IM3aPAJD5A95/"
-        }
+        "amara": []
     },
     "5468": {
         "fahrplan_datetime": null,
@@ -1210,24 +734,7 @@
         "filename": "30c3-5417-en-Extracting_keys_from_FPGAs_OTP_Tokens_and_Door_Locks",
         "ticket_id": 1322,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "BuYUWvZ0j76J",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:23",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5417-en-Extracting_keys_from_FPGAs_OTP_Tokens_and_Door_Locks_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/BuYUWvZ0j76J/"
-        }
+        "amara": []
     },
     "5554": {
         "fahrplan_datetime": null,
@@ -1240,24 +747,7 @@
         "filename": "30c3-5554-en-Magic_Lantern",
         "ticket_id": 1323,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "NRuayD4MEgd5",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-06T18:04:59",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5554-en-Magic_Lantern_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/NRuayD4MEgd5/"
-        }
+        "amara": []
     },
     "5453": {
         "fahrplan_datetime": null,
@@ -1300,24 +790,7 @@
         "filename": "30c3-5607-en-The_Pirate_Cinema",
         "ticket_id": 1325,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "OZ6rSaXO0uNA",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:25",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5607-en-The_Pirate_Cinema_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/OZ6rSaXO0uNA/"
-        }
+        "amara": []
     },
     "5547": {
         "fahrplan_datetime": null,
@@ -1330,24 +803,7 @@
         "filename": "30c3-5547-en-Turing_Complete_User",
         "ticket_id": 1326,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "w4O6X2K9jkCI",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:09",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5547-en-Turing_Complete_User_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/w4O6X2K9jkCI/"
-        }
+        "amara": []
     },
     "5566": {
         "fahrplan_datetime": null,
@@ -1390,24 +846,7 @@
         "filename": "30c3-5425-en-Hacking_as_Artistic_Practice",
         "ticket_id": 1328,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "69d36ocfyh2b",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:53",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5425-en-Hacking_as_Artistic_Practice_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/69d36ocfyh2b/"
-        }
+        "amara": []
     },
     "5416": {
         "fahrplan_datetime": null,
@@ -1450,24 +889,7 @@
         "filename": "30c3-5186-en-Programming_FPGAs_with_PSHDL",
         "ticket_id": 1330,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "LMIdCrOjxrxA",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:54",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5186-en-Programming_FPGAs_with_PSHDL_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/LMIdCrOjxrxA/"
-        }
+        "amara": []
     },
     "5361": {
         "fahrplan_datetime": null,
@@ -1480,24 +902,7 @@
         "filename": "30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts",
         "ticket_id": 1331,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "2FKYeLpjdOeM",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:12",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/2FKYeLpjdOeM/"
-        }
+        "amara": []
     },
     "5391": {
         "fahrplan_datetime": null,
@@ -1510,24 +915,7 @@
         "filename": "30c3-5391-en-de-Y_U_NO_ISP_taking_back_the_Net",
         "ticket_id": 1381,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "AcSYmwPfIfyF",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:30",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5391-en-de-Y_U_NO_ISP_taking_back_the_Net_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/AcSYmwPfIfyF/"
-        }
+        "amara": []
     },
     "5479": {
         "fahrplan_datetime": null,
@@ -1540,24 +928,7 @@
         "filename": "30c3-5479-en-Building_a_safe_NFC_ticketing_system",
         "ticket_id": 1382,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "lLXrTQKOqoMO",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:09",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5479-en-Building_a_safe_NFC_ticketing_system_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/lLXrTQKOqoMO/"
-        }
+        "amara": []
     },
     "5594": {
         "fahrplan_datetime": null,
@@ -1570,24 +941,7 @@
         "filename": "30c3-5594-en-Structuring_open_hardware_projects",
         "ticket_id": 1383,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "roLRIzEt7YkG",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:29:54",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5594-en-Structuring_open_hardware_projects_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/roLRIzEt7YkG/"
-        }
+        "amara": []
     },
     "5420": {
         "fahrplan_datetime": null,
@@ -1600,24 +954,7 @@
         "filename": "30c3-5420-de-en-calcpw",
         "ticket_id": 1384,
         "wiki_status": "needs review (klingon/mixed) / needs translation (de)",
-        "amara": {
-            "id": "7yu3xau1UWrX",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:21",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5420-de-en-calcpw_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/7yu3xau1UWrX/"
-        }
+        "amara": []
     },
     "5595": {
         "fahrplan_datetime": null,
@@ -1630,24 +967,7 @@
         "filename": "30c3-5595-en-The_ArduGuitar",
         "ticket_id": 1385,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "3XwDZenurjPP",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "The ArduGuitar EN",
-            "description": "The ArduGuitar EN",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:32",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5595-en-The_ArduGuitar_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/3XwDZenurjPP/"
-        }
+        "amara": []
     },
     "5395": {
         "fahrplan_datetime": null,
@@ -1690,24 +1010,7 @@
         "filename": "30c3-5433-de-en-Recht_auf_Remix",
         "ticket_id": 1387,
         "wiki_status": "text in pad complete (de)",
-        "amara": {
-            "id": "2YdoVhomCaUp",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:16",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5433-de-en-Recht_auf_Remix_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/2YdoVhomCaUp/"
-        }
+        "amara": []
     },
     "5571": {
         "fahrplan_datetime": null,
@@ -1720,24 +1023,7 @@
         "filename": "30c3-5571-en-Calafou_postcapitalist_ecoindustrial_community",
         "ticket_id": 1388,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "8tSBEj1w38Cr",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:24",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5571-en-Calafou_postcapitalist_ecoindustrial_community_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/8tSBEj1w38Cr/"
-        }
+        "amara": []
     },
     "5223": {
         "fahrplan_datetime": null,
@@ -1780,24 +1066,7 @@
         "filename": "30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security",
         "ticket_id": 1390,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "QnlKic8UEoAx",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:20",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5445-en-Virtually_Impossible_The_Reality_Of_Virtualization_Security_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/QnlKic8UEoAx/"
-        }
+        "amara": []
     },
     "5426": {
         "fahrplan_datetime": null,
@@ -1810,24 +1079,7 @@
         "filename": "30c3-5426-de-en-Das_FlipDot-Projekt",
         "ticket_id": 1391,
         "wiki_status": "\u2717 (de)",
-        "amara": {
-            "id": "nLUN7RKUSCGL",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:30",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5426-de-en-Das_FlipDot-Projekt_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/nLUN7RKUSCGL/"
-        }
+        "amara": []
     },
     "5289": {
         "fahrplan_datetime": null,
@@ -1840,24 +1092,7 @@
         "filename": "30c3-5289-en-Coding_your_body",
         "ticket_id": 1425,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "28NFxFutmSJC",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:13",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5289-en-Coding_your_body_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/28NFxFutmSJC/"
-        }
+        "amara": []
     },
     "5278": {
         "fahrplan_datetime": null,
@@ -1870,24 +1105,7 @@
         "filename": "30c3-5278-en-The_philosophy_of_hacking",
         "ticket_id": 1426,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "8qD6zJ6SNVNl",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:44",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5278-en-The_philosophy_of_hacking_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/8qD6zJ6SNVNl/"
-        }
+        "amara": []
     },
     "5539": {
         "fahrplan_datetime": null,
@@ -1900,24 +1118,7 @@
         "filename": "30c3-5539-en-Human_Rights_and_Technology",
         "ticket_id": 1427,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "7qS3I3IwOOxQ",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:04",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5539-en-Human_Rights_and_Technology_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/7qS3I3IwOOxQ/"
-        }
+        "amara": []
     },
     "5609": {
         "fahrplan_datetime": null,
@@ -1930,24 +1131,7 @@
         "filename": "30c3-5609-en-Infrastructure_Review",
         "ticket_id": 1428,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "8qKKxlpSKOT6",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:09",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5609-en-Infrastructure_Review_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/8qKKxlpSKOT6/"
-        }
+        "amara": []
     },
     "5293": {
         "fahrplan_datetime": null,
@@ -1960,24 +1144,7 @@
         "filename": "30c3-5293-de-en-Dead_Man_Edition",
         "ticket_id": 1429,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "yk054KNTnW77",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:53",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5293-de-en-Dead_Man_Edition_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/yk054KNTnW77/"
-        }
+        "amara": []
     },
     "5614": {
         "fahrplan_datetime": null,
@@ -2020,24 +1187,7 @@
         "filename": "30c3-5415-de-en-Der_tiefe_Staat",
         "ticket_id": 1262,
         "wiki_status": "complete (de)",
-        "amara": {
-            "id": "uHzeWq1IRNnF",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:34",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5415-de-en-Der_tiefe_Staat_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/uHzeWq1IRNnF/"
-        }
+        "amara": []
     },
     "5497": {
         "fahrplan_datetime": null,
@@ -2140,24 +1290,7 @@
         "filename": "30c3-5536-en-Long_Distance_Quantum_Communication",
         "ticket_id": 1266,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "ZWRbSoz3FqxU",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:50",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5536-en-Long_Distance_Quantum_Communication_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/ZWRbSoz3FqxU/"
-        }
+        "amara": []
     },
     "5613": {
         "fahrplan_datetime": null,
@@ -2170,24 +1303,7 @@
         "filename": "30c3-5613-en-Forbidden_Fruit",
         "ticket_id": 1267,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "elTfJlVM8Crr",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:52",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5613-en-Forbidden_Fruit_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/elTfJlVM8Crr/"
-        }
+        "amara": []
     },
     "5474": {
         "fahrplan_datetime": null,
@@ -2260,24 +1376,7 @@
         "filename": "30c3-5394-BREACH_in_Agda",
         "ticket_id": 1311,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "ytKklXYhsLcI",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:08",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5394-BREACH_in_Agda_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/ytKklXYhsLcI/"
-        }
+        "amara": []
     },
     "5562": {
         "fahrplan_datetime": null,
@@ -2290,24 +1389,7 @@
         "filename": "30c3-5562-en-de-Lightning_Talks_Day_2",
         "ticket_id": 1312,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "JbaYBTzglQh1",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:45",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5562-en-de-Lightning_Talks_Day_2_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/JbaYBTzglQh1/"
-        }
+        "amara": []
     },
     "5588": {
         "fahrplan_datetime": null,
@@ -2320,24 +1402,7 @@
         "filename": "30c3-5588-en-de-My_journey_into_FM-RDS",
         "ticket_id": 1313,
         "wiki_status": "needs review (en)",
-        "amara": {
-            "id": "SZp7nj2FfhlP",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:17",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5588-en-de-My_journey_into_FM-RDS_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/SZp7nj2FfhlP/"
-        }
+        "amara": []
     },
     "5185": {
         "fahrplan_datetime": null,
@@ -2350,24 +1415,7 @@
         "filename": "30c3-5185-en-FPGA_101",
         "ticket_id": 1314,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "eOoD9nRqjdue",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:27",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5185-en-FPGA_101_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/eOoD9nRqjdue/"
-        }
+        "amara": []
     },
     "5443": {
         "fahrplan_datetime": null,
@@ -2470,24 +1518,7 @@
         "filename": "30c3-5437-en-Plants_Machines",
         "ticket_id": 1318,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "RZl5rbAeq2PX",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:12",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5437-en-Plants_Machines_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/RZl5rbAeq2PX/"
-        }
+        "amara": []
     },
     "5319": {
         "fahrplan_datetime": null,
@@ -2500,24 +1531,7 @@
         "filename": "30c3-5319-en-Technomonopolies",
         "ticket_id": 1319,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "eCSW5x6caOFZ",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:15",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5319-en-Technomonopolies_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/eCSW5x6caOFZ/"
-        }
+        "amara": []
     },
     "5552": {
         "fahrplan_datetime": null,
@@ -2590,24 +1604,7 @@
         "filename": "30c3-5475-en-_SOPA_NSA_and_the_New_Internet_Lobby",
         "ticket_id": 1373,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "PooCBJvwwEVt",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:37",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5475-en-_SOPA_NSA_and_the_New_Internet_Lobby_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/PooCBJvwwEVt/"
-        }
+        "amara": []
     },
     "5494": {
         "fahrplan_datetime": null,
@@ -2620,24 +1617,7 @@
         "filename": "30c3-5494-en-Nerds_in_the_news",
         "ticket_id": 1374,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "WwbRU9FUu5WT",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:17",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5494-en-Nerds_in_the_news_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/WwbRU9FUu5WT/"
-        }
+        "amara": []
     },
     "5405": {
         "fahrplan_datetime": null,
@@ -2650,24 +1630,7 @@
         "filename": "30c3-5405-en-Data_Mining_for_Good",
         "ticket_id": 1375,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "i1LHDvxS9qb8",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:39",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5405-en-Data_Mining_for_Good_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/i1LHDvxS9qb8/"
-        }
+        "amara": []
     },
     "5469": {
         "fahrplan_datetime": null,
@@ -2680,24 +1643,7 @@
         "filename": "30c3-5469-de-en-2_Takte_spaeter",
         "ticket_id": 1376,
         "wiki_status": "complete (de)",
-        "amara": {
-            "id": "45ezAPzxFMeh",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "2 Takte sp\u00e4ter",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:25:43",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5469-de-en-2_Takte_spaeter_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/45ezAPzxFMeh/"
-        }
+        "amara": []
     },
     "5500": {
         "fahrplan_datetime": null,
@@ -2740,24 +1686,7 @@
         "filename": "30c3-5322-en-Reverse_engineering_the_Wii_U_Gamepad",
         "ticket_id": 1378,
         "wiki_status": "text at amara (de)",
-        "amara": {
-            "id": "MedDt2Cy4XTb",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:33:28",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5322-en-Reverse_engineering_the_Wii_U_Gamepad_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/MedDt2Cy4XTb/"
-        }
+        "amara": []
     },
     "5478": {
         "fahrplan_datetime": null,
@@ -2800,24 +1729,7 @@
         "filename": "30c3-5532-de-en-Die_Drohnenkriege",
         "ticket_id": 1380,
         "wiki_status": "text at amara (de)",
-        "amara": {
-            "id": "rSRyxS0R3ltH",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:43",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5532-de-en-Die_Drohnenkriege_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/rSRyxS0R3ltH/"
-        }
+        "amara": []
     },
     "5550": {
         "fahrplan_datetime": null,
@@ -2860,24 +1772,7 @@
         "filename": "30c3-5564-en-de-Lightning_Talks_Day_4",
         "ticket_id": 1423,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "zLQmTVh54kav",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:10",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5564-en-de-Lightning_Talks_Day_4_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/zLQmTVh54kav/"
-        }
+        "amara": []
     },
     "5444": {
         "fahrplan_datetime": null,
@@ -2920,24 +1815,7 @@
         "filename": "30c3-5376-en-Do_You_Think_That_s_Funny_",
         "ticket_id": 1447,
         "wiki_status": "text at amara incomplete (en), text in pad looks complete",
-        "amara": {
-            "id": "pZMiDSNMlhYq",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T14:20:42",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5376-en-Do_You_Think_That_s_Funny__h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/pZMiDSNMlhYq/"
-        }
+        "amara": []
     },
     "5477": {
         "fahrplan_datetime": null,
@@ -2950,24 +1828,7 @@
         "filename": "30c3-5477-en-An_introduction_to_Firmware_Analysis",
         "ticket_id": 1448,
         "wiki_status": "needs review (en)",
-        "amara": {
-            "id": "JINCGsJG4f6S",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "An introduction to Firmware Analysis",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:02",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5477-en-An_introduction_to_Firmware_Analysis_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/JINCGsJG4f6S/"
-        }
+        "amara": []
     },
     "5281": {
         "fahrplan_datetime": null,
@@ -2980,24 +1841,7 @@
         "filename": "30c3-5281-de-en-Keine_Anhaltspunkte_fuer_flaechendeckende_UEberwachung",
         "ticket_id": 1449,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "6AehuOtKEdfr",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:31",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5281-de-en-Keine_Anhaltspunkte_fuer_flaechendeckende_UEberwachung_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/6AehuOtKEdfr/"
-        }
+        "amara": []
     },
     "5634": {
         "fahrplan_datetime": null,
@@ -3040,24 +1884,7 @@
         "filename": "30c3-5449-en-Mobile_network_attack_evolution",
         "ticket_id": 1451,
         "wiki_status": "needs review (en)",
-        "amara": {
-            "id": "B0Y86cstxaK1",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "Mobile network attack evolution",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:10",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5449-en-Mobile_network_attack_evolution_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/B0Y86cstxaK1/"
-        }
+        "amara": []
     },
     "5412": {
         "fahrplan_datetime": null,
@@ -3070,24 +1897,7 @@
         "filename": "30c3-5412-en-Bug_class_genocide",
         "ticket_id": 1452,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "zL2dXPyXROjp",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:17",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5412-en-Bug_class_genocide_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/zL2dXPyXROjp/"
-        }
+        "amara": []
     },
     "5622": {
         "fahrplan_datetime": null,
@@ -3100,24 +1910,7 @@
         "filename": "30c3-5622-en-de-30c3_Keynote",
         "ticket_id": 1453,
         "wiki_status": "complete (en)",
-        "amara": {
-            "id": "eBoWzGWkTn2Z",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "30c3 Keynote",
-            "description": "by Glenn Greenwald",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:37",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5622-en-de-30c3_Keynote_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/eBoWzGWkTn2Z/"
-        }
+        "amara": []
     },
     "5423": {
         "fahrplan_datetime": null,
@@ -3130,24 +1923,7 @@
         "filename": "30c3-5423-en-The_Tor_Network",
         "ticket_id": 1454,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "ogSRd61FX656",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:22",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5423-en-The_Tor_Network_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/ogSRd61FX656/"
-        }
+        "amara": []
     },
     "5618": {
         "fahrplan_datetime": null,
@@ -3160,24 +1936,7 @@
         "filename": "30c3-5618-en-Baseband_Exploitation_in_2013",
         "ticket_id": 1455,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "JrW7lYXUfmQC",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:07",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5618-en-Baseband_Exploitation_in_2013_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/JrW7lYXUfmQC/"
-        }
+        "amara": []
     },
     "5491": {
         "fahrplan_datetime": null,
@@ -3190,24 +1949,7 @@
         "filename": "30c3-5491-en-de-No_Neutral_Ground_in_a_Burning_World",
         "ticket_id": 1456,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "2kGOoOdz2i5w",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:13",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5491-en-de-No_Neutral_Ground_in_a_Burning_World_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/2kGOoOdz2i5w/"
-        }
+        "amara": []
     },
     "5577": {
         "fahrplan_datetime": null,
@@ -3220,24 +1962,7 @@
         "filename": "30c3-5577-de-en-Hacker_Jeopardy",
         "ticket_id": 1457,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "RARxKTVqINRc",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:03",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5577-de-en-Hacker_Jeopardy_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/RARxKTVqINRc/"
-        }
+        "amara": []
     },
     "5214": {
         "fahrplan_datetime": null,
@@ -3250,24 +1975,7 @@
         "filename": "30c3-5214-en-The_Gospel_of_IRMA_",
         "ticket_id": 1499,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "WQFdossBPoDI",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:48",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5214-en-The_Gospel_of_IRMA__h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/WQFdossBPoDI/"
-        }
+        "amara": []
     },
     "5537": {
         "fahrplan_datetime": null,
@@ -3280,24 +1988,7 @@
         "filename": "30c3-5537-en-Glass_Hacks",
         "ticket_id": 1500,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "IwiKybILl85q",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:38",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5537-en-Glass_Hacks_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/IwiKybILl85q/"
-        }
+        "amara": []
     },
     "5463": {
         "fahrplan_datetime": null,
@@ -3310,29 +2001,7 @@
         "filename": "30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit",
         "ticket_id": 1501,
         "wiki_status": "text at amara, incomplete (en)",
-        "amara": {
-            "id": "BtTNgV2drDsk",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "Hillbilly Tracking of Low Earth Orbit",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:05",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-iprod.mp4",
-                "http://www.youtube.com/watch?v=ktnQ7nBCuqU",
-                "http://cdn.media.ccc.de/congress/2013/mp4-hd/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-hd.mp4",
-                "http://cdn.media.ccc.de/congress/2013/mp4/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-hq.mp4",
-                "http://cdn.media.ccc.de/congress/2013/mp4-lq/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_h264-iprod.mp4",
-                "http://cdn.media.ccc.de/congress/2013/webm/30c3-5463-en-Hillbilly_Tracking_of_Low_Earth_Orbit_webm.webm"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/BtTNgV2drDsk/"
-        }
+        "amara": []
     },
     "5193": {
         "fahrplan_datetime": null,
@@ -3345,24 +2014,7 @@
         "filename": "30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking",
         "ticket_id": 1503,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "H4NXhKj5ZfrF",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:45",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5193-en-Hardware_Attacks_Advanced_ARM_Exploitation_and_Android_Hacking_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/H4NXhKj5ZfrF/"
-        }
+        "amara": []
     },
     "5339": {
         "fahrplan_datetime": null,
@@ -3375,24 +2027,7 @@
         "filename": "30c3-5339-en-de-The_Year_in_Crypto",
         "ticket_id": 1504,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "yjj9d3T8OReh",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:14",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5339-en-de-The_Year_in_Crypto_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/yjj9d3T8OReh/"
-        }
+        "amara": []
     },
     "5548": {
         "fahrplan_datetime": null,
@@ -3526,24 +2161,7 @@
         "filename": "30c3-5587-en-Making_machines_that_make",
         "ticket_id": 1557,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "dUXeyOx0rPbE",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:21",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5587-en-Making_machines_that_make_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/dUXeyOx0rPbE/"
-        }
+        "amara": []
     },
     "5406": {
         "fahrplan_datetime": null,
@@ -3586,24 +2204,7 @@
         "filename": "30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card",
         "ticket_id": 1559,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "WBn2Wud86bIA",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T14:20:31",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5294-en-The_Exploration_and_Exploitation_of_an_SD_Memory_Card_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/WBn2Wud86bIA/"
-        }
+        "amara": []
     },
     "5192": {
         "fahrplan_datetime": null,
@@ -3616,24 +2217,7 @@
         "filename": "30c3-5192-en-Android_DDI",
         "ticket_id": 1560,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "E6HP2r8oo8yT",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:26",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5192-en-Android_DDI_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/E6HP2r8oo8yT/"
-        }
+        "amara": []
     },
     "5279": {
         "fahrplan_datetime": null,
@@ -3646,24 +2230,7 @@
         "filename": "30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation",
         "ticket_id": 1561,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "eSmrG45AB7mJ",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T14:23:09",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5279-en-de-Even_More_Tamagotchis_Were_Harmed_in_the_Making_of_this_Presentation_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/eSmrG45AB7mJ/"
-        }
+        "amara": []
     },
     "5499": {
         "fahrplan_datetime": null,
@@ -3676,24 +2243,7 @@
         "filename": "30c3-5499-en-X_Security",
         "ticket_id": 1562,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "zQYOBTxLwAkw",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:07",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5499-en-X_Security_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/zQYOBTxLwAkw/"
-        }
+        "amara": []
     },
     "5295": {
         "fahrplan_datetime": null,
@@ -3706,24 +2256,7 @@
         "filename": "30c3-5295-en-The_Four_Wars",
         "ticket_id": 1563,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "i0fwhOq5pZZB",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:37",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5295-en-The_Four_Wars_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/i0fwhOq5pZZB/"
-        }
+        "amara": []
     },
     "5545": {
         "fahrplan_datetime": null,
@@ -3736,24 +2269,7 @@
         "filename": "30c3-5545-en-Trezor_Bitcoin_hardware_wallet",
         "ticket_id": 1564,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "BFKTCvZCzGFZ",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-03T10:30:55",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5545-en-Trezor_Bitcoin_hardware_wallet_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/BFKTCvZCzGFZ/"
-        }
+        "amara": []
     },
     "5397": {
         "fahrplan_datetime": null,
@@ -3796,24 +2312,7 @@
         "filename": "30c3-5304-en-CounterStrike",
         "ticket_id": 1566,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "apAPEtjBdnSj",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T14:20:33",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5304-en-CounterStrike_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/apAPEtjBdnSj/"
-        }
+        "amara": []
     },
     "5490": {
         "fahrplan_datetime": null,
@@ -3856,24 +2355,7 @@
         "filename": "30c3-5593-en-Hacking_the_Czech_Parliament_via_SMS",
         "ticket_id": 1618,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "OllWZNHjdn82",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:31",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5593-en-Hacking_the_Czech_Parliament_via_SMS_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/OllWZNHjdn82/"
-        }
+        "amara": []
     },
     "5600": {
         "fahrplan_datetime": null,
@@ -3886,24 +2368,7 @@
         "filename": "30c3-5600-en-Thwarting_the_Evil_Maid_Attacks",
         "ticket_id": 1619,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "VhjD6PdVI7r8",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T14:17:38",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5600-en-Thwarting_the_Evil_Maid_Attacks_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/VhjD6PdVI7r8/"
-        }
+        "amara": []
     },
     "5255": {
         "fahrplan_datetime": null,
@@ -3916,24 +2381,7 @@
         "filename": "30c3-5255-en-de-Through_a_PRISM_Darkly",
         "ticket_id": 1620,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "CKdWU3qm13d7",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:14",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5255-en-de-Through_a_PRISM_Darkly_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/CKdWU3qm13d7/"
-        }
+        "amara": []
     },
     "5623": {
         "fahrplan_datetime": null,
@@ -3976,24 +2424,7 @@
         "filename": "30c3-5413-de-Security_Nightmares",
         "ticket_id": 1622,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "tcnyb7cNwcfY",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:47",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5413-de-Security_Nightmares_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/tcnyb7cNwcfY/"
-        }
+        "amara": []
     },
     "5606": {
         "fahrplan_datetime": null,
@@ -4006,24 +2437,7 @@
         "filename": "30c3-5606-de-en-Closing_Event",
         "ticket_id": 1623,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "xmjBChWQkEPV",
-            "primary_audio_language_code": "tlh",
-            "original_language": "tlh",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T15:30:59",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5606-de-en-Closing_Event_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/xmjBChWQkEPV/"
-        }
+        "amara": []
     },
     "5439": {
         "fahrplan_datetime": null,
@@ -4036,23 +2450,6 @@
         "filename": "30c3-5439-en-To_Protect_And_Infect",
         "ticket_id": 1624,
         "wiki_status": "unknown",
-        "amara": {
-            "id": "hDjq9VBpCDoC",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-12T12:18:53",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5439-en-To_Protect_And_Infect_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/hDjq9VBpCDoC/"
-        }
+        "amara": []
     }
 }
