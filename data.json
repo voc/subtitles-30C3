@@ -3886,7 +3886,24 @@
         "filename": "30c3-5600-en-Thwarting_the_Evil_Maid_Attacks",
         "ticket_id": 1619,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "id": "VhjD6PdVI7r8",
+            "primary_audio_language_code": "de",
+            "original_language": "de",
+            "title": "",
+            "description": "",
+            "duration": null,
+            "thumbnail": "",
+            "created": "2014-01-02T14:17:38",
+            "team": null,
+            "project": null,
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5600-en-Thwarting_the_Evil_Maid_Attacks_h264-iprod.mp4"
+            ],
+            "metadata": [],
+            "languages": [],
+            "resource_uri": "http://amara.org/api/videos/VhjD6PdVI7r8/"
+        }
     },
     "5255": {
         "fahrplan_datetime": null,
