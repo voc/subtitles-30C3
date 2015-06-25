@@ -970,24 +970,7 @@
         "filename": "30c3-5509-de-en-IFGINT",
         "ticket_id": 1272,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "vQfYvqTjIVIR",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:18",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5509-de-en-IFGINT_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/vQfYvqTjIVIR/"
-        }
+        "amara": false
     },
     "5311": {
         "fahrplan_datetime": null,
@@ -1150,24 +1133,7 @@
         "filename": "30c3-5356-en-Firmware_Fat_Camp",
         "ticket_id": 1278,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "IM3aPAJD5A95",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:38:33",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5356-en-Firmware_Fat_Camp_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/IM3aPAJD5A95/"
-        }
+        "amara": false
     },
     "5468": {
         "fahrplan_datetime": null,
@@ -1360,24 +1326,7 @@
         "filename": "30c3-5566-en-Open_source_experimental_incubator_build_up",
         "ticket_id": 1327,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "jLC3Wee4iHYz",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:29",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5566-en-Open_source_experimental_incubator_build_up_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/jLC3Wee4iHYz/"
-        }
+        "amara": false
     },
     "5425": {
         "fahrplan_datetime": null,
@@ -1660,24 +1609,7 @@
         "filename": "30c3-5395-en-Towards_an_affordable_brain-computer-interface",
         "ticket_id": 1386,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "6e7D1YlwBSZO",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:21",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5395-en-Towards_an_affordable_brain-computer-interface_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/6e7D1YlwBSZO/"
-        }
+        "amara": false
     },
     "5433": {
         "fahrplan_datetime": null,
@@ -1840,24 +1772,7 @@
         "filename": "30c3-5289-en-Coding_your_body",
         "ticket_id": 1425,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "28NFxFutmSJC",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:13",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5289-en-Coding_your_body_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/28NFxFutmSJC/"
-        }
+        "amara": false
     },
     "5278": {
         "fahrplan_datetime": null,
@@ -2140,24 +2055,7 @@
         "filename": "30c3-5536-en-Long_Distance_Quantum_Communication",
         "ticket_id": 1266,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "ZWRbSoz3FqxU",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:50",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5536-en-Long_Distance_Quantum_Communication_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/ZWRbSoz3FqxU/"
-        }
+        "amara": false
     },
     "5613": {
         "fahrplan_datetime": null,
@@ -2350,24 +2248,7 @@
         "filename": "30c3-5185-en-FPGA_101",
         "ticket_id": 1314,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "eOoD9nRqjdue",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:27",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5185-en-FPGA_101_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/eOoD9nRqjdue/"
-        }
+        "amara": false
     },
     "5443": {
         "fahrplan_datetime": null,
@@ -2380,24 +2261,7 @@
         "filename": "30c3-5443-en-Introduction_to_Processor_Design",
         "ticket_id": 1315,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "HToaCNX9Dqxf",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:49",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5443-en-Introduction_to_Processor_Design_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/HToaCNX9Dqxf/"
-        }
+        "amara": false
     },
     "5210": {
         "fahrplan_datetime": null,
@@ -3010,24 +2874,7 @@
         "filename": "30c3-5634-en-07KINGSTON25_JAMAICA_MALARIA_UPDATE_Dispatches_from_Fort_Meade",
         "ticket_id": 1450,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "xqJqthAUWej0",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:01",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5634-en-07KINGSTON25_JAMAICA_MALARIA_UPDATE_Dispatches_from_Fort_Meade_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/xqJqthAUWej0/"
-        }
+        "amara": false
     },
     "5449": {
         "fahrplan_datetime": null,
@@ -3220,24 +3067,7 @@
         "filename": "30c3-5577-de-en-Hacker_Jeopardy",
         "ticket_id": 1457,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "RARxKTVqINRc",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:03",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5577-de-en-Hacker_Jeopardy_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/RARxKTVqINRc/"
-        }
+        "amara": false
     },
     "5214": {
         "fahrplan_datetime": null,
@@ -3526,24 +3356,7 @@
         "filename": "30c3-5587-en-Making_machines_that_make",
         "ticket_id": 1557,
         "wiki_status": "text in pad complete (en)",
-        "amara": {
-            "id": "dUXeyOx0rPbE",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:21",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5587-en-Making_machines_that_make_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/dUXeyOx0rPbE/"
-        }
+        "amara": false
     },
     "5406": {
         "fahrplan_datetime": null,
