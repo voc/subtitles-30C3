@@ -1900,7 +1900,24 @@
         "filename": "30c3-5539-en-Human_Rights_and_Technology",
         "ticket_id": 1427,
         "wiki_status": "text in pad (en)",
-        "amara": false
+        "amara": {
+            "id": "7qS3I3IwOOxQ",
+            "primary_audio_language_code": null,
+            "original_language": null,
+            "title": "",
+            "description": "",
+            "duration": null,
+            "thumbnail": "",
+            "created": "2014-01-02T13:35:04",
+            "team": null,
+            "project": null,
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5539-en-Human_Rights_and_Technology_h264-iprod.mp4"
+            ],
+            "metadata": [],
+            "languages": [],
+            "resource_uri": "http://amara.org/api/videos/7qS3I3IwOOxQ/"
+        }
     },
     "5609": {
         "fahrplan_datetime": null,
@@ -3083,7 +3100,24 @@
         "filename": "30c3-5622-en-de-30c3_Keynote",
         "ticket_id": 1453,
         "wiki_status": "complete (en)",
-        "amara": false
+        "amara": {
+            "id": "eBoWzGWkTn2Z",
+            "primary_audio_language_code": "en",
+            "original_language": "en",
+            "title": "30c3 Keynote",
+            "description": "by Glenn Greenwald",
+            "duration": null,
+            "thumbnail": "",
+            "created": "2014-01-02T13:35:37",
+            "team": null,
+            "project": null,
+            "all_urls": [
+                "http://subtitles.media.ccc.de/v/native/30c3-5622-en-de-30c3_Keynote_h264-iprod.mp4"
+            ],
+            "metadata": [],
+            "languages": [],
+            "resource_uri": "http://amara.org/api/videos/eBoWzGWkTn2Z/"
+        }
     },
     "5423": {
         "fahrplan_datetime": null,
