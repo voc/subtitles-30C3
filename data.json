@@ -880,24 +880,7 @@
         "filename": "30c3-5713-en-de-To_Protect_And_Infect_Part_2",
         "ticket_id": 3475,
         "wiki_status": "text at amara (en)",
-        "amara": {
-            "id": "96H1vDtnHQoW",
-            "primary_audio_language_code": "en",
-            "original_language": "en",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:05",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5713-en-de-To_Protect_And_Infect_Part_2_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/96H1vDtnHQoW/"
-        }
+        "amara": false
     },
     "5377": {
         "fahrplan_datetime": null,
@@ -940,24 +923,7 @@
         "filename": "30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution",
         "ticket_id": 1271,
         "wiki_status": "text in pad (de)",
-        "amara": {
-            "id": "qiHBDq7IqHII",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2013-12-29T21:30:15",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5224-en-Triggering_Deep_Vulnerabilities_Using_Symbolic_Execution_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/qiHBDq7IqHII/"
-        }
+        "amara": false
     },
     "5509": {
         "fahrplan_datetime": null,
@@ -1180,24 +1146,7 @@
         "filename": "30c3-5468-en-We_only_have_one_earth",
         "ticket_id": 1321,
         "wiki_status": "\u2717 (en)",
-        "amara": {
-            "id": "poVmHIUTysHN",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:39:21",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5468-en-We_only_have_one_earth_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/poVmHIUTysHN/"
-        }
+        "amara": false
     },
     "5417": {
         "fahrplan_datetime": null,
@@ -1420,24 +1369,7 @@
         "filename": "30c3-5416-en-de-Desperately_Seeking_Susy",
         "ticket_id": 1329,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "yDnCD9l7BLwD",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:37:35",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5416-en-de-Desperately_Seeking_Susy_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/yDnCD9l7BLwD/"
-        }
+        "amara": false
     },
     "5186": {
         "fahrplan_datetime": null,
@@ -1480,24 +1412,7 @@
         "filename": "30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts",
         "ticket_id": 1331,
         "wiki_status": "text in pad (en)",
-        "amara": {
-            "id": "2FKYeLpjdOeM",
-            "primary_audio_language_code": null,
-            "original_language": null,
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:35:12",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/2FKYeLpjdOeM/"
-        }
+        "amara": false
     },
     "5391": {
         "fahrplan_datetime": null,
@@ -3826,24 +3741,7 @@
         "filename": "30c3-5490-de-Fnord_News_Show",
         "ticket_id": 1567,
         "wiki_status": "text in pad complete, needs spell checking (de)",
-        "amara": {
-            "id": "z27dzyopUuBx",
-            "primary_audio_language_code": "de",
-            "original_language": "de",
-            "title": "",
-            "description": "",
-            "duration": null,
-            "thumbnail": "",
-            "created": "2014-01-02T13:34:55",
-            "team": null,
-            "project": null,
-            "all_urls": [
-                "http://subtitles.media.ccc.de/v/native/30c3-5490-de-Fnord_News_Show_h264-iprod.mp4"
-            ],
-            "metadata": [],
-            "languages": [],
-            "resource_uri": "http://amara.org/api/videos/z27dzyopUuBx/"
-        }
+        "amara": false
     },
     "5593": {
         "fahrplan_datetime": null,
